@@ -4,7 +4,7 @@ Version: 0.0.1
 Section: Tweaks
 Maintainer: Luki
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/HeliosUI.deb
+Filename: ./debians/me.luki.HeliosUI.deb
 Size: 656004
 MD5sum: 609c2e698409ddc85a0674d12354ad6d
 SHA1: 0afa923f70fb577ba75b3349c03c5b6f7fdd210b
