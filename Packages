@@ -5,15 +5,15 @@ Section: Tweaks
 Maintainer: Luki
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/HeliosUI.deb
-Size: 656010
-MD5sum: fab22d52bea9cbcaf8ce30621a4d1e99
-SHA1: cb437fb75752dca1b95b911a532318c87f583e59
-SHA256: b231f161f976cbfce5b4221efa9f4b39b1682f1fbc50e77fb0245c0e551228fb
-SHA512: d004b6b3f9a42c258926104c2f26f413a7025bce03d24d076f92626442cfc2c9e351abdd525478e705cf40b1cb36d08113bb9e6f4af38fcc3cb6ed4f460b757e
+Size: 656004
+MD5sum: 609c2e698409ddc85a0674d12354ad6d
+SHA1: 0afa923f70fb577ba75b3349c03c5b6f7fdd210b
+SHA256: c0c62bc35ac8470a77b44ba8f634594536dcebe502e2edab434dc901b1ede213
+SHA512: 88f49ccb74d8108904e36bd34079958e33d8d1e4f94bc45ab763f15a7561ebe2812b8bcb9c4f126c473ce7c299baaf3ff9b41991d477adc595a2530e26589b23
 Description: Eye pleasing UI theme.
 Name: HeliosUI
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.HeliosUI
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.HeliosUI/depiction.json
-Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
+Icon: https://raw.githubusercontent.com/Luki120/PerfectSpotify/main/spotiprefs/Resources/MeredithPogIcon.png
 
