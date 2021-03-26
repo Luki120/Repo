@@ -4,16 +4,16 @@ Version: 0.0.1
 Section: Tweaks
 Maintainer: Luki
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/me.luki.HeliosUI_0.0.1_iphoneos-arm.deb
-Size: 656020
-MD5sum: 00538a86d6cc9e92edcbf791a67102c6
-SHA1: a42f379417518fcdbdb7f2acb77f15a77bec67d5
-SHA256: 19fde489f19deb33356f9f898fc416d4e4281e88389f20a9da46142e77ebb444
-SHA512: 5b70ced2e618fc5c4f7d9da095cb69026725252c784f1635682ac6f607967bf3fca76fb3517e73dc02ae48c44c7b0d846592de50f2981f6081dd51926abdc061
+Filename: ./debians/HeliosUI.deb
+Size: 656010
+MD5sum: fab22d52bea9cbcaf8ce30621a4d1e99
+SHA1: cb437fb75752dca1b95b911a532318c87f583e59
+SHA256: b231f161f976cbfce5b4221efa9f4b39b1682f1fbc50e77fb0245c0e551228fb
+SHA512: d004b6b3f9a42c258926104c2f26f413a7025bce03d24d076f92626442cfc2c9e351abdd525478e705cf40b1cb36d08113bb9e6f4af38fcc3cb6ed4f460b757e
 Description: Eye pleasing UI theme.
 Name: HeliosUI
 Author: Luki
-Depiction: https://luki120.github.io/repo/depictions/web/?p=me.luki.HeliosUI
-SileoDepiction: https://arya1106.github.io/repo/depictions/native/me.luki.HeliosUI/depiction.json
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.HeliosUI
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.HeliosUI/depiction.json
 Icon: https://user-images.githubusercontent.com/62923164/106336362-b8b03100-625c-11eb-88e0-d6896fed6ab8.png
 
