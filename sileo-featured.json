@@ -5,8 +5,8 @@
   "banners": [
     {
         "url": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
-        "title": "Sample Package",
-        "package": "me.syns.samplepackage",
+        "title": "Heal UI",
+        "package": "me.luki.HealUI",
         "hideShadow": false
     }
   ]
