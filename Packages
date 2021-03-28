@@ -1,19 +1,19 @@
-Package: me.luki.HeliosUI
+Package: me.luki.HealUI
 Architecture: iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
 Maintainer: Luki
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/me.luki.HeliosUI_0.0.1.deb
-Size: 656004
-MD5sum: 609c2e698409ddc85a0674d12354ad6d
-SHA1: 0afa923f70fb577ba75b3349c03c5b6f7fdd210b
-SHA256: c0c62bc35ac8470a77b44ba8f634594536dcebe502e2edab434dc901b1ede213
-SHA512: 88f49ccb74d8108904e36bd34079958e33d8d1e4f94bc45ab763f15a7561ebe2812b8bcb9c4f126c473ce7c299baaf3ff9b41991d477adc595a2530e26589b23
+Filename: ./debians/HealUI.deb
+Size: 655868
+MD5sum: a9f031fc212e44d32188028ce88e883d
+SHA1: 0f1b72004744391f56183c83a0b42a4e36c03d8d
+SHA256: da1b8dca1d34913537fbfb70a94068a553c490faa05e4e539a336b742a1c54eb
+SHA512: 7064829dc89cc1f5c735a885193beb8f62e9c181b7a9a603900366c729a4d1ff531db164e1e502bb2fe7222178940422ea2660832b8b87ee87622047b99f2af7
 Description: Eye pleasing UI theme.
-Name: HeliosUI
+Name: Heal UI
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.HeliosUI
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.HeliosUI/depiction.json
-Icon: https://raw.githubusercontent.com/Luki120/PerfectSpotify/main/spotiprefs/Resources/MeredithPogIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.HealUI
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.HealUI/depiction.json
+Icon: https://raw.githubusercontent.com/Luki120/PerfectSpotify/main/spotiprefs/Resources/PogIcon.png
 
