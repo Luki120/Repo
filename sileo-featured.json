@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
+        "url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/Gradient.jpg",
         "title": "Heal UI",
         "package": "me.luki.HealUI",
         "hideShadow": false
