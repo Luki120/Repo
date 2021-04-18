@@ -1,15 +1,15 @@
 Package: me.luki.HealUI
 Architecture: iphoneos-arm
-Version: 0.0.3
+Version: 0.0.4
 Section: Tweaks
 Maintainer: Luki
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/HealUI.deb
-Size: 560156
-MD5sum: a19c9139f26abd19b8c32d06f394232b
-SHA1: 7e58f1b449932776b7fe196aa89a8fe11fbd3c87
-SHA256: 5938d173def78425e02d4352967bafb68c79ec7bd01b1ba15bdded299edf984d
-SHA512: 9c37247bbde072ecedc5dd5e2e45adb517eac1a4b05a5e43191b7c8bf5baa9cb035c1e3b93232685a9f69f0ce76875fbc04c20d9ce09f77417ba85b1f6a4c1cf
+Size: 575624
+MD5sum: a8334f87ec988b94d5546aed2503128e
+SHA1: dd57ac4a987c14526d07d632c33cbe5a4e4e6104
+SHA256: e4d07cdf5b7e0b099b9416d91fb1f07d47b5f78be107938428f8709697d86484
+SHA512: 809c42a8deb7d4bca7868c16832201a86eb11e5f4272cd23d8f13747cdab533706b7aba11d7501d9768a5586dc81d2fdf8a61e7c740a34dedd805d88a1a2cfcd
 Description: Eye pleasing UI theme.
 Name: Heal UI
 Author: Luki
