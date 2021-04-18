@@ -17,3 +17,20 @@ Depiction: https://luki120.github.io/depictions/web/?p=me.luki.HealUI
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.HealUI/depiction.json
 Icon: https://raw.githubusercontent.com/Luki120/PerfectSpotify/main/spotiprefs/Resources/PogIcon.png
 
+Package: me.luki.amanda
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.amanda_1.0_iphoneos-arm.deb
+Size: 4480
+MD5sum: 1e55f1f0927270a05691c0efb449df71
+SHA1: 5a906caec354346bc43782651c8349a05c496b73
+SHA256: 22b80cb0a48aa270000eb6dee2dc99b876e0946aa0f94f74c446397ff21a9043
+SHA512: 5db3e6a3f8b64d8113c093508353123bf6262f18d3f80fe43439dc1a01aab54075c8b83b28a408590be49909bb105f3284a93e058955b7f16601690d9121748f
+Description: :O
+Name: Amanda
+Author: Luki
+
