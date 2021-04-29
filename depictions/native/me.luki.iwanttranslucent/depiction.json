@@ -41,7 +41,7 @@
 						"useBoldText": true,
 						"class": "DepictionMarkdownView",
 						"title": "markdown-description",
-						"markdown": "Replace the ugly effects on the 3D Touch context menu for a clean translucent one. Requested by Vic in Litcord.",
+						"markdown": "Replace the ugly visualEffects on the 3D Touch context menu for a clean translucent one. Requested by Vic in Litcord.",
 						"useBottomMargin": false
 					},
 					{
