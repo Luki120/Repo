@@ -29,7 +29,11 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Screenshot0",
-								"url": "https://i.imgur.com/P2WvyeC.jpg"
+								"url": "https://i.imgur.com/YaqicpK.jpg"
+							},
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/YciFgXG.jpg"
 							}
 						]
 					},
@@ -44,12 +48,12 @@
 						"class": "DepictionSeparatorView"
 					},
 					{
-						"text": "1.0",
+						"text": "1.1",
 						"title": "Version",
 						"class": "DepictionTableTextView"
 					},
 					{
-						"text": "04-28-2021",
+						"text": "04-29-2021",
 						"title": "Released",
 						"class": "DepictionTableTextView"
 					},

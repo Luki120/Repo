@@ -18,17 +18,17 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amanda/depic
 
 Package: me.luki.iwanttranslucent
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 1.1
 Section: Tweaks
 Maintainer: Luki
 Installed-Size: 152
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.iwanttranslucent_1.0_iphoneos-arm.deb
-Size: 3048
-MD5sum: 548154218166d7ac344bbf860eba9ad6
-SHA1: 81d86c9b85c1fa70f383330244a4808a40d2cdee
-SHA256: d8d08b95420354af5aead60f83fd5e301a3407032de5c7a5a99895ec1939f121
-SHA512: 94f4b2cc8fa0b8b101e8c93d9a5bc81ac1e047fd63590ad911c6678b0ade78a02be2a5b2ffab594f963aba5aafd4a6e5aa350fac507f95361e82e848ad1c48e0
+Filename: ./debians/me.luki.iwanttranslucent_1.1_iphoneos-arm.deb
+Size: 3084
+MD5sum: 1599dbf1bc003984ce24078f39a16e3c
+SHA1: d2fa41c607ec0097113b5b12bb78443a32296f97
+SHA256: 1306afec2475d190485fd816760035efc2f4b12634850c8b7b8718c11257c28d
+SHA512: b2a0345f96706a58a7e7e2026089bfaa333f04888c4bf4706331dc07af7708faf3fb4ba36d2e027082f3a002b3e2da24d983eb9d878d251da71332759512acfe
 Description: An awesome MobileSubstrate tweak indeed
 Name: IWantTranslucent
 Author: Luki
