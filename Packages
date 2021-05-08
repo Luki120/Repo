@@ -16,6 +16,24 @@ Name: Amanda
 Author: Luki
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amanda/depiction.json
 
+Package: me.luki.ffckthatanimation
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.ffckthatanimation_1.0_iphoneos-arm.deb
+Size: 2958
+MD5sum: f64f09b1c2a74d22c80fc4cc582c14d9
+SHA1: 8002609403e7a7ad6826f0ba3e9bde6dd1e3a1c0
+SHA256: 036d2da4bd76672fe23ca553f9beee29a0b63dd10b9815889f2dde54b7cb166b
+SHA512: a2d5ce60b3098abc552f70c2e24f4b21a2a655ecadeb45f4ba535fc4febe28b8bb50344c397b0523bc674234254c8866b8ad1c8fd94ea837539cd6c84aaaac32
+Description: Another yet awesome mobile substrate tweak to the list
+Name: FfckThatAnimation
+Author: Luki
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.ffckthatanimation/depiction.json
+
 Package: me.luki.iwanttranslucent
 Architecture: iphoneos-arm
 Version: 1.1
