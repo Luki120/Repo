@@ -6,14 +6,15 @@ Maintainer: Luki
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.amanda_1.0_iphoneos-arm.deb
-Size: 4562
-MD5sum: c6877a5f1899f24ca302f47806566e5a
-SHA1: 4bf3cdee5bf2cd584a915f7b94fe2ac0fb29ba2e
-SHA256: 0a37861d5fb6b42b5fdb3819cbdd06d98d526a92e61f4218abe8a40ddbcbeaee
-SHA512: a4135c04ad01ac3f37d87a4c029d7b53cefc299c35e96dd13b44510afa743cef644af5cb6f11ffa5ca9ec2c1c3c5d864d3352cb8975c6e363972ca66f6a393ee
-Description: Make badges purpleish when DND is enabled.
+Size: 4684
+MD5sum: 36544108cba119746e50998dbcd79ebe
+SHA1: 90022b12614924ee7e673f3f372406ddf3ed163c
+SHA256: 84579d6fd6bd9b7b59d0c40815ce325e217e4c59c218787c362aaedcb5c14f03
+SHA512: 784300d9d85a7daf51756250c7158f1c975589105c34c7dc313687b849297fe372242cf051812d00cc8110da05b41a3986ebf5dd6026886b0ab103a80ef3409f
+Description: Make badges Indigo color when DND is enabled.
 Name: Amanda
 Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amanda/Amanda.png
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amanda/depiction.json
 
 Package: me.luki.ffckthatanimation
@@ -24,14 +25,15 @@ Maintainer: Luki
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.ffckthatanimation_1.0_iphoneos-arm.deb
-Size: 2958
-MD5sum: f64f09b1c2a74d22c80fc4cc582c14d9
-SHA1: 8002609403e7a7ad6826f0ba3e9bde6dd1e3a1c0
-SHA256: 036d2da4bd76672fe23ca553f9beee29a0b63dd10b9815889f2dde54b7cb166b
-SHA512: a2d5ce60b3098abc552f70c2e24f4b21a2a655ecadeb45f4ba535fc4febe28b8bb50344c397b0523bc674234254c8866b8ad1c8fd94ea837539cd6c84aaaac32
+Size: 3000
+MD5sum: 5a435cd1068afe354ffcaf390b3fa600
+SHA1: bb811277debad41cd7c35fe360a7ee2a8f05d7ed
+SHA256: 4ff4f596f73a7a6d5b2b9151234ed85096abd4907b87f8a3666b32bba1944c17
+SHA512: 3788daa1ecc2f228b3e7c89d876f61141c0ccb382c3c1413c42c398f2da444d7ae6b7e5aac8585d7ad207ec9e0e354981095d560c711f3522d0ae0d0e90882ee
 Description: Another yet awesome mobile substrate tweak to the list
 Name: FfckThatAnimation
 Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/FfckThatAnimation/FTA.png
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.ffckthatanimation/depiction.json
 
 Package: me.luki.iwanttranslucent
@@ -42,11 +44,11 @@ Maintainer: Luki
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.iwanttranslucent_1.1_iphoneos-arm.deb
-Size: 3130
-MD5sum: 821a032dc7e4b65cd18ec9d10b64cec4
-SHA1: 0e0d17c1ee41f82d72788683cc879c2136e566c8
-SHA256: 0b09334cfb1b411427923d614548d6802634f4c952178b4d9c53d697f7c0486a
-SHA512: 53859d321c74cee45eac375092feaf3ca93b858d10e559cc66acc6c2b1bc0466a1b5212155e32038f696852a865bd5ae2ab854777c1fecfd5a358bf8775a6f93
+Size: 3134
+MD5sum: 3386afe451aa0924acbcdf64c6809bd4
+SHA1: a52b9312a00473a4e3cd9df125814c83b27a2705
+SHA256: 352cd022e13a13b0762f3cfe33938055a58c6673171a5bf937b2c08137c7eee8
+SHA512: a5ed1133cb486046171642032c052d51bfcb7a9aee8555d785dd2a610de01936ee19e33227ad42a32b30d8ea62739816adfffccb804417203128a65d6ddf279c
 Description: An awesome MobileSubstrate tweak indeed
 Name: IWantTranslucent
 Author: Luki
