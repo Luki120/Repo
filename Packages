@@ -63,14 +63,15 @@ Maintainer: Luki
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.stealthcc_1.0_iphoneos-arm.deb
-Size: 3116
-MD5sum: 8c05f95b0a19dd17201098ab0eb27d14
-SHA1: 91d0677d1d2b6f0cd489786df4bb19aa76993aa4
-SHA256: 2860d94fa9baf2138d0e5f701218817752d377e913e38b873913f32f86f77fe2
-SHA512: d2dcca3914698d3d26c7fe765b7fefc020e37704cd6ad1ae6171c2ff618c1a812e3b17f2571488a90acec18251090646adb39d5520d5a2abfce30e99f4c29677
+Size: 3164
+MD5sum: cd1e1432b3a0be24a5ad598b10a75e8e
+SHA1: f37939bb2aa9755a336544e75a69b66b30ffd432
+SHA256: 9a51b3235666574d3b00c336ac4d1cae551ebfb982261991ea8034371e8d4e95
+SHA512: 7b6c8273ff86abe526347794dc4a5b104ced702b3610c79e75785377f3e3dd5b016ccbfcf50efea0f80fc296701189f4e30c7f4e753f8828216db4a7ae9a4130
 Description: Another? Yes! Another awesome mobile substrate tweak to the list
 Name: StealthCC
 Author: Luki
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
 
 Package: me.luki.stealthcc
 Architecture: iphoneos-arm
@@ -80,12 +81,13 @@ Maintainer: Luki
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.stealthcc_2.0_iphoneos-arm.deb
-Size: 3118
-MD5sum: d20dc6a8513c536fa85136c4d5fa92a5
-SHA1: 19f291e4e5d8dd1c60856eec4e8b0a104b2ef9c0
-SHA256: fd7c5eb41f91a01c0b5d9ff1ea7f01a8b7e457c6e4590a751202bee62f921110
-SHA512: babc7b7f41af1dc57ba58bf8060a056a8e35da6b75c788dd6a53df5c31b2f1de5e8f028fda9457328e399365e71b48b2e6f74eaf8110f20038c113dd59b4d84b
+Size: 3162
+MD5sum: 3d55a0b78e2fb29e670f6e5643d0c53f
+SHA1: 019604ccef636b6a16cfc34f5d92b5841405108a
+SHA256: 099612a8f60c0ee9c919d87a4a5268519336ae79406eacc0bcb46b21a435c510
+SHA512: 2a280c06b3ce24ded389730f0461b1df7e07a77d793da8145a5813b6f296745c9c8ef8cb22a210291b3b101bf8070dc3c6a5e7ea9ba3057b42970122971e90a4
 Description: Another? Yes! Another awesome mobile substrate tweak to the list
 Name: StealthCC
 Author: Luki
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
 
