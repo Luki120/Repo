@@ -42,7 +42,7 @@
 						"useBoldText": true,
 						"class": "DepictionMarkdownView",
 						"title": "markdown-description",
-						"markdown": "Get rid of the blur of the CC with a custom alpha of 0.10f and make it almost transparent. Tweak requested by Stealth on Litcord (:  \n* Original tweak idea from NoBlurCC by @EthanWhited (nahtedetihw).",
+						"markdown": "Get rid of the CC blur with a custom alpha of 0.10f and make it almost transparent. Tweak requested by Stealth on Litcord (:  \n* Original tweak idea from NoBlurCC by @EthanWhited (nahtedetihw).",
 						"useBottomMargin": false
 					},
 					{
