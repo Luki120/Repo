@@ -1,7 +1,7 @@
 {
 	
 		"minVersion": "0.1",
-		"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWTGradient.png",
+		"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amanda/AmandaGradient.png",
 		"tintColor": "#92b8c9",
 		"tabs": [
 			{
@@ -10,11 +10,11 @@
 					{
 						"useBoldText": true,
 						"class": "DepictionSubheaderView",
-						"title": "IWantTranslucent",
+						"title": "StealthCC",
 						"useBottomMargin": false
 					},
 					{
-						"markdown": ";)",
+						"markdown": "",
 						"useSpacing": true,
 						"class": "DepictionMarkdownView"
 					},
@@ -29,31 +29,32 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Screenshot0",
-								"url": "https://i.imgur.com/9yKqP1n.jpg"
+								"url": ""
 							},
 							{
 								"accessibilityText": "Screenshot0",
-								"url": "https://i.imgur.com/joc4HBi.jpeg"
+								"url": ""
 							}
+
 						]
 					},
 					{
 						"useBoldText": true,
 						"class": "DepictionMarkdownView",
 						"title": "markdown-description",
-						"markdown": "Replace the ugly effects on the 3D Touch context menu for a clean translucent one. Requested by Vic in Litcord and made gratefully and with passion. \n* Original tweak idea by @iCrazeiOS, updated for iOS 14 by @Lukii120. \n* Pretty handcrafted icon by @BenOwl3.",
+						"markdown": "Get rid of the blur of the CC with a custom alpha of 0.10f and make it almost transparent. Tweak requested by Stealth on Litcord (:  \n* Original tweak idea from NoBlurCC by @EthanWhited (nahtedetihw).",
 						"useBottomMargin": false
 					},
 					{
 						"class": "DepictionSeparatorView"
 					},
 					{
-						"text": "1.1",
+						"text": "1.0",
 						"title": "Version",
 						"class": "DepictionTableTextView"
 					},
 					{
-						"text": "04-29-2021",
+						"text": "05-14-2021",
 						"title": "Released",
 						"class": "DepictionTableTextView"
 					},
