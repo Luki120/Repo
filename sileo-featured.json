@@ -8,6 +8,21 @@
         "title": "Amanda",
         "package": "me.luki.amanda",
         "hideShadow": false
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/FfckThatAnimation/FTAGradient.png",
+      "title": "FfckThatAnimation",
+      "package": "me.luki.ffckthatanimation",
+      "hideShadow": false
+    },
+
+    {
+      "url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWTGradient.png",
+      "title": "IWantTranslucent",
+      "package": "me.luki.iwanttranslucent",
+      "hideShadow": false
     }
+
   ]
 }
