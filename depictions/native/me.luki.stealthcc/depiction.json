@@ -2,7 +2,7 @@
 	
 		"minVersion": "0.1",
 		"headerImage": "",
-		"tintColor": "#92b8c9",
+		"tintColor": "#9bd1e1",
 		"tabs": [
 			{
 				"class": "DepictionStackView",
@@ -29,11 +29,11 @@
 						"screenshots": [
 							{
 								"accessibilityText": "Screenshot0",
-								"url": ""
+								"url": "https://i.imgur.com/9biCyBc.png"
 							},
 							{
 								"accessibilityText": "Screenshot0",
-								"url": ""
+								"url": "https://i.imgur.com/NDuxOrv.png"
 							}
 
 						]
