@@ -14,7 +14,7 @@
 						"useBottomMargin": false
 					},
 					{
-						"markdown": ";)",
+						"markdown": "",
 						"useSpacing": true,
 						"class": "DepictionMarkdownView"
 					},
