@@ -1,3 +1,21 @@
+Package: me.nightwind.janneske.onesettingstheme
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Nightwind & Janneske
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/OneSettings.deb
+Size: 169324
+MD5sum: 2b1f2263181c68a2eb23d7bb93efaef5
+SHA1: 261c4bb7f0663152bea082feb8c26df74db5a4a6
+SHA256: 09e8f2c66b624d08f9f12edc7ee1c7e19b5427924a3e00d5539b8e4b3d7c4e55
+SHA512: 75b1696f2e65dd0825e2b86be3b49dcaf0941edc213efffe2306310c042d4602a3af231b56392a6f2a118808738ea9c093e5abd814b17db6445d444fd08bd7c7
+Description: UI settings theme extension for OneSettings tweak.
+Name: OneSettingsUI
+Author: Nightwind & Janneske
+SileoDepiction: https://luki120.github.io/depictions/native/me.nightwind.janneske.onesettingstheme/depiction.json
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/OneSettings/Icon.png
+
 Package: me.luki.amanda
 Architecture: iphoneos-arm
 Version: 1.0
