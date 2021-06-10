@@ -26,15 +26,15 @@ Maintainer: Luki
 Installed-Size: 740
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debians/me.luki.amelija_1.0_iphoneos-arm.deb
-Size: 381146
-MD5sum: 9fe9fa0a60435c3108dc03ad1a68c1ae
-SHA1: 1f292380087a87fea55e858734a316a094901bce
-SHA256: 9a506cca6a24e4e80565dc0daaa773225f7b551480839524b52dec3f5da1422b
-SHA512: c0b45e98a7ca93ea9d92b18cff7deb0816d07ae86301412bc8e305d0999f281349ad2762cdb1fdf208557cac2bf05025eb79d7009189c62474f641c48d5134a1
+Size: 380998
+MD5sum: 0f23c4dd158daaa8fc09f552e798539e
+SHA1: 3a40ecdd5cf209832ad5517ce4dcda917df52e7d
+SHA256: 2d710efd762fe68fe960441528dcdcfa8180a8f05da4ca335047dbe7924024ed
+SHA512: 7e8eb49e5e831634ddf7f63c10333bee53ede45967bf73cd21813796bee33a2a5e7247b6d9b1c4f98defe8503b56e22b332a856638d64e0e099a73dbf94dad35
 Description: Take full control of your wallpapers
 Name: Amēlija
 Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amēlija/Amēlija.png
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amelija/Amelija.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.amelija
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amelija/depiction.json
 
