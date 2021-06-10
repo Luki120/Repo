@@ -1,0 +1,34 @@
+<package>
+	<id>me.luki.stealthcc</id>
+	<name>StealthCC</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+	</dependencies>
+	<shortDescription>Control the intensity of the CC blur</shortDescription>
+	<descriptionlist>
+		<description>Control the intensity of the CC blur on the fly with StealthCC, no need for respring (:</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>StealthCC.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

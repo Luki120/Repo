@@ -1,0 +1,37 @@
+<package>
+	<id>me.luki.amanda</id>
+	<name>Amanda</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Make your badges purpleish color when DND is enabled.</shortDescription>
+	<descriptionlist>
+		<description>Amanda makes your badges purpleish color when DND is enabled. Notice: this was made as a learning experience, if you find bugs I'd recommend using DNDBadges by Ichitaso.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>AmandaRed.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>AmandaIndigo.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

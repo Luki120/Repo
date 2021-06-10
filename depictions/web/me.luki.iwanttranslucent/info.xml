@@ -1,0 +1,37 @@
+<package>
+	<id>me.luki.iwanttranslucent</id>
+	<name>Amanda</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Hide the ugly effects present on the 3D touch context menu and replace them for a clean translucent look.</shortDescription>
+	<descriptionlist>
+		<description>Hide the ugly effects present on the 3D touch context menu and replace them for a clean translucent look.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>IWT.jpeg</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>IWT2.jpeg</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Alpha increased to 0.60.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
