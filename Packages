@@ -6,16 +6,16 @@ Maintainer: Luki
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.amanda_1.0_iphoneos-arm.deb
-Size: 4710
-MD5sum: 01dedfa2dfdcd87aaffedc020c196742
-SHA1: 2dd4440bcf14bc5c2418add615624e65f69cb898
-SHA256: 817c3f1cbebfaccce602046d9ec3622ede3605fad742c6d4ad229476cae71a0e
-SHA512: 842a0730c896c56673c3cae08e0b00e6ea1087cdeeadc13a1ff33d76fe62d8589087c8832cf5ba29f2784c0e72b6b65276872e6cf7621542b5ef92ddb42f7f3a
+Size: 4686
+MD5sum: 29b62573fe6c4f6bdbf2845d6b62f1d8
+SHA1: 383fda156cd3a0e4a28be998284d4643d4298a6f
+SHA256: 11ad60d3f81bca2bf0d31f47306ac9245e37d6e969d8e9cf50d849ccb8ceccb5
+SHA512: 99b46a0594be59d3e0ccfbab0741ff35f6dcdfc3c46a054d8a49d847c9b8c76775961774e9d0c515f110bbf3a6bc7760fd66895ebf8dee97ff89bd82b1a30070
 Description: Make badges purpleish color when DND is enabled.
 Name: Amanda
 Author: Luki
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amanda/Amanda.png
-Depiction: https://arya1106.github.io/repo/depictions/web/?p=me.luki.amanda
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.amanda
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amanda/depiction.json
 
 Package: me.luki.ffckthatanimation
