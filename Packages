@@ -1,0 +1,98 @@
+Package: me.luki.amanda
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.amanda_1.0_iphoneos-arm.deb
+Size: 4686
+MD5sum: 29b62573fe6c4f6bdbf2845d6b62f1d8
+SHA1: 383fda156cd3a0e4a28be998284d4643d4298a6f
+SHA256: 11ad60d3f81bca2bf0d31f47306ac9245e37d6e969d8e9cf50d849ccb8ceccb5
+SHA512: 99b46a0594be59d3e0ccfbab0741ff35f6dcdfc3c46a054d8a49d847c9b8c76775961774e9d0c515f110bbf3a6bc7760fd66895ebf8dee97ff89bd82b1a30070
+Description: Make badges purpleish color when DND is enabled.
+Name: Amanda
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amanda/Amanda.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.amanda
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amanda/depiction.json
+
+Package: me.luki.ffckthatanimation
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.ffckthatanimation_1.0_iphoneos-arm.deb
+Size: 3018
+MD5sum: 47f6d2811e5b8e5f219271c0d712ccc3
+SHA1: 920baa67ad01c83075439a04faeece552bfbe226
+SHA256: 95c3c859673522691b02514590dff5bfdb2886669f45d329bc269594fcc64201
+SHA512: 70a1e06ad4e1b58101280710c0f695de5c8804055f90d7ea4e294a804534fa218899905abcf0649940cf4bd5e7b742e516e926459d09889aa685578c9c6a3711
+Description: Another yet awesome mobile substrate tweak to the list
+Name: FfckThatAnimation
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/FfckThatAnimation/FTA.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.ffckthatanimation
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.ffckthatanimation/depiction.json
+
+Package: me.luki.iwanttranslucent
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.iwanttranslucent_1.1_iphoneos-arm.deb
+Size: 3174
+MD5sum: 44805d690e8f84540b11d60ffb571047
+SHA1: 8cb550d8f579452ca2b15da96eaaafb2cdbbeed9
+SHA256: 96fafb875162f1d500165f0160665722551ab783aba83f75076f7787eabe18e0
+SHA512: 38754d57b76d40f35d6af1eed5e537f31458248768ae51f16d29f22f8a9b657c2f4c315cb556a449f815eaadd7cb1431d876c2068711f4e10dd0b2184aedbb42
+Description: An awesome MobileSubstrate tweak indeed
+Name: IWantTranslucent
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
+
+Package: me.luki.iwanttranslucent
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.iwanttranslucent_2.0_iphoneos-arm.deb
+Size: 3166
+MD5sum: 95bd859136343a19391c16f5c39dd54b
+SHA1: 07200790c2079afecbe5f946c854744f64da3f76
+SHA256: 38b060a77ca8551fe5e6e698973ee14e09ddc0119dd9adf071e8704ce58bf1d0
+SHA512: 87bf73438e7dc8088a6a72205427ff38d71b1bfd212067d589cf479f9c8948d78911c9cd9d22e1398ceb779a285102324207d11bb1b5c3d374cfd52c48e08cec
+Description: An awesome MobileSubstrate tweak indeed
+Name: IWantTranslucent
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
+
+Package: me.luki.stealthcc
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 312
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/me.luki.stealthcc_1.0_iphoneos-arm.deb
+Size: 9118
+MD5sum: fb2bdc5d3ef76aff59836521dace950e
+SHA1: e8a3b4e44b3128af70a4a9ec19de06ec54f07ccb
+SHA256: e4e8973b9b9df46f01548c55ed424384416ba3292afcf459e9414a1c9d60b10c
+SHA512: a9cc8a02f257734d438b2ae8b9fa5fb273146d56b39d566e4d663acf9d7239f201dd9f2ec8338ad3473103b591e80700f0aa21870517f3f8fa21fe1e5abb91cb
+Description: Another? Yes! Another awesome mobile substrate tweak to the list
+Name: StealthCC
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+
