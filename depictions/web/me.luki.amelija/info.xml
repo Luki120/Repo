@@ -1,6 +1,6 @@
 <package>
-	<id>me.luki.amanda</id>
-	<name>Amanda</name>
+	<id>me.luki.amelija</id>
+	<name>Amēlija</name>
 	<version>1.0</version>
 	<compatibility>
 		<firmware>
@@ -9,19 +9,21 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.mrgcgamer.libgcuniversal</package>
 	</dependencies>
-	<shortDescription>Make your badges purpleish color when DND is enabled.</shortDescription>
+	<shortDescription>Take full control of your wallpapers.</shortDescription>
 	<descriptionlist>
-		<description>Amanda makes your badges purpleish color when DND is enabled. Notice: this was made as a learning experience, if you find bugs I'd recommend using DNDBadges by Ichitaso.</description>
+		<description>Take full control of your wallpapers and blur them to your liking, LS and HS separately with 8 different styles to choose from! Changes apply on the fly, no need for respring (:</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>AmandaRed.png</image>
+			<image>Amēlija.png</image>
 		</screenshot>
 		<screenshot>
 			<description></description>
-			<image>AmandaIndigo.png</image>
+			<image>Amēlija2.png</image>
 		</screenshot>	
 	</screenshots>
 	<changelog>
