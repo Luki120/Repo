@@ -6,11 +6,11 @@ Maintainer: Luki
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.amanda_1.0_iphoneos-arm.deb
-Size: 4684
-MD5sum: 36544108cba119746e50998dbcd79ebe
-SHA1: 90022b12614924ee7e673f3f372406ddf3ed163c
-SHA256: 84579d6fd6bd9b7b59d0c40815ce325e217e4c59c218787c362aaedcb5c14f03
-SHA512: 784300d9d85a7daf51756250c7158f1c975589105c34c7dc313687b849297fe372242cf051812d00cc8110da05b41a3986ebf5dd6026886b0ab103a80ef3409f
+Size: 4678
+MD5sum: 4daa1ce64c331ffb8f7e74639d691f35
+SHA1: 81d5d22d3aa12274410dbff2bc5f31c255d36dee
+SHA256: 0a0fdd8b9512d6f6df3f3b9c10c6a854b9bcce4152770243b9379778d3611ca1
+SHA512: 1d21597573a876e5f917116376a8e03dbd7263631f1c6ed722c5236bb2bd318b46c07e04fbbdb0a0cbbae011cb49c6b6570184778fa8dc1117f6c726028436b5
 Description: Make badges Indigo color when DND is enabled.
 Name: Amanda
 Author: Luki
