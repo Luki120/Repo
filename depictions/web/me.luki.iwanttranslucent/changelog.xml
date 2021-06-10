@@ -1,5 +1,7 @@
 <changelog>
 	<changes>
+		<version>2.0</version>
+		<change>Alpha increased to 0.60</change>
 		<version>1.0</version>
 		<change>Initial Release</change>
 	</changes>
