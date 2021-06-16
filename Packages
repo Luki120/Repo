@@ -18,6 +18,26 @@ Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.amanda
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amanda/depiction.json
 
+Package: me.luki.amelija
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 740
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/me.luki.amelija_1.0_iphoneos-arm.deb
+Size: 380772
+MD5sum: f528a80da9526100c057229b15d560ff
+SHA1: 55a2ecd24640e083602c5f0fd4caa19282a20607
+SHA256: 476494046b2666a3d17bcdb0412afaa89423c85d4e374f813a1a9c8aaf3e5a12
+SHA512: 25160984374e1d02e23c7381a0b63d504f6b2c0f936ce1a223600855932884dfe9fa0ce66bc3e05df63f97deec4fd98ba39a1b6bc8fcb100b889b0f6ea14fcfc
+Description: Take full control of your wallpapers
+Name: Amēlija
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amelija/Amelija.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.amelija
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amelija/depiction.json
+
 Package: me.luki.ffckthatanimation
 Architecture: iphoneos-arm
 Version: 1.0
