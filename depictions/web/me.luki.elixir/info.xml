@@ -1,0 +1,33 @@
+<package>
+	<id>me.luki.elixir</id>
+	<name>Elixir</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Tweak count at a glimpse!.</shortDescription>
+	<descriptionlist>
+		<description>Tweak count right on your settings app! Compatible with Orion, Shuffle &amp; Tweak Settings</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>Elixir.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
