@@ -38,26 +38,6 @@ Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.amelija
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amelija/depiction.json
 
-Package: me.luki.elixir
-Architecture: iphoneos-arm
-Version: 1.0-128+debug
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debians/me.luki.elixir_1.0-128+debug_iphoneos-arm.deb
-Size: 9368
-MD5sum: c1f1ddf0119212b2d791b9eb2f92321c
-SHA1: 6372e034e0ffee70d4502ba03786cb78fc1f12e0
-SHA256: d2d0c0fdca219d56554481db743c4fa89c0e12c4f919ea29a89a43e7559fdb8c
-SHA512: 1ca26997d6bbe7a44f5a45361d09af505c90f85879f194fdb59e60428913b15e7fb2da895bea79dbb2eac43e9b08a2314a4ff2a3b4c4c2ae43ecd3054d64c46c
-Description: Tweak count at a glimpse!
-Name: Elixir
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Elixir/ElixirIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
-
 Package: me.luki.ffckthatanimation
 Architecture: iphoneos-arm
 Version: 1.0
