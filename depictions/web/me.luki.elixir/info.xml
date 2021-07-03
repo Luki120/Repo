@@ -12,7 +12,7 @@
 	</dependencies>
 	<shortDescription>Tweak count at a glimpse!.</shortDescription>
 	<descriptionlist>
-		<description>Tweak count right on your settings app! Compatible with Orion, Shuffle &amp; Tweak Settings</description>
+		<description>Tweak count right on your settings app! REQUIRES either Orion, Shuffle or the app TweakSettings. It's NOT compatible with normal settings without preference organizers, and probably never will idk. NOTE: it ONLY counts tweaks with preference bundles, hence why it's located in the settings app. I didn't feel like bloating up the code counting the total number of packages or making filters. This gives a concise and accurate count of the tweaks you have right there on the section you're standing. Pretty handcrafted icon by @jam_minty.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
