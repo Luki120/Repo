@@ -46,7 +46,7 @@
 						"useBoldText": true,
 						"class": "DepictionMarkdownView",
 						"title": "markdown-description",
-						"markdown": "Tweak count right on your settings app! REQUIRES either Orion, Shuffle or the app TweakSettings. It's NOT compatible with normal settings without preference organizers, and probably never will idk. \n*\n* NOTE: it ONLY counts tweaks with preference bundles, hence why it's located in the settings app. I didn't feel like bloating up the code counting the total number of packages or making filters. This gives a concise and accurate count of the tweaks you have right there on the section you're standing. \n*\n* Pretty handcrafted icon by @jam_minty.",
+						"markdown": "Tweak count right on your settings app! REQUIRES either Orion, Shuffle or the app TweakSettings. It's NOT compatible with normal settings without preference organizers, and probably never will idk. \n* NOTE: it ONLY counts tweaks with preference bundles, hence why it's located in the settings app. I didn't feel like bloating up the code counting the total number of packages or making filters. This gives a concise and accurate count of the tweaks you have right there on the section you're standing. \n* Pretty handcrafted icon by @jam_minty.",
 						"useBottomMargin": false
 					},
 					{
