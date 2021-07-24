@@ -1,5 +1,5 @@
 {
-	
+
 		"minVersion": "0.1",
 		"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amelija/HotGoodLookingAmelijaBanner.png",
 		"tintColor": "#8a78eb",
@@ -42,14 +42,14 @@
 						"useBoldText": true,
 						"class": "DepictionMarkdownView",
 						"title": "markdown-description",
-						"markdown": "Take full control of your wallpapers and blur them to your liking on the fly.  \n* Features 8 different styles: \n* Epic Blur. \n* Dark. \n* Light. \n* Adaptive. \n* Promiment. \n* System Thin. \n* System Ultra Thin. \n* System Chrome Material. \n* Pretty handcrafted icon and banner by @BenOwl3.",
+						"markdown": "Take full control of your wallpapers and blur them to your liking on the fly.  \n* Features 8 different styles: \n* Epic Blur. \n* Dark. \n* Light. \n* Adaptive. \n* Promiment. \n* System Thin. \n* System Ultra Thin. \n* System Chrome Material. \n* Blur With Notifs option, fully compatible with Axon. \n* Pretty handcrafted icon and banner by @BenOwl3.",
 						"useBottomMargin": false
 					},
 					{
 						"class": "DepictionSeparatorView"
 					},
 					{
-						"text": "1.0.1",
+						"text": "1.0.2",
 						"title": "Version",
 						"class": "DepictionTableTextView"
 					},
@@ -81,4 +81,4 @@
 			}
 		],
 		"class": "DepictionTabView"
-	}	
+	}
