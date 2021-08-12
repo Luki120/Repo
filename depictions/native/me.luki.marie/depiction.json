@@ -1,0 +1,88 @@
+{
+	
+		"minVersion": "0.1",
+		"headerImage": "",
+		"tintColor": "#9D5EC6",
+		"tabs": [
+			{
+				"class": "DepictionStackView",
+				"views": [
+					{
+						"useBoldText": true,
+						"class": "DepictionSubheaderView",
+						"title": "Marie",
+						"useBottomMargin": false
+					},
+					{
+						"markdown": "",
+						"useSpacing": true,
+						"class": "DepictionMarkdownView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"itemSize": "{160, 275.41333333333336}",
+						"itemCornerRadius": 6,
+						"class": "DepictionScreenshotsView",
+						"screenshots": [
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/izQC4ey.png"
+							},
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/u8o8On1.png"
+							},
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/xNE0mqk.png"
+							}
+
+						]
+					},
+					{
+						"useBoldText": true,
+						"class": "DepictionMarkdownView",
+						"title": "markdown-description",
+						"markdown": "Put an image for the dialer, passcode or sharesheet background on the fly.",
+						"useBottomMargin": false
+					},
+					{
+						"class": "DepictionSeparatorView"
+					},
+					{
+						"text": "1.0",
+						"title": "Version",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "08-12-2021",
+						"title": "Released",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "Bruh",
+						"title": "Price",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"text": "Luki120",
+						"title": "Developer",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					}
+				],
+				"tabname": "Details"
+			}
+		],
+		"class": "DepictionTabView"
+	}

@@ -1,0 +1,43 @@
+<package>
+	<id>me.luki.marie</id>
+	<name>Marie</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.mrgcgamer.libgcuniversal</package>
+	</dependencies>
+	<shortDescription>Put an image for the dialer, passcode or sharesheet background on the fly.</shortDescription>
+	<descriptionlist>
+		<description>Put an image for the dialer, passcode or sharesheet background on the fly.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>MarieDialer</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>MariePasscode</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>MarieSharesheet</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

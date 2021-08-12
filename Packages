@@ -85,17 +85,36 @@ Maintainer: Luki
 Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.iwanttranslucent_2.0_iphoneos-arm.deb
-Size: 3166
-MD5sum: 95bd859136343a19391c16f5c39dd54b
-SHA1: 07200790c2079afecbe5f946c854744f64da3f76
-SHA256: 38b060a77ca8551fe5e6e698973ee14e09ddc0119dd9adf071e8704ce58bf1d0
-SHA512: 87bf73438e7dc8088a6a72205427ff38d71b1bfd212067d589cf479f9c8948d78911c9cd9d22e1398ceb779a285102324207d11bb1b5c3d374cfd52c48e08cec
+Size: 3180
+MD5sum: 21eb01c4b3dbefb7b43f2f3fe42fb206
+SHA1: aecb1dc29ee94ee599d4d2065da8d6b506542d79
+SHA256: 2725acb40faf76bced7b98d88c2264cbddb99594d55dbc5abe80bad72ce96cfc
+SHA512: ff8d43db2cacd18cdaaf45513b7b2fc233de1c670b284c178455f05641662a08081482f6bec27b2dbf5120b969926c6e903b2b17770fdcd50d23ca627b7b9509
 Description: An awesome MobileSubstrate tweak indeed
 Name: IWantTranslucent
 Author: Luki
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
+
+Package: me.luki.marie
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 344
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/me.luki.marie_1.0_iphoneos-arm.deb
+Size: 27770
+MD5sum: 337c97b9af12e221a29423956e80e4da
+SHA1: 904930e81470079cebf7e95462d77eeb9dce067c
+SHA256: fdf6ad1b55ec390fede046df561ae41fcac33b86dea2985337c75745a14fc05e
+SHA512: 64449befefe788bf5493dd480b7508c7e23fb76c83ff9db8033c96ad615ddff9e70ab0b7f414e0b3c00e820513cf2babf084269881c533dafcda2c754871605a
+Description: A goddamn neat awesome mobile substrate tweak or whatever
+Name: Marie
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
 
 Package: me.luki.stealthcc
 Architecture: iphoneos-arm
