@@ -3,4 +3,7 @@
 		<version>1.0</version>
 		<change>Initial Release</change>
 	</changes>
+		<version>1.0.1</version>
+		<change>Added "Delete images" button, aka reset preferences.</change>
+	</changes>
 </changelog>
