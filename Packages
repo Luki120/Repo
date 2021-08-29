@@ -99,6 +99,25 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslu
 
 Package: me.luki.marie
 Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 408
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/me.luki.marie_1.0.1_iphoneos-arm.deb
+Size: 30174
+MD5sum: 027f4db1ca996bbc856abb1b031771cb
+SHA1: d6a8515ff7e92a450e575a3479d2221f6a46b75f
+SHA256: e59d7c3f7bd2f6566943ae94a45c340871b0b9685b0b636266a651615aa80bd6
+SHA512: 5ac99dd6f1947020774b7132cc2583b4a26e538fdf15ac36ea0d96545de81b467ab3e5927e065b78ac675586e1598e6e7bdc391cc57f2b539276a4cf44f23254
+Description: A goddamn neat awesome mobile substrate tweak or whatever
+Name: Marie
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
+
+Package: me.luki.marie
+Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Luki
