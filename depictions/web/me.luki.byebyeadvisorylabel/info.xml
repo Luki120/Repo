@@ -1,0 +1,33 @@
+<package>
+	<id>me.luki.byebyeadvisorylabel</id>
+	<name>ByeByeAdvisoryLabel</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Removes the parental advisory label in Netflix.</shortDescription>
+	<descriptionlist>
+		<description>Removes the parental advisory label that Netflix likes to annoy us with every single time we watch an episode of our TV show or a movie.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>BBAL.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Moved from Twickd to my repository, rewritten with full Substrate &amp; changed code logic.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
