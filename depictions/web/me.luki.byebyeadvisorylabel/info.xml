@@ -1,7 +1,7 @@
 <package>
 	<id>me.luki.byebyeadvisorylabel</id>
 	<name>ByeByeAdvisoryLabel</name>
-	<version>1.0</version>
+	<version>2.1</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
