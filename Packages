@@ -65,11 +65,11 @@ Maintainer: Luki
 Installed-Size: 188
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.elixir_2.0_iphoneos-arm.deb
-Size: 8382
-MD5sum: 60ca68db844fe29d6ea232b012f51c38
-SHA1: 29d9dd77847c78dfeea406deaddaecca17618b08
-SHA256: 73e5ba66dfe60b7db57e0b68cbc3f56724500dcfd62a81ca91531ba3b41b04ef
-SHA512: 999e9c42c1ee779f4518fc3e60c09f25ad7cd2e9bdd23cbeee712c42b5bdfafd9e9a0b6c6949029c039b7eb4ba211e27ab70049a36b6c04b885294a5d5ed9384
+Size: 8188
+MD5sum: af624d2bdf59395a08d64eaf69393a5a
+SHA1: c07c87f070ab4171ff5ba1032e6733a35c94cb22
+SHA256: 4f8f569f401563d0cee49c1927fb7e64927ee4474937184d0399547cd2c03861
+SHA512: 41393f7f51544eb919131b27f51b969e55a6421ea9cd4ce49fc40de4b368aa340f97e8c2ddbbdd12a6460cd165b4b301271b76b9c316c42b45f4016b5d63c549
 Description: Tweak count at a glimpse!
 Name: Elixir
 Author: Luki
