@@ -46,7 +46,7 @@
 						"useBoldText": true,
 						"class": "DepictionMarkdownView",
 						"title": "markdown-description",
-						"markdown": "Put an image for the dialer, passcode or sharesheet background on the fly.",
+						"markdown": "Put an image for the dialer, passcode or sharesheet background on the fly. \n* Logo from: https://icons8.com/",
 						"useBottomMargin": false
 					},
 					{
