@@ -1,35 +1,15 @@
 {
-  "class": "FeaturedBannersView",
-  "itemSize": "{296, 148}",
-  "itemCornerRadius": 10,
-  "banners": [
-    {
-        "url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amelija/HotGoodLookingAmelijaBanner.png",
-        "title": "Amēlija",
-        "package": "me.luki.amelija",
-        "hideShadow": false
-    },
+	"class": "FeaturedBannersView",
+	"itemSize": "{296, 148}",
+	"itemCornerRadius": 10,
+	"banners": [
+		{
+			"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieBanner.png",
+			"title": "Marie",
+			"package": "me.luki.marie",
+			"hideShadow": false
+		}
 
-    {
-        "url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/Gradient.jpg",
-        "title": "Amanda",
-        "package": "me.luki.amanda",
-        "hideShadow": false
-    },
+	]
 
-    {
-      "url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/FfckThatAnimation/FTAGradient.png",
-      "title": "FfckThatAnimation",
-      "package": "me.luki.ffckthatanimation",
-      "hideShadow": false
-    },
-
-    {
-      "url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWTGradient.png",
-      "title": "IWantTranslucent",
-      "package": "me.luki.iwanttranslucent",
-      "hideShadow": false
-    }
-
-  ]
 }

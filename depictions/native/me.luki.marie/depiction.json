@@ -1,8 +1,8 @@
 {
 	
 		"minVersion": "0.1",
-		"headerImage": "",
-		"tintColor": "#9D5EC6",
+		"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieBanner.png",
+		"tintColor": "#F37599",
 		"tabs": [
 			{
 				"class": "DepictionStackView",
@@ -53,7 +53,7 @@
 						"class": "DepictionSeparatorView"
 					},
 					{
-						"text": "1.0.1",
+						"text": "1.0.2",
 						"title": "Version",
 						"class": "DepictionTableTextView"
 					},

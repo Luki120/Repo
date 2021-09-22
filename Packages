@@ -1,17 +1,17 @@
 Package: me.luki.amanda
 Architecture: iphoneos-arm
-Version: 1.0
+Version: 2.0
 Section: Tweaks
 Maintainer: Luki
-Installed-Size: 152
+Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.amanda_1.0_iphoneos-arm.deb
-Size: 4686
-MD5sum: 29b62573fe6c4f6bdbf2845d6b62f1d8
-SHA1: 383fda156cd3a0e4a28be998284d4643d4298a6f
-SHA256: 11ad60d3f81bca2bf0d31f47306ac9245e37d6e969d8e9cf50d849ccb8ceccb5
-SHA512: 99b46a0594be59d3e0ccfbab0741ff35f6dcdfc3c46a054d8a49d847c9b8c76775961774e9d0c515f110bbf3a6bc7760fd66895ebf8dee97ff89bd82b1a30070
-Description: Make badges purpleish color when DND is enabled.
+Filename: ./debians/me.luki.amanda_2.0_iphoneos-arm.deb
+Size: 6026
+MD5sum: 7bf74bdf6262b0b54bca8a97eb5a7a2c
+SHA1: f8ffa847285bd4b486f6219ad4fa97c8b75d80cb
+SHA256: 5febe9dc644c17766ba821d747bdf538deca9ad9dadcafe884ed6f7792e7e68d
+SHA512: 1b295e35bea0863694c6f569c17d8cbd0d8465032b346471f61f827a2df128e9a6cc59e3d16758095c0159f0b82386837f80065fdbb43a9014766aaf68ba27b8
+Description: Make badges indigo color when DND is enabled.
 Name: Amanda
 Author: Luki
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amanda/Amanda.png
@@ -36,26 +36,6 @@ Name: ByeByeAdvisoryLabel
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.byebyeadvisorylabel
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.byebyeadvisorylabel/depiction.json
-
-Package: me.luki.elixir
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debians/me.luki.elixir_1.0_iphoneos-arm.deb
-Size: 5948
-MD5sum: 7fd4f772b91e0fab014ea1faa9ffbc97
-SHA1: 62446aabc34223c82cf054ad3f6a9611b0aa5a89
-SHA256: 6b5004c180bee7e23c45e5571ce12c656a9f737de88a4a70118bd5c7c7c0e961
-SHA512: 7c0e46615f5128a70a17ac11b730b419726b743bce555ed749305885355770339e500886f17709093c0fcb9cd83201883403ae94f6e2b931e186541419f0da75
-Description: Tweak count at a glimpse!
-Name: Elixir
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Elixir/ElixirIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
 
 Package: me.luki.elixir
 Architecture: iphoneos-arm
@@ -152,6 +132,26 @@ SHA512: 5ac99dd6f1947020774b7132cc2583b4a26e538fdf15ac36ea0d96545de81b467ab3e592
 Description: A goddamn neat awesome mobile substrate tweak or whatever
 Name: Marie
 Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
+
+Package: me.luki.marie
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 904
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/me.luki.marie_1.0.2_iphoneos-arm.deb
+Size: 514602
+MD5sum: a8a25bfccc00f9df0c88c50a03188dd4
+SHA1: b22b5909f72c18fe4483b3731962e45761bce0ba
+SHA256: cfc6bdd4927455f8ac6021f10424b65ed479d78125b4060103899dc00b9ce447
+SHA512: 03e0aa54551278d13deda175900f1d35cfd9e3499205695fc7cf5262486be441ad08b3e69c2ba05d173a00bb5f6ec9313147732a2a13d57f06eed2206d0fc865
+Description: A goddamn neat awesome mobile substrate tweak or whatever
+Name: Marie
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieIcon.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
 
