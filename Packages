@@ -37,6 +37,25 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
 
+Package: me.luki.arres
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.arres_0.9.0_iphoneos-arm.deb
+Size: 3558
+MD5sum: e50969b84593c6ca6dce4a857a12560a
+SHA1: 30539359efdc1c6b653f328757276b14e3ddb886
+SHA256: 45ce90bae5186d10011e41bb98803c3d350c68ff541dc5d4ec8df85e44d3dfc5
+SHA512: bd338a0cd90eb955b4c755670d03762a80eea8c611be9a152240932d0133d8bf13db2f1bb11d91fee7c8b5f4f0009f0495f1a61435cfd29190da09321b4a0688
+Description: Disables tapping on notifs banners for 0.8s
+Name: Arres
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arres
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.arres/depiction.json
+
 Package: me.luki.byebyeadvisorylabel
 Architecture: iphoneos-arm
 Version: 2.1
@@ -45,12 +64,12 @@ Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.byebyeadvisorylabel_2.1_iphoneos-arm.deb
-Size: 3240
-MD5sum: 09c76f0d822abc0b4f65a554beb44aa9
-SHA1: dcc72812d55abc68d45eb4baa89c28effde0f3c1
-SHA256: fb6e4c802789d71dc91ec9a94614414b652389eb37f6bd2a16dfdbe8f349f0a3
-SHA512: c53fcdf9dd6ecbebaf068f2e26791f19df9625a679261d43035a561051ec28232baf70164c28ee0108f10975c958e50cce8e20df3347c9eebd80c7475e560271
-Description: Removes the annoying parental advisory pop-up.
+Size: 3196
+MD5sum: 695552b97a7098fbdbb892bedd3d072f
+SHA1: 165a0aef9f825e0ee91c7a26cadc605347644b54
+SHA256: 1995dc929c8148c6f96c9d6ba6753dd433456306cbf24e49a3ce3df0821bc345
+SHA512: f4e3cff8dfb0869e7eda53208fcb811fac9db978b1ef586122bf9cb1e6a8f2af18959b277025160d74f84e2cf8b37b71036c6f663eca7bc95ceec8ec8eb5f927
+Description: Removes the annoying parental advisory pop-up in Netflix.
 Name: ByeByeAdvisoryLabel
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.byebyeadvisorylabel
@@ -81,20 +100,39 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Luki
-Installed-Size: 152
+Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.ffckthatanimation_1.0_iphoneos-arm.deb
-Size: 3018
-MD5sum: 47f6d2811e5b8e5f219271c0d712ccc3
-SHA1: 920baa67ad01c83075439a04faeece552bfbe226
-SHA256: 95c3c859673522691b02514590dff5bfdb2886669f45d329bc269594fcc64201
-SHA512: 70a1e06ad4e1b58101280710c0f695de5c8804055f90d7ea4e294a804534fa218899905abcf0649940cf4bd5e7b742e516e926459d09889aa685578c9c6a3711
+Size: 3486
+MD5sum: 30c9fdfb53761751974568661c3d2da5
+SHA1: c420bb1ecbaf4dcf2ae80781877be7905ed722da
+SHA256: ac34c8050ec6685828c8173fd3b6280ad079606c402922d041359ee7f8069084
+SHA512: ee5d2833a47ff8e6883e75ab4cf0b8560a518b00bb9b17fa54e245a1830d3a5aca892acd970302f7061a8c9cb04a52cc6cd6d4a03ea9707a9e8e7535a8d8b312
 Description: Another yet awesome mobile substrate tweak to the list
 Name: FfckThatAnimation
 Author: Luki
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/FfckThatAnimation/FTA.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.ffckthatanimation
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.ffckthatanimation/depiction.json
+
+Package: me.luki.hislerim
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.hislerim_0.9.0_iphoneos-arm.deb
+Size: 3900
+MD5sum: 2fb1e9872a2c6430da7c8378b67d40a7
+SHA1: 1430b3f078ea6dffb32ab7d5494aa626b83b7db0
+SHA256: 4fb3dbab50dcf471a4de741d2b8743669e27fbf1c64aaa2dda140c15cfb3c23f
+SHA512: efae19eb24cc5dade78e53466df463f1c19735dd04f262374adeec3dc1a54986f082a4a5c5258a2a8593a7ff31d9e5b1cd3c23111ccfd1bd536b0132680a3240
+Description: Lock your device by double tapping on HS
+Name: Hislerim
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hislerim
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hislerim/depiction.json
 
 Package: me.luki.iwanttranslucent
 Architecture: iphoneos-arm
@@ -193,6 +231,25 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
 
+Package: me.luki.netflixcctoggle
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.netflixcctoggle_0.9.0_iphoneos-arm.deb
+Size: 7930
+MD5sum: fb5acd33380786b9e816f4028673b1ad
+SHA1: 1c527121ad2ffd96163fd27d2b0907633efe34dd
+SHA256: 6dc4266d1e3700077ddfd280b5c59bf18c4b80398693d5abc31e139f854b9790
+SHA512: 85c9b79434c264ccde1719b12013cdf612a0964bfd956f0049adfa18f4af228a340ee4dba47bb7e081780dcff76ba335241ed8c8ee733e5ced89dc67b1889fc4
+Description: An awesome Control Center module!
+Name: NetflixToggle
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.netflixcctoggle
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.netflixcctoggle/depiction.json
+
 Package: me.luki.reachspring
 Architecture: iphoneos-arm
 Version: 2.0
@@ -201,11 +258,11 @@ Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.reachspring_2.0_iphoneos-arm.deb
-Size: 3350
-MD5sum: 242a04ecd79e1f12c85cb7acf4344450
-SHA1: 3a6610205686849815087e0c23f28c95da44ce80
-SHA256: f34a3dd89d01bfc8da3832408b41378a2d2b2dd545f5c961cd52150c5ce31ac8
-SHA512: 3a81852c3a80f1e06fe2c66a3353a787c216e59b778eb9aed130f821e1fca5174bd26b511dc976e3557d874864f9daf45b188aaa4fa6983d02b75e9703e209e8
+Size: 3346
+MD5sum: 759595fc0d54fa80f2666276469aa086
+SHA1: 45d01fac3febf2cf729ddf676303b7d8eed2c76e
+SHA256: dc7f162c28fe1ce60c1ab7dbd47fb198bfa8e7f1d42dfa55c0f237590e775ceb
+SHA512: 3dc5f57d891f0b55a8b8f9a0a16ee6ca6aae5f922a58c2cf518701f4de1a5ec00adfe33e87dabbde5084b9cb4bd904a28654c9a5a07bc39a795a0cbc7844e373
 Description: Respring smoothly and with ease invoking the reachability gesture
 Name: ReachSpring
 Author: Luki
@@ -217,17 +274,36 @@ Architecture: iphoneos-arm
 Version: 1.0
 Section: Tweaks
 Maintainer: Luki
-Installed-Size: 312
+Installed-Size: 376
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/me.luki.stealthcc_1.0_iphoneos-arm.deb
-Size: 9118
-MD5sum: fb2bdc5d3ef76aff59836521dace950e
-SHA1: e8a3b4e44b3128af70a4a9ec19de06ec54f07ccb
-SHA256: e4e8973b9b9df46f01548c55ed424384416ba3292afcf459e9414a1c9d60b10c
-SHA512: a9cc8a02f257734d438b2ae8b9fa5fb273146d56b39d566e4d663acf9d7239f201dd9f2ec8338ad3473103b591e80700f0aa21870517f3f8fa21fe1e5abb91cb
-Description: Another? Yes! Another awesome mobile substrate tweak to the list
+Size: 9242
+MD5sum: 54a4cf1113635334fb5d481b24a36d14
+SHA1: a31963e97bc8d4237e3af4ac5d2e7140dedc568a
+SHA256: a5c6989f3c0a01f87687ff515e3f86630cf08627f0a9f7da10596e5e29cde007
+SHA512: bc8177f86c6405fac64a220ce5a212ee4e0d0b4936545948af6e06df2f9364ab271408a12dafb8ecb31c336ee724da2398c326c88f7277c25b2f05f421e73c68
+Description: Control the intensity of the stock CC on the fly.
 Name: StealthCC
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+
+Package: me.luki.walltoggle
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Control Center (Modules)
+Maintainer: Luki
+Installed-Size: 160
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.walltoggle_0.9.0_iphoneos-arm.deb
+Size: 5226
+MD5sum: 0f24892dcc089aefa9597a98f8b4d2af
+SHA1: 1fd4f3298b265fca235f531bf40801d0a3b0d3db
+SHA256: cf9cb7866a0d80c2b50f512d6d5c0c3affab6f66c3daafe476a79792d931f4ba
+SHA512: 978479120f6dc308e8b7f02ec200348dd212ea0704b31e0f3b8c29e75d5c0cf0b4ca1a1a58ee3728f15605476b8206d1b0579ac3f62859d639b4c46181090beb
+Description: An awesome Control Center module!
+Name: WallToggle
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.walltoggle
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.walltoggle/depiction.json
 
