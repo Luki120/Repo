@@ -26,7 +26,7 @@
 						"useBoldText": true,
 						"class": "DepictionMarkdownView",
 						"title": "markdown-description",
-						"markdown": "Disable tapping on notifications for 0.8s to avoid accidental taps. \n* Original tweak by @iCrezeiOS, updated for iOS 14 by @Lukii120.",
+						"markdown": "Disable tapping on notifications for 0.8s to avoid accidental taps. \n* Original tweak by @iCrazeiOS, updated for iOS 14 by @Lukii120.",
 						"useBottomMargin": false
 					},
 					{
