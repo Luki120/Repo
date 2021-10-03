@@ -43,6 +43,11 @@
 	</changelog>
 	<links>
 		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/Aria</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
 			<name>Twitter</name>
 			<url>https://twitter.com/Lukii120</url>
 			<iconclass></iconclass>
