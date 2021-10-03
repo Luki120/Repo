@@ -239,11 +239,11 @@ Maintainer: Luki
 Installed-Size: 340
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.netflixcctoggle_0.9.0_iphoneos-arm.deb
-Size: 7930
-MD5sum: fb5acd33380786b9e816f4028673b1ad
-SHA1: 1c527121ad2ffd96163fd27d2b0907633efe34dd
-SHA256: 6dc4266d1e3700077ddfd280b5c59bf18c4b80398693d5abc31e139f854b9790
-SHA512: 85c9b79434c264ccde1719b12013cdf612a0964bfd956f0049adfa18f4af228a340ee4dba47bb7e081780dcff76ba335241ed8c8ee733e5ced89dc67b1889fc4
+Size: 7932
+MD5sum: e3f4f1c44bd93db63e5121c828a71470
+SHA1: 010c822983493aa6e1535b2f5ec6e2650cff01ef
+SHA256: f2f54f5b543085dd2c69db56c8bed457d83f87f895ec4adfa1286d4d8e8f3c07
+SHA512: c34522e2f1de65adaa3b89f1b7676e9653d10ba0ddb60a6ac1fad2bbd38791205709b0a9434a9e2d111e5850d86f7182117800eb663fa7d097accb39fa7408be
 Description: An awesome Control Center module!
 Name: NetflixToggle
 Author: Luki
