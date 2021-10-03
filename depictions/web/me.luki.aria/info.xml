@@ -1,0 +1,51 @@
+<package>
+	<id>me.luki.aria</id>
+	<name>Aria</name>
+	<version>0.9.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.mrgcgamer.libgcuniversal</package>
+	</dependencies>
+	<shortDescription>Add some flavors to the stock CC or Prysm on the fly.</shortDescription>
+	<descriptionlist>
+		<description>Add some flavors to the stock CC or Prysm on the fly. Features custom dark and light mode images (stock only for now) with a nice clean transition, Gaussian blur with custom intensity (alpha) and gradients with directions &amp; and an optional animation.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>AriaDark.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>AriaLight.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>AriaGradients.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>AriaPrysm.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>AriaPrysmGradients.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial beta release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>
