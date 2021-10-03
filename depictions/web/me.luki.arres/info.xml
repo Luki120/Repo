@@ -1,0 +1,33 @@
+<package>
+	<id>me.luki.arres</id>
+	<name>Arres</name>
+	<version>0.9.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Disable tapping on notifications for 0.8s</shortDescription>
+	<descriptionlist>
+		<description>Disable tapping on notifications for 0.8s to avoid accidental taps. \n* Original tweak by @iCrezeiOS, updated for iOS 14 by @Lukii120.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image></image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>
