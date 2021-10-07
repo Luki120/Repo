@@ -277,12 +277,12 @@ Maintainer: Luki
 Installed-Size: 376
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/me.luki.stealthcc_1.0_iphoneos-arm.deb
-Size: 9242
-MD5sum: 54a4cf1113635334fb5d481b24a36d14
-SHA1: a31963e97bc8d4237e3af4ac5d2e7140dedc568a
-SHA256: a5c6989f3c0a01f87687ff515e3f86630cf08627f0a9f7da10596e5e29cde007
-SHA512: bc8177f86c6405fac64a220ce5a212ee4e0d0b4936545948af6e06df2f9364ab271408a12dafb8ecb31c336ee724da2398c326c88f7277c25b2f05f421e73c68
-Description: Control the intensity of the stock CC on the fly.
+Size: 9246
+MD5sum: a94e1afe945a44f7a6221b7cf6a64a6f
+SHA1: 4ba48661c71cfeadf01692a4c93795911c5f61f9
+SHA256: 1c10a155b832921b7b8aad82fcad2454cfd321782c5f57348644f9880d390387
+SHA512: f7d140a226763e6316c92400427a28d67686fdd773f409f640c265f7e5ac26ecfde01d0e4c33ea750639462a5b4bf1c9b388396c206f94d67175327456304823
+Description: Control the intensity of the stock CC blur on the fly
 Name: StealthCC
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
