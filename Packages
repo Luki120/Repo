@@ -161,14 +161,16 @@ Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.igconfirm_0.9.0_iphoneos-arm.deb
-Size: 6096
-MD5sum: 17613e411f19b626d019ec56ffd6d6b9
-SHA1: 5136caf50bb07455a33fb3f30cf4ac7fb6a762a2
-SHA256: 32894b21cbdb87651502ef6787322f4c918ff1c7163e5b42930fae9a25cc46a0
-SHA512: 8e445be386a1e25fda3dc1ec293b6be2e77ad5841f5b3cf6cf95900c0d9286fa7f11c7010ad9d48cebd80a4a4ca87c06728e3d1d67c62f03d60a08dcd45d8592
+Size: 6160
+MD5sum: 429b64f4e80d89029bb88944d1d8ba11
+SHA1: c0debf1035c426db7e6d2366a74ae3dd4d389781
+SHA256: 035f0f114d2c4e2183d0699d39076b3609ac8328f46c3ca8c135622daa9d5d88
+SHA512: 2117610ce6d1af33a3220f33a4ad76b0b73bcc2eef72417ec16f1f59f7682a3c34eef6561e7965d016ece80053bb7c25badb82936e9dcadb957366a6bea807cc
 Description: Prevent accidental likes or follows on Instagram
 Name: IGConfirm
 Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.igconfirm
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.igconfirm/depiction.json
 
 Package: me.luki.iwanttranslucent
 Architecture: iphoneos-arm
