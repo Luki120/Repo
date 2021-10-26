@@ -61,14 +61,14 @@ Architecture: iphoneos-arm
 Version: 0.9.0
 Section: Tweaks
 Maintainer: Luki
-Installed-Size: 184
+Installed-Size: 376
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.arres_0.9.0_iphoneos-arm.deb
-Size: 3558
-MD5sum: e50969b84593c6ca6dce4a857a12560a
-SHA1: 30539359efdc1c6b653f328757276b14e3ddb886
-SHA256: 45ce90bae5186d10011e41bb98803c3d350c68ff541dc5d4ec8df85e44d3dfc5
-SHA512: bd338a0cd90eb955b4c755670d03762a80eea8c611be9a152240932d0133d8bf13db2f1bb11d91fee7c8b5f4f0009f0495f1a61435cfd29190da09321b4a0688
+Size: 7914
+MD5sum: 2f5fb67a59dcc1b011d1434a5295c8df
+SHA1: 1c52e9dd3ef4583995e0de8487018ac8228212c1
+SHA256: 0959f949cda3eaeec019ce658aa201d74ce4746f9103fb9ad973dabf0cacef66
+SHA512: e344cfb173d934da851eec51f1ca93c482cdc982647f5b4158e526c66f3e503dbc16cf53382ab5729dd87e0ed1f99b10cad53694193097bc7b77aa97208c8177
 Description: Disables tapping on notifs banners for 0.8s
 Name: Arres
 Author: Luki
@@ -152,6 +152,23 @@ Name: Hislerim
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hislerim
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hislerim/depiction.json
+
+Package: me.luki.igconfirm
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.igconfirm_0.9.0_iphoneos-arm.deb
+Size: 6096
+MD5sum: 17613e411f19b626d019ec56ffd6d6b9
+SHA1: 5136caf50bb07455a33fb3f30cf4ac7fb6a762a2
+SHA256: 32894b21cbdb87651502ef6787322f4c918ff1c7163e5b42930fae9a25cc46a0
+SHA512: 8e445be386a1e25fda3dc1ec293b6be2e77ad5841f5b3cf6cf95900c0d9286fa7f11c7010ad9d48cebd80a4a4ca87c06728e3d1d67c62f03d60a08dcd45d8592
+Description: Prevent accidental likes or follows on Instagram
+Name: IGConfirm
+Author: Luki
 
 Package: me.luki.iwanttranslucent
 Architecture: iphoneos-arm
