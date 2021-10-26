@@ -1,7 +1,7 @@
 <package>
 	<id>me.luki.marie</id>
 	<name>Marie</name>
-	<version>1.0.2</version>
+	<version>1.0.3</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -31,13 +31,18 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added handcrafted designs by @BenOwl3 &amp; updated the contributors.</change>
+		<change>Added light mode images.</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/Marie</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
 		</link>
 	</links>
 </package>
