@@ -94,6 +94,23 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.byebyeadvisorylabel
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.byebyeadvisorylabel/depiction.json
 
+Package: me.luki.coraswift
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Utilities
+Maintainer: Luki
+Installed-Size: 284
+Depends: org.swift.libswift (>= 5.0)
+Filename: ./debians/me.luki.coraswift_0.9.0_iphoneos-arm.deb
+Size: 37582
+MD5sum: eee9718f82320820aecc67111f31c497
+SHA1: da0306b8e0302f8180e87c21e7799cfb9ef573fc
+SHA256: 8f4729af3d6c3d17371631f68675692e68e62977d4ef9d9959cc00289ce3ee48
+SHA512: c797181b1dc19b0d1e8bd1b045708ecf0e3f2e98c173f9f1d80d4e69fc1de2a6eedc201249a10dc049a7b31acba41064c08366ac8d8d3e2871fb90ee2c2e8bc4
+Description: See your device's uptime and information in less clicks
+Name: Cora
+Author: Luki
+
 Package: me.luki.elixir
 Architecture: iphoneos-arm
 Version: 2.0
