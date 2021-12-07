@@ -1,0 +1,39 @@
+<package>
+	<id>me.luki.legacyrings</id>
+	<name>Aria</name>
+	<version>0.9.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>love.litten.libkitten</package>
+	</dependencies>
+	<shortDescription>Bring back the iOS 9 keypad buttons style.</shortDescription>
+	<descriptionlist>
+		<description>Bring back the iOS 9 keypad buttons style. NOTE: the highlight breaks and stays on the button, so I had to remove it sorry.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>LegacyRings.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial Release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/SmallTweaks/tree/main/LegacyRings</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>

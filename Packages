@@ -231,6 +231,25 @@ Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
 
+Package: me.luki.legacyrings
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate, love.litten.libkitten
+Filename: ./debians/me.luki.legacyrings_0.9.0_iphoneos-arm.deb
+Size: 4562
+MD5sum: c517f01093928be83c1f2c250106e92b
+SHA1: 26dbbf3854afdfac6725fcf3ed65bb5a8f0280b5
+SHA256: dee9d3c082c9ac71b8ca819af93c2f500e974c672f3b0a96e96288ce79046c40
+SHA512: 5b0877dfbccbbba437d03f17eadd6dffea51dcc675c7243d7690f1f1e6bff9ca55f3c54aa119f670696844ec1a808ab59eb90952530c4b4dd54dacbea8266e67
+Description: Bring back the old iOS 9 keypad buttons
+Name: LegacyRings
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.legacyrings
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.legacyrings/depiction.json
+
 Package: me.luki.marie
 Architecture: iphoneos-arm
 Version: 1.0.1
