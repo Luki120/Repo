@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>3.0</version>
-		<change>Made it system wide. Ryan asked :thishowitis:</change>
+		<version>4.0</version>
+		<change>Added hide separators system wide including those in the CC Bluetooth &amp; WiFi expanded modules, Ryan and Shreky asked :thishowitis:</change>
 	</changes>
 </changelog>

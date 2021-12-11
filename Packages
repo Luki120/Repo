@@ -75,6 +75,23 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arres
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.arres/depiction.json
 
+Package: me.luki.auroraswiftui
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Utilities
+Maintainer: Luki
+Installed-Size: 344
+Depends: org.swift.libswift (>= 5.0)
+Filename: ./debians/me.luki.auroraswiftui_0.9.0_iphoneos-arm.deb
+Size: 43524
+MD5sum: 98d5795a5f3eb7df6d3e132b82b267d9
+SHA1: 5c4e23e33992fa93e13f47779d4234b045b16c14
+SHA256: 1886aa37b0f3f9082fad8b61bf1bf62f666bb7bf725335a464ba4eb4fab85c56
+SHA512: 1e61c36f8dd0a0bc9fd9af7df3f6807ceda61c789887261103ae96283041ab083923d3a6a0b7a3c39fd6d5ca35717bd58dbafaf073eb7d5bfd4e392d8dcafa3c
+Description: An awesome vanilla password generator
+Name: Aurora
+Author: Luki
+
 Package: me.luki.byebyeadvisorylabel
 Architecture: iphoneos-arm
 Version: 2.1
@@ -224,6 +241,26 @@ MD5sum: 87837b5c083dbb2e71827880c5d1916a
 SHA1: d9f4be6f1a52025f5d619c1dfc0c3322a55fa0cc
 SHA256: c45712cbd2b1b066af5b99f9a8499348e3aba3021258a2b1627cf6b9845cc1fe
 SHA512: 28ff553e8d793b46d891be2c20a255b069cd1af322afe3507bfeea605dfdd8b51247c2495cf55a60f2e6dcf9a71bde079822d7df1e48fe9ed6dee76d8397b88e
+Description: An awesome MobileSubstrate tweak indeed
+Name: IWantTranslucent
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
+
+Package: me.luki.iwanttranslucent
+Architecture: iphoneos-arm
+Version: 4.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.iwanttranslucent_4.0_iphoneos-arm.deb
+Size: 6378
+MD5sum: 06e57a0761c5a1c87bb0a50bf8f2be7a
+SHA1: bda06f3068cfb7e84a9802273d00a12b9f07f53f
+SHA256: 6951c00df6683da48f57a6f9c649f122b01a85687baebc4436456e33d02c4393
+SHA512: b5979514fa486b209f63c23be893be8fdfa0125a266434616ea5b4204b77943c6e652611644f17d2bdaa8e8e9d7fb9e3f2972d8aa036d9d367b4e648d0e3a482
 Description: An awesome MobileSubstrate tweak indeed
 Name: IWantTranslucent
 Author: Luki
