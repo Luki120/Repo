@@ -270,6 +270,26 @@ Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
 
+Package: me.luki.iwanttranslucent
+Architecture: iphoneos-arm
+Version: 4.1
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 188
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.iwanttranslucent_4.1_iphoneos-arm.deb
+Size: 7038
+MD5sum: ee2dce92fe0704df090981f54457f675
+SHA1: 3baf92cfc53e491e66d05e0d29ce4172ec0849fe
+SHA256: 9ca0aa22bc80354b924a8660c8eb9083290719ec6adc375a61fc85379429f879
+SHA512: 347ab90087dd5025f44235213c17b56fab90f25fd09b6ddb7dd35aa09cbfc79267b466e7e94c11153e12aa22adc86f08bf485d360d21fef48499b4ffbfe95f19
+Description: An awesome MobileSubstrate tweak indeed
+Name: IWantTranslucent
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
+
 Package: me.luki.legacyrings
 Architecture: iphoneos-arm
 Version: 0.9.0
