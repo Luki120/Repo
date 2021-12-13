@@ -353,14 +353,14 @@ Architecture: iphoneos-arm
 Version: 1.0.3
 Section: Tweaks
 Maintainer: Luki
-Installed-Size: 976
+Installed-Size: 944
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debians/me.luki.marie_1.0.3_iphoneos-arm.deb
-Size: 555380
-MD5sum: 394cb82b6ca58c25199986f8d50e50e3
-SHA1: ea04d80f1147e1afe5334235e83a0798460f70cd
-SHA256: 9f770a6a7aea853a768a102850ed48927053c3d332fc0310e797ec7c72a09ce6
-SHA512: 64f30ad82ea048f56b4d3fec8df4295443b42fb9a02f1e5790fe7b96901ebd2c671615c968c847460edbe7d19fa19223bbff32e5af5086fc347c4118e2f62e4b
+Size: 553430
+MD5sum: f7acbad33d135f4bd02f1e146408c1f0
+SHA1: 0cad06eea8bea1a93dc25a3409832a4ace5b2a95
+SHA256: a5ca088a1f05c2173277382e2ddf89b0c5d563444acf18c36192278c81d7d4f3
+SHA512: 60be4f15e7d3ad794b32e74191c06aeb7491100227e3bdc41d9d1e5dd2cc5a5bc1eaa4ffdf4aa6f5eeb7acd5aad14aed71534d19e6801cd3613536b682452fd9
 Description: Put an image for the dialer, passcode or sharesheet background on the fly
 Name: Marie
 Author: Luki
@@ -424,6 +424,25 @@ Name: ReachSpring
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.reachspring
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.reachspring/depiction.json
+
+Package: me.luki.selene
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 316
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/me.luki.selene_0.9.0_iphoneos-arm.deb
+Size: 16558
+MD5sum: 495d4495c5ce04b1de4575b2c1f6a7d9
+SHA1: ddc4e9afa9884c24b9a6c6b22888650d522340f2
+SHA256: 840606d5504198fc8c6d199052a36ab17ce07a7bfbc96ead78e73beaa8c9172e
+SHA512: d154df7b4d396256de0fae5b857a600e895f1d4e66a038a072f5d02094fffd36208b7b61f7d7dfcc99f5bed408d88282ee5eba01be5c0dbcfc816451d1de2f14
+Description: Triple tap on LS to save the stock walls on the fly
+Name: Selene
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.selene
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.selene/depiction.json
 
 Package: me.luki.stealthcc
 Architecture: iphoneos-arm
