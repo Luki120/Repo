@@ -56,6 +56,26 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
 
+Package: me.luki.aria
+Architecture: iphoneos-arm
+Version: 0.9.4~RC
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 712
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/me.luki.aria_0.9.4~RC_iphoneos-arm.deb
+Size: 98610
+MD5sum: c3f8e8a1eecc834661f0a6b3303b4747
+SHA1: 108174b7765453b0a4354edb5647f7c2fabe6e2d
+SHA256: e61859351d76bacb77ab098fd0b93935e49f9b3fbf1c7efeede4714718ec407d
+SHA512: 875c8b054fcb10c93fdea813244c8e0b64115951d1a235ee45de3fed6c398c8d9fee5f571f30953bca274a7e5dfdc01cdafbecd15b7086cb5bbaaabf5d1767f8
+Description: Add some flavors to the stock CC or Prysm on the fly
+Name: Aria
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
+
 Package: me.luki.arres
 Architecture: iphoneos-arm
 Version: 0.9.0
