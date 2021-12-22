@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.9.2</version>
-		<change>Custom light/dark mode images for Prysm.</change>
+		<version>0.9.4</version>
+		<change>Added a new pretty changelog view, a gaussian blur option, code refactoring &amp; reorganized preferences.</change>
 	</changes>
 </changelog>
