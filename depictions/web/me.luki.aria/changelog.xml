@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
 		<version>0.9.4</version>
-		<change>Added a new pretty changelog view, a gaussian blur option, code refactoring &amp; reorganized preferences.</change>
+		<change>Added a gaussian blur option, code refactoring &amp; reorganized preferences.</change>
 	</changes>
 </changelog>

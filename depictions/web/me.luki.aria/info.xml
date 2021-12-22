@@ -14,7 +14,7 @@
 	</dependencies>
 	<shortDescription>Enhance the stock CC or Prysm on the fly.</shortDescription>
 	<descriptionlist>
-		<description>Enhance the stock CC or Prysm on the fly. Features custom dark and light mode images with a nice clean transition, Gaussian and Epic blurs with custom intensity (alpha) and gradients with directions &amp; an optional animation.</description>
+		<description>Added a gaussian blur option, code refactoring &amp; reorganized preferences.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
