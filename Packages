@@ -1,23 +1,3 @@
-Package: me.luki.amanda
-Architecture: iphoneos-arm
-Version: 2.0
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 184
-Depends: mobilesubstrate
-Filename: ./debians/me.luki.amanda_2.0_iphoneos-arm.deb
-Size: 6026
-MD5sum: 7bf74bdf6262b0b54bca8a97eb5a7a2c
-SHA1: f8ffa847285bd4b486f6219ad4fa97c8b75d80cb
-SHA256: 5febe9dc644c17766ba821d747bdf538deca9ad9dadcafe884ed6f7792e7e68d
-SHA512: 1b295e35bea0863694c6f569c17d8cbd0d8465032b346471f61f827a2df128e9a6cc59e3d16758095c0159f0b82386837f80065fdbb43a9014766aaf68ba27b8
-Description: Make badges indigo color when DND is enabled.
-Name: Amanda
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amanda/Amanda.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.amanda
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amanda/depiction.json
-
 Package: me.luki.aria
 Architecture: iphoneos-arm
 Version: 0.9.0~RC
@@ -64,11 +44,11 @@ Maintainer: Luki
 Installed-Size: 712
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debians/me.luki.aria_0.9.4~RC_iphoneos-arm.deb
-Size: 98610
-MD5sum: c3f8e8a1eecc834661f0a6b3303b4747
-SHA1: 108174b7765453b0a4354edb5647f7c2fabe6e2d
-SHA256: e61859351d76bacb77ab098fd0b93935e49f9b3fbf1c7efeede4714718ec407d
-SHA512: 875c8b054fcb10c93fdea813244c8e0b64115951d1a235ee45de3fed6c398c8d9fee5f571f30953bca274a7e5dfdc01cdafbecd15b7086cb5bbaaabf5d1767f8
+Size: 98712
+MD5sum: 33fca0c97db8609d024719b3133af324
+SHA1: 8937c7471994cf3c37029ab74ce9fb89a7be29f0
+SHA256: a56cf2391485c7d522aea08b113a7c11456f3de07793604c9dffb4440da3c249
+SHA512: 55acbc7556b306fd9bdef9a276c52ab85573b6f84363eff336d19f06bed06f09f71d0017e6715bdd77212f1174e6514539f220fd785c008ee63d7ff964d3a733
 Description: Add some flavors to the stock CC or Prysm on the fly
 Name: Aria
 Author: Luki
@@ -381,6 +361,26 @@ MD5sum: f7acbad33d135f4bd02f1e146408c1f0
 SHA1: 0cad06eea8bea1a93dc25a3409832a4ace5b2a95
 SHA256: a5ca088a1f05c2173277382e2ddf89b0c5d563444acf18c36192278c81d7d4f3
 SHA512: 60be4f15e7d3ad794b32e74191c06aeb7491100227e3bdc41d9d1e5dd2cc5a5bc1eaa4ffdf4aa6f5eeb7acd5aad14aed71534d19e6801cd3613536b682452fd9
+Description: Put an image for the dialer, passcode or sharesheet background on the fly
+Name: Marie
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
+
+Package: me.luki.marie
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 944
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/me.luki.marie_1.0.4_iphoneos-arm.deb
+Size: 553396
+MD5sum: 13ad378f6be5d7f48c5e63e6f6c0ea36
+SHA1: 99516951db38b03ac68f37fac773d6ecfdb38d4b
+SHA256: 1d30c4495ed859bc03d62cfc3716c034fc4fdfd4e817faf167a87633ac454c00
+SHA512: c2a147c91c901a20886c4f3d2b0a494bbba947250a2df4106af43fd1ea52c778357499fe04e3e0fa3f2e4a8e649665612074ab3e2bd91db76299920b4803033b
 Description: Put an image for the dialer, passcode or sharesheet background on the fly
 Name: Marie
 Author: Luki
