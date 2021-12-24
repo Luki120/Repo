@@ -44,12 +44,12 @@ Maintainer: Luki
 Installed-Size: 712
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debians/me.luki.aria_0.9.4~RC_iphoneos-arm.deb
-Size: 98712
-MD5sum: 33fca0c97db8609d024719b3133af324
-SHA1: 8937c7471994cf3c37029ab74ce9fb89a7be29f0
-SHA256: a56cf2391485c7d522aea08b113a7c11456f3de07793604c9dffb4440da3c249
-SHA512: 55acbc7556b306fd9bdef9a276c52ab85573b6f84363eff336d19f06bed06f09f71d0017e6715bdd77212f1174e6514539f220fd785c008ee63d7ff964d3a733
-Description: Add some flavors to the stock CC or Prysm on the fly
+Size: 98686
+MD5sum: 4e4b670f9c833f459e162ab92d39a68a
+SHA1: 341bbd72fa296b0bfae0d93ea1b9430b2c9af942
+SHA256: 357bdfdc7e0fa29b782adf9566ba14311597b91541ea47a7a0bd00ee1654d979
+SHA512: 9cb3e4d600115368483550045ace8a7c20c473021cbb276af15de41af26bb40fdef840a4fd663cafc6590cb5a5a3af60aac45b9475752a65a476f4d0a37d5f22
+Description: Enhance the stock CC or Prysm on the fly
 Name: Aria
 Author: Luki
 Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
