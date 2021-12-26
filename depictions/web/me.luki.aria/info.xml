@@ -1,7 +1,7 @@
 <package>
 	<id>me.luki.aria</id>
 	<name>Aria</name>
-	<version>0.9.4</version>
+	<version>0.9.5~RC</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -39,7 +39,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Added a gaussian blur option, code refactoring &amp; reorganized preferences.</change>
+		<change>Fixed switches disabling themselves after changing the gradient colors a few times.</change>
 	</changelog>
 	<links>
 		<link>

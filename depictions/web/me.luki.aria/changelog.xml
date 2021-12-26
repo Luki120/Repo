@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.9.4</version>
-		<change>Added a gaussian blur option, code refactoring &amp; reorganized preferences.</change>
+		<version>0.9.5~RC</version>
+		<change>Fixed switches disabling themselves after changing the gradient colors a few times.</change>
 	</changes>
 </changelog>
