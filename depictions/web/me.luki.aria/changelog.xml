@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.9.5~RC</version>
-		<change>Fixed switches disabling themselves after changing the gradient colors a few times.</change>
+		<version>0.9.6~RC</version>
+		<change>Fixed unexpected image fading in after a respring (Prysm).</change>
 	</changes>
 </changelog>
