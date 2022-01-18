@@ -231,6 +231,25 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hello
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hello/depiction.json
 
+Package: me.luki.hello
+Architecture: iphoneos-arm
+Version: 0.9.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 564
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.hello_0.9.2_iphoneos-arm.deb
+Size: 97690
+MD5sum: 854ac3ff936e7078a3832f998732b382
+SHA1: bdf6d49f81bdb551df9027ef8664fe69ac26bf43
+SHA256: 9f2b2d446666836c37ebda2df1adf70d375207d92ac09c5035c3a259f149c8d7
+SHA512: 657902935f472908eb1f746cf08752f80be65f6878c4c53cbd378567d3479dd3d9698870c8632a36c487732c17a3d777e98a9628171bb730189b49922ac9214c
+Description: Yet again another awesome MobileSubstrate tweak
+Name: Hello
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hello
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hello/depiction.json
+
 Package: me.luki.hislerim
 Architecture: iphoneos-arm
 Version: 0.9.0
