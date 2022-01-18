@@ -212,6 +212,23 @@ Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.ffckthatanimation
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.ffckthatanimation/depiction.json
 
+Package: me.luki.hello
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 564
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.hello_0.9.0_iphoneos-arm.deb
+Size: 96526
+MD5sum: fe786c2d9f292724845f3af2c7ea57c7
+SHA1: d7493126ad97e551023598ba1cfdc97bfe6b07e4
+SHA256: cf6f7c81acb20b2dbea6d45de3f079c04654d60b661e6ad2ad83181abf67dd79
+SHA512: 1b9db530c5c0a26faba64a34cf3822795b2717073f8cc529dd4c14bdaf853a2b8fc182204fe52f668a30a70f5d42a54cbfef458fe231309ed255100da108b9c5
+Description: Yet again another awesome MobileSubstrate tweak
+Name: Hello
+Author: Luki
+
 Package: me.luki.hislerim
 Architecture: iphoneos-arm
 Version: 0.9.0
