@@ -220,11 +220,11 @@ Maintainer: Luki
 Installed-Size: 564
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.hello_0.9.0_iphoneos-arm.deb
-Size: 96664
-MD5sum: 15b85cce3efcf60b02e20eb1a58c0110
-SHA1: 39a05efdbca58b7bd81a399db6cb4573cbe11649
-SHA256: 9b0262711ad144cf972125bcd84182b8287cd5171a4fe8eb22bee519803ba15a
-SHA512: 0dd9d5f3caad769777e7714fbea7c42db9c58cf0b20e78b3adb4d66374f2b33d8be99c9964138a6342d5c6800f28ac19a3ec2e0d2679fac4bad7c6bacf3b01df
+Size: 96566
+MD5sum: 21a791ce206fd39983964464bb24a7e2
+SHA1: bdbf3d99de25b0e77f0923b566261de46fe48b6b
+SHA256: 4f99cbdd7359be6a58fa2af5d6c7421fe3020ecdff237724930a3882ba7e952b
+SHA512: cbfde27042d39c8aa67083b4e4e9aa077d829747cf9e0ce8468d299da830faec769001be076a8cdeec8c9f5bf90b687db98e0265da65f43fc90d8c211534356a
 Description: Yet again another awesome MobileSubstrate tweak
 Name: Hello
 Author: Luki
