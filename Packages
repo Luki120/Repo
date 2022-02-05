@@ -142,11 +142,11 @@ Maintainer: Luki
 Installed-Size: 508
 Depends: org.swift.libswift (>= 5.0)
 Filename: ./debians/me.luki.auroraswiftui_0.9.2_iphoneos-arm.deb
-Size: 84208
-MD5sum: 2d131cc1fc9f8d28d071c012fba646d9
-SHA1: 249bdd9297371efb88c238443fb1b1f0422bf1dc
-SHA256: 0495882e1aa00eb35c69936a933079c95dbbf241185129c3701bfe51015d64de
-SHA512: c0ac59d43e55b77f868ca86d982e2a34733220829f2bea0c6c35b86738434bff6a16bf7759088abbb9aabf81f545363e9fe30374dce0386b01d3e7625b294816
+Size: 84250
+MD5sum: eabc8805b690b087a07e38b234f64254
+SHA1: b499abe56e05c45301781977a0712ab38f61ac1e
+SHA256: 89051f3c0ad85bc96eee38ab2c6719ed8424bfd6effed401ad6d1e6f62f918c9
+SHA512: e4ca881407bafdf2f5e84be4110b8b0ab541911cc13194c83d8485474fbe31840b2718838eeb1c3f453ccbfed10a8920131c75de249b963fc99a68d82fbeb739
 Description: An awesome vanilla password manager (kinda)
 Name: Aurora
 Author: Luki
@@ -180,11 +180,11 @@ Maintainer: Luki
 Installed-Size: 312
 Depends: org.swift.libswift (>= 5.0)
 Filename: ./debians/me.luki.coraswiftui_0.9.0_iphoneos-arm.deb
-Size: 38582
-MD5sum: 7f5c78925ce1efdb3b9561ac110d1133
-SHA1: fe0332ab89e2bbe9f384d81082b06032a94a1fd5
-SHA256: 937068a43e0bb2339fa195de777ec9477853f2537b3276766b93ccc1fb45721d
-SHA512: 67f9b3231bd216180c790284d739181bd75a8be73c687f235face517b6b7f627536d0f5938e1fdbc990a33de55668e95144bf2286081e41f4e773b4b451fac40
+Size: 38588
+MD5sum: 95b65c0664f1770b622ebcaf5b1795a9
+SHA1: 914f3aafad19580b8b8c87ccca38a4ba11880938
+SHA256: d943b0488ad0134be669f7041d93f6e4e3f84298eb307c014502fc6a8c489897
+SHA512: 9310922455146341a97d0582f5bcdc3becdfac78d727f4b88fa95b083de95c2abad066902bba609ef505bc74cb4f39954f75ef8e789e213e2e9fb37bbf819051
 Description: See your device's uptime in less clicks
 Name: Cora
 Author: Luki
