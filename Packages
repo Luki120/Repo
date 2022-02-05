@@ -134,6 +134,25 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.auroraswiftui
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.auroraswiftui/depiction.json
 
+Package: me.luki.auroraswiftui
+Architecture: iphoneos-arm
+Version: 0.9.2
+Section: Utilities
+Maintainer: Luki
+Installed-Size: 508
+Depends: org.swift.libswift (>= 5.0)
+Filename: ./debians/me.luki.auroraswiftui_0.9.2_iphoneos-arm.deb
+Size: 84208
+MD5sum: 2d131cc1fc9f8d28d071c012fba646d9
+SHA1: 249bdd9297371efb88c238443fb1b1f0422bf1dc
+SHA256: 0495882e1aa00eb35c69936a933079c95dbbf241185129c3701bfe51015d64de
+SHA512: c0ac59d43e55b77f868ca86d982e2a34733220829f2bea0c6c35b86738434bff6a16bf7759088abbb9aabf81f545363e9fe30374dce0386b01d3e7625b294816
+Description: An awesome vanilla password manager (kinda)
+Name: Aurora
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.auroraswiftui
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.auroraswiftui/depiction.json
+
 Package: me.luki.byebyeadvisorylabel
 Architecture: iphoneos-arm
 Version: 2.1
@@ -153,24 +172,22 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.byebyeadvisorylabel
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.byebyeadvisorylabel/depiction.json
 
-Package: me.luki.coraswift
+Package: me.luki.coraswiftui
 Architecture: iphoneos-arm
 Version: 0.9.0
 Section: Utilities
 Maintainer: Luki
-Installed-Size: 284
+Installed-Size: 312
 Depends: org.swift.libswift (>= 5.0)
-Filename: ./debians/me.luki.coraswift_0.9.0_iphoneos-arm.deb
-Size: 37496
-MD5sum: e863ef6c3742aea27b171aa41ae2a847
-SHA1: 3ef9029ec2917cbcb659b90c2e9402e210613a63
-SHA256: d34f06f8dc730bb954547e4c6be2ba3e453f7f8784781b05ea1470bf4ee65525
-SHA512: 38b41dc50c4668da985cc48c53a908b454e1ec6b2a3121fc97054619c900274b43fa4464cbc6a992c6feb1dc66b80d081c2a530ecf9601c98cc8c1382a776907
-Description: See your device's uptime and information in less clicks
+Filename: ./debians/me.luki.coraswiftui_0.9.0_iphoneos-arm.deb
+Size: 38538
+MD5sum: d0f7b519284a305779df02be2ec9ef06
+SHA1: 55ed6dccf0a5284c003206309d35bcaa683d6ce8
+SHA256: 30eb0506b4fabd86db7fee03baec0530d8fe5d4a3ad5fddb8501e1f11dc9b308
+SHA512: 0c209f3b9f4c8df56729bc5e45c5227b6f7343277b1a8c24cb4569c20cd21d6d057d82b56668cc23c01aaa65486c1d40096e68a011b6cc6ef05651a8c0741a30
+Description: An awesome application!
 Name: Cora
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.coraswift
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.coraswift/depiction.json
 
 Package: me.luki.elixir
 Architecture: iphoneos-arm
@@ -361,6 +378,26 @@ MD5sum: ee2dce92fe0704df090981f54457f675
 SHA1: 3baf92cfc53e491e66d05e0d29ce4172ec0849fe
 SHA256: 9ca0aa22bc80354b924a8660c8eb9083290719ec6adc375a61fc85379429f879
 SHA512: 347ab90087dd5025f44235213c17b56fab90f25fd09b6ddb7dd35aa09cbfc79267b466e7e94c11153e12aa22adc86f08bf485d360d21fef48499b4ffbfe95f19
+Description: An awesome MobileSubstrate tweak indeed
+Name: IWantTranslucent
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
+
+Package: me.luki.iwanttranslucent
+Architecture: iphoneos-arm
+Version: 4.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.iwanttranslucent_4.2_iphoneos-arm.deb
+Size: 4922
+MD5sum: e6a51007939836349d131809c8a4c266
+SHA1: ccb83512ac2f8973f786d02734b915ae8788d6ce
+SHA256: 9e358fdb6281fc246d301c181f80c10807f358e29f3108de4927ef6eb2a6365b
+SHA512: 1c26a9e28f264737d0732d1c5ca1b7f0f56bf118db696d290f7b1be8983cb0c306e758ecfb248aa24a67be068045f1aed409141b44d4f8bb3d01465cd670bb69
 Description: An awesome MobileSubstrate tweak indeed
 Name: IWantTranslucent
 Author: Luki

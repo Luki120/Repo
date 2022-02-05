@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>4.1</version>
-		<change>Added hide CC media player airplay expanded module separators.</change>
+		<version>4.2</version>
+		<change>Fixed a potential crash that could happen in iOS 14.2.</change>
 	</changes>
 </changelog>
