@@ -25,7 +25,7 @@
 		</screenshot>	
 	</screenshots>
 	<changelog>
-		<change></change>
+		<change>Fixed a potential crash that could happen in iOS 14.2.</change>
 	</changelog>
 	<links>
 		<link>
