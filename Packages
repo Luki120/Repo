@@ -180,14 +180,16 @@ Maintainer: Luki
 Installed-Size: 312
 Depends: org.swift.libswift (>= 5.0)
 Filename: ./debians/me.luki.coraswiftui_0.9.0_iphoneos-arm.deb
-Size: 38538
-MD5sum: d0f7b519284a305779df02be2ec9ef06
-SHA1: 55ed6dccf0a5284c003206309d35bcaa683d6ce8
-SHA256: 30eb0506b4fabd86db7fee03baec0530d8fe5d4a3ad5fddb8501e1f11dc9b308
-SHA512: 0c209f3b9f4c8df56729bc5e45c5227b6f7343277b1a8c24cb4569c20cd21d6d057d82b56668cc23c01aaa65486c1d40096e68a011b6cc6ef05651a8c0741a30
-Description: An awesome application!
+Size: 38582
+MD5sum: 7f5c78925ce1efdb3b9561ac110d1133
+SHA1: fe0332ab89e2bbe9f384d81082b06032a94a1fd5
+SHA256: 937068a43e0bb2339fa195de777ec9477853f2537b3276766b93ccc1fb45721d
+SHA512: 67f9b3231bd216180c790284d739181bd75a8be73c687f235face517b6b7f627536d0f5938e1fdbc990a33de55668e95144bf2286081e41f4e773b4b451fac40
+Description: See your device's uptime in less clicks
 Name: Cora
 Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.coraswiftui
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.coraswiftui/depiction.json
 
 Package: me.luki.elixir
 Architecture: iphoneos-arm
