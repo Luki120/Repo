@@ -115,38 +115,19 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arres
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.arres/depiction.json
 
-Package: me.luki.auroraswiftui
-Architecture: iphoneos-arm
-Version: 0.9.0
-Section: Utilities
-Maintainer: Luki
-Installed-Size: 348
-Depends: org.swift.libswift (>= 5.0)
-Filename: ./debians/me.luki.auroraswiftui_0.9.0_iphoneos-arm.deb
-Size: 44450
-MD5sum: 0c5892a1e3f21a1b469a11754410bcbb
-SHA1: d8294c89256f2973c27225ae07e0628890d6e8f4
-SHA256: d2eb56b6e7241d93dfdf9528edf2091f0d4a2297b2865116f603284443e04266
-SHA512: da7bcd7b702cc0138cb1dd9572132c5b7265ef7e255086dfddb0a884cb334fed58a2f3324ab627cebdf687e50bc5ec31f4da27608ab3847901088b747abc7a7f
-Description: An awesome vanilla password generator
-Name: Aurora
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.auroraswiftui
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.auroraswiftui/depiction.json
-
-Package: me.luki.auroraswiftui
+Package: me.luki.aurora
 Architecture: iphoneos-arm
 Version: 0.9.2
 Section: Utilities
 Maintainer: Luki
-Installed-Size: 508
+Installed-Size: 528
 Depends: org.swift.libswift (>= 5.0)
-Filename: ./debians/me.luki.auroraswiftui_0.9.2_iphoneos-arm.deb
-Size: 84250
-MD5sum: eabc8805b690b087a07e38b234f64254
-SHA1: b499abe56e05c45301781977a0712ab38f61ac1e
-SHA256: 89051f3c0ad85bc96eee38ab2c6719ed8424bfd6effed401ad6d1e6f62f918c9
-SHA512: e4ca881407bafdf2f5e84be4110b8b0ab541911cc13194c83d8485474fbe31840b2718838eeb1c3f453ccbfed10a8920131c75de249b963fc99a68d82fbeb739
+Filename: ./debians/me.luki.aurora_0.9.2_iphoneos-arm.deb
+Size: 91840
+MD5sum: 322cb6f72578f56ea14cc30cf568dcb0
+SHA1: 3becfaf313122510a7d77c858d40cd226222d616
+SHA256: 833d10a9b2c4f6fdb508206d5b2719bc987f9d0c85546ce6ca599cd67a4b5028
+SHA512: 6bdec04ccee9d9fb31e9ad01da50cde83522bd4f7bde6d703fa0b38923d9d8383516150eabdaf3af181fc9fe8954d9f5bab2b186fc0068731b0a174a8335649f
 Description: An awesome vanilla password manager (kinda)
 Name: Aurora
 Author: Luki
@@ -172,24 +153,22 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.byebyeadvisorylabel
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.byebyeadvisorylabel/depiction.json
 
-Package: me.luki.coraswiftui
+Package: me.luki.cora
 Architecture: iphoneos-arm
 Version: 0.9.0
 Section: Utilities
 Maintainer: Luki
-Installed-Size: 312
+Installed-Size: 280
 Depends: org.swift.libswift (>= 5.0)
-Filename: ./debians/me.luki.coraswiftui_0.9.0_iphoneos-arm.deb
-Size: 38588
-MD5sum: 95b65c0664f1770b622ebcaf5b1795a9
-SHA1: 914f3aafad19580b8b8c87ccca38a4ba11880938
-SHA256: d943b0488ad0134be669f7041d93f6e4e3f84298eb307c014502fc6a8c489897
-SHA512: 9310922455146341a97d0582f5bcdc3becdfac78d727f4b88fa95b083de95c2abad066902bba609ef505bc74cb4f39954f75ef8e789e213e2e9fb37bbf819051
-Description: See your device's uptime in less clicks
+Filename: ./debians/me.luki.cora_0.9.0_iphoneos-arm.deb
+Size: 34722
+MD5sum: f99e0bad24f02a4fb63933d22ca2ea8b
+SHA1: d884e1a5e10ca282c6ff9cc6c7a7ed60190acf05
+SHA256: 815aa54723625169a66678c5adf7d910e89e47ecf453d1e5b458942c0fac4cd4
+SHA512: 9d0e8235e7f8dc37dcb4a83363c3f1b5019f37860311d9a5534862eeb9402b50439aa097177a805212dc1684b5659752491d3833b71716edd7bfcf2cd183becf
+Description: See your device's uptime and information in less clicks
 Name: Cora
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.coraswiftui
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.coraswiftui/depiction.json
 
 Package: me.luki.elixir
 Architecture: iphoneos-arm

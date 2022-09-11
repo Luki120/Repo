@@ -1,0 +1,84 @@
+{
+
+		"minVersion": "0.1",
+		"headerImage": "",
+		"tintColor": "#00FF00",
+		"tabs": [
+			{
+				"class": "DepictionStackView",
+				"views": [
+					{
+						"useBoldText": true,
+						"class": "DepictionSubheaderView",
+						"title": "Cora",
+						"useBottomMargin": false
+					},
+					{
+						"markdown": "",
+						"useSpacing": true,
+						"class": "DepictionMarkdownView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"itemSize": "{160, 275.41333333333336}",
+						"itemCornerRadius": 6,
+						"class": "DepictionScreenshotsView",
+						"screenshots": [
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/u90M43y.png"
+							},
+							{
+								"accessibilityText": "Screenshot1",
+								"url": "https://i.imgur.com/PYfUua1.png"
+							}
+
+						]
+					},
+					{
+						"useBoldText": true,
+						"class": "DepictionMarkdownView",
+						"title": "markdown-description",
+						"markdown": "See your uptime and device information in less clicks.",
+						"useBottomMargin": false
+					},
+					{
+						"class": "DepictionSeparatorView"
+					},
+					{
+						"text": "0.9.0",
+						"title": "Version",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "11-27-2021",
+						"title": "Released",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "Bruh",
+						"title": "Price",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"text": "Luki120",
+						"title": "Developer",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					}
+				],
+				"tabname": "Details"
+			}
+		],
+		"class": "DepictionTabView"
+	}

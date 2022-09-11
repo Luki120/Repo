@@ -1,0 +1,80 @@
+{
+
+		"minVersion": "0.1",
+		"headerImage": "",
+		"tintColor": "#BCC6F9",
+		"tabs": [
+			{
+				"class": "DepictionStackView",
+				"views": [
+					{
+						"useBoldText": true,
+						"class": "DepictionSubheaderView",
+						"title": "Aurora",
+						"useBottomMargin": false
+					},
+					{
+						"markdown": "",
+						"useSpacing": true,
+						"class": "DepictionMarkdownView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"itemSize": "{160, 275.41333333333336}",
+						"itemCornerRadius": 6,
+						"class": "DepictionScreenshotsView",
+						"screenshots": [
+							{
+								"accessibilityText": "Screenshot0",
+								"url": "https://i.imgur.com/uaxpGDO.png"
+							}
+
+						]
+					},
+					{
+						"useBoldText": true,
+						"class": "DepictionMarkdownView",
+						"title": "markdown-description",
+						"markdown": "An awesome vanilla password manager (kinda).",
+						"useBottomMargin": false
+					},
+					{
+						"class": "DepictionSeparatorView"
+					},
+					{
+						"text": "0.9.2",
+						"title": "Version",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "12-11-2021",
+						"title": "Released",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "Bruh",
+						"title": "Price",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"text": "Luki120",
+						"title": "Developer",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					}
+				],
+				"tabname": "Details"
+			}
+		],
+		"class": "DepictionTabView"
+	}
