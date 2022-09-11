@@ -1,0 +1,42 @@
+<package>
+	<id>me.luki.coraswiftui</id>
+	<name>Cora</name>
+	<version>0.9.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>See your uptime and device information in less clicks.</shortDescription>
+	<descriptionlist>
+		<description>See your uptime and device information in less clicks. It works by running the shell command. Say no more to having to go to terminal and typing it out or going through clunky menus in Settings.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>Cora.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>CoraSettings.png</image>
+		</screenshot>	
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/iOS-Apps/blob/main/Released/Cora</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>

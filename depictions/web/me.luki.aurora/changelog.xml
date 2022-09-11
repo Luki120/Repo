@@ -1,0 +1,6 @@
+<changelog>
+	<changes>
+		<version>0.9.2</version>
+		<change>Added a vault view to store passwords, closer to a password manager now.</change>
+	</changes>
+</changelog>
