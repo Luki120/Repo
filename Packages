@@ -158,17 +158,19 @@ Architecture: iphoneos-arm
 Version: 0.9.0
 Section: Utilities
 Maintainer: Luki
-Installed-Size: 280
+Installed-Size: 312
 Depends: org.swift.libswift (>= 5.0)
 Filename: ./debians/me.luki.cora_0.9.0_iphoneos-arm.deb
-Size: 34722
-MD5sum: f99e0bad24f02a4fb63933d22ca2ea8b
-SHA1: d884e1a5e10ca282c6ff9cc6c7a7ed60190acf05
-SHA256: 815aa54723625169a66678c5adf7d910e89e47ecf453d1e5b458942c0fac4cd4
-SHA512: 9d0e8235e7f8dc37dcb4a83363c3f1b5019f37860311d9a5534862eeb9402b50439aa097177a805212dc1684b5659752491d3833b71716edd7bfcf2cd183becf
-Description: See your device's uptime and information in less clicks
+Size: 41340
+MD5sum: b1270168b7ae2949cdccc0ce51307cf8
+SHA1: e326d93312467935715209bef498ca4efbd3f9c9
+SHA256: e070f92f7961c88ca8cc54a679d33a809b49eda3049477398ef9094209c05fff
+SHA512: 29587a71f9c1e065de8777738ba67ce624d6c50036456b3625c4ff70b3857776420eb96df97efba980f4badb92f691169dc0ead38763cde9caf479e82cce9259
+Description: See your device's uptime in less clicks
 Name: Cora
 Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.cora
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.cora/depiction.json
 
 Package: me.luki.elixir
 Architecture: iphoneos-arm
