@@ -120,19 +120,19 @@ Architecture: iphoneos-arm
 Version: 0.9.2
 Section: Utilities
 Maintainer: Luki
-Installed-Size: 528
+Installed-Size: 276
 Depends: org.swift.libswift (>= 5.0)
 Filename: ./debians/me.luki.aurora_0.9.2_iphoneos-arm.deb
-Size: 91840
-MD5sum: 322cb6f72578f56ea14cc30cf568dcb0
-SHA1: 3becfaf313122510a7d77c858d40cd226222d616
-SHA256: 833d10a9b2c4f6fdb508206d5b2719bc987f9d0c85546ce6ca599cd67a4b5028
-SHA512: 6bdec04ccee9d9fb31e9ad01da50cde83522bd4f7bde6d703fa0b38923d9d8383516150eabdaf3af181fc9fe8954d9f5bab2b186fc0068731b0a174a8335649f
+Size: 58996
+MD5sum: 1dfbcee62e8f1a140009e57c7a889da5
+SHA1: 1a42cd20e556f3062a9a57d854a281b7eb01c5c7
+SHA256: 3e72b92996ac228f6884f43a26151335ef3749d6a0be5e96ef678aa713deea2d
+SHA512: c71437abe703b7289fe312b311388dfab52cde9e40c949e04af81d8efc6818daedd6e31e076e077306adcb30402e18f25b054fd3878196384ad69b7b240d6657
 Description: An awesome vanilla password manager (kinda)
 Name: Aurora
 Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.auroraswiftui
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.auroraswiftui/depiction.json
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aurora
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aurora/depiction.json
 
 Package: me.luki.byebyeadvisorylabel
 Architecture: iphoneos-arm
