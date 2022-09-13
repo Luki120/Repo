@@ -1,68 +1,67 @@
 {
-	
-		"minVersion": "0.1",
-		"headerImage": "",
-		"tintColor": "#8B949E",
-		"tabs": [
-			{
-				"class": "DepictionStackView",
-				"views": [
-					{
-						"useBoldText": true,
-						"class": "DepictionSubheaderView",
-						"title": "Hislerim",
-						"useBottomMargin": false
-					},
-					{
-						"markdown": "",
-						"useSpacing": true,
-						"class": "DepictionMarkdownView"
-					},
-					{
-						"class": "DepictionSpacerView",
-						"spacing": 8
-					},
-					{
-						"useBoldText": true,
-						"class": "DepictionMarkdownView",
-						"title": "markdown-description",
-						"markdown": "Lock your device by double tapping on HS.",
-						"useBottomMargin": false
-					},
-					{
-						"class": "DepictionSeparatorView"
-					},
-					{
-						"text": "1.0",
-						"title": "Version",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"text": "10-03-2021",
-						"title": "Released",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"text": "Bruh",
-						"title": "Price",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"class": "DepictionSpacerView",
-						"spacing": 8
-					},
-					{
-						"text": "Luki120",
-						"title": "Developer",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"class": "DepictionSpacerView",
-						"spacing": 8
-					}
-				],
-				"tabname": "Details"
-			}
-		],
-		"class": "DepictionTabView"
-	}
+	"minVersion": "0.1",
+	"headerImage": "",
+	"tintColor": "#8B949E",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Hislerim",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionMarkdownView",
+					"title": "markdown-description",
+					"markdown": "Lock your device by double tapping on HS.",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"text": "1.0",
+					"title": "Version",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "10-03-2021",
+					"title": "Released",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "Bruh",
+					"title": "Price",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"text": "Luki120",
+					"title": "Developer",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				}
+			],
+			"tabname": "Details"
+		}
+	],
+	"class": "DepictionTabView"
+}

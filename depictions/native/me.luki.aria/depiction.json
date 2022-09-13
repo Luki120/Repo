@@ -1,95 +1,94 @@
 {
-	
-		"minVersion": "0.1",
-		"headerImage": "",
-		"tintColor": "#770945",
-		"tabs": [
-			{
-				"class": "DepictionStackView",
-				"views": [
-					{
-						"useBoldText": true,
-						"class": "DepictionSubheaderView",
-						"title": "Aria",
-						"useBottomMargin": false
-					},
-					{
-						"markdown": "",
-						"useSpacing": true,
-						"class": "DepictionMarkdownView"
-					},
-					{
-						"class": "DepictionSpacerView",
-						"spacing": 8
-					},
-					{
-						"itemSize": "{160, 275.41333333333336}",
-						"itemCornerRadius": 6,
-						"class": "DepictionScreenshotsView",
-						"screenshots": [
-							{
-								"accessibilityText": "Screenshot0",
-								"url": "https://i.imgur.com/umZNa9G.png"
-							},
-							{
-								"accessibilityText": "Screenshot1",
-								"url": "https://i.imgur.com/kuWQZB8.png"
-							},
-							{
-								"accessibilityText": "Screenshot2",
-								"url": "https://i.imgur.com/8qiICbC.jpeg"
-							},
-							{
-								"accessibilityText": "Screenshot3",
-								"url": "https://i.imgur.com/MFVhf5y.png"
-							},
-							{
-								"accessibilityText": "Screenshot4",
-								"url": "https://i.imgur.com/PUAVjjU.png"
-							}
-						]
-					},
-					{
-						"useBoldText": true,
-						"class": "DepictionMarkdownView",
-						"title": "markdown-description",
-						"markdown": "Add some flavors to the stock CC or Prysm on the fly. \n* Features: \n* On the fly preferences. \n* Custom dark mode image. \n* Custom light mode image. \n* Epic blur with custom intensity. \n* Gaussian blur with custom intensity. \n* Gradients with custom directions & optional animation. \n* ### Prysm Support \n* Custom dark mode image. \n* Custom light mode image. \n* Epic blur & custom intensity. \n* Gaussian blur & custom intensity. \n* Gradients with custom directions & optional animation.",
-						"useBottomMargin": false
-					},
-					{
-						"class": "DepictionSeparatorView"
-					},
-					{
-						"text": "0.9.6~RC",
-						"title": "Version",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"text": "10-02-2021",
-						"title": "Released",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"text": "Bruh",
-						"title": "Price",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"class": "DepictionSpacerView",
-						"spacing": 8
-					},
-					{
-						"text": "Luki120",
-						"title": "Developer",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"class": "DepictionSpacerView",
-						"spacing": 8
-					}
-				],
-				"tabname": "Details"
-			}
-		],
-		"class": "DepictionTabView"
-	}
+	"minVersion": "0.1",
+	"headerImage": "",
+	"tintColor": "#770945",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Aria",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot0",
+							"url": "https://i.imgur.com/umZNa9G.png"
+						},
+						{
+							"accessibilityText": "Screenshot1",
+							"url": "https://i.imgur.com/kuWQZB8.png"
+						},
+						{
+							"accessibilityText": "Screenshot2",
+							"url": "https://i.imgur.com/8qiICbC.jpeg"
+						},
+						{
+							"accessibilityText": "Screenshot3",
+							"url": "https://i.imgur.com/MFVhf5y.png"
+						},
+						{
+							"accessibilityText": "Screenshot4",
+							"url": "https://i.imgur.com/PUAVjjU.png"
+						}
+					]
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionMarkdownView",
+					"title": "markdown-description",
+					"markdown": "Add some flavors to the stock CC or Prysm on the fly. \n* Features: \n* On the fly preferences. \n* Custom dark mode image. \n* Custom light mode image. \n* Epic blur with custom intensity. \n* Gaussian blur with custom intensity. \n* Gradients with custom directions & optional animation. \n* ### Prysm Support \n* Custom dark mode image. \n* Custom light mode image. \n* Epic blur & custom intensity. \n* Gaussian blur & custom intensity. \n* Gradients with custom directions & optional animation.",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"text": "0.9.6~RC",
+					"title": "Version",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "10-02-2021",
+					"title": "Released",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "Bruh",
+					"title": "Price",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"text": "Luki120",
+					"title": "Developer",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				}
+			],
+			"tabname": "Details"
+		}
+	],
+	"class": "DepictionTabView"
+}

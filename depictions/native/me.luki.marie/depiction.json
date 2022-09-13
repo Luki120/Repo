@@ -1,88 +1,87 @@
 {
-	
-		"minVersion": "0.1",
-		"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieBanner.png",
-		"tintColor": "#F37599",
-		"tabs": [
-			{
-				"class": "DepictionStackView",
-				"views": [
-					{
-						"useBoldText": true,
-						"class": "DepictionSubheaderView",
-						"title": "Marie",
-						"useBottomMargin": false
-					},
-					{
-						"markdown": "",
-						"useSpacing": true,
-						"class": "DepictionMarkdownView"
-					},
-					{
-						"class": "DepictionSpacerView",
-						"spacing": 8
-					},
-					{
-						"itemSize": "{160, 275.41333333333336}",
-						"itemCornerRadius": 6,
-						"class": "DepictionScreenshotsView",
-						"screenshots": [
-							{
-								"accessibilityText": "Screenshot0",
-								"url": "https://i.imgur.com/izQC4ey.png"
-							},
-							{
-								"accessibilityText": "Screenshot0",
-								"url": "https://i.imgur.com/u8o8On1.png"
-							},
-							{
-								"accessibilityText": "Screenshot0",
-								"url": "https://i.imgur.com/xNE0mqk.png"
-							}
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieBanner.png",
+	"tintColor": "#F37599",
+	"tabs": [
+		{
+			"class": "DepictionStackView",
+			"views": [
+				{
+					"useBoldText": true,
+					"class": "DepictionSubheaderView",
+					"title": "Marie",
+					"useBottomMargin": false
+				},
+				{
+					"markdown": "",
+					"useSpacing": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"itemSize": "{160, 275.41333333333336}",
+					"itemCornerRadius": 6,
+					"class": "DepictionScreenshotsView",
+					"screenshots": [
+						{
+							"accessibilityText": "Screenshot0",
+							"url": "https://i.imgur.com/izQC4ey.png"
+						},
+						{
+							"accessibilityText": "Screenshot0",
+							"url": "https://i.imgur.com/u8o8On1.png"
+						},
+						{
+							"accessibilityText": "Screenshot0",
+							"url": "https://i.imgur.com/xNE0mqk.png"
+						}
 
-						]
-					},
-					{
-						"useBoldText": true,
-						"class": "DepictionMarkdownView",
-						"title": "markdown-description",
-						"markdown": "Put an image for the dialer, passcode or sharesheet background on the fly. \n* Logo from: https://icons8.com/",
-						"useBottomMargin": false
-					},
-					{
-						"class": "DepictionSeparatorView"
-					},
-					{
-						"text": "1.0.4",
-						"title": "Version",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"text": "08-12-2021",
-						"title": "Released",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"text": "Bruh",
-						"title": "Price",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"class": "DepictionSpacerView",
-						"spacing": 8
-					},
-					{
-						"text": "Luki120",
-						"title": "Developer",
-						"class": "DepictionTableTextView"
-					},
-					{
-						"class": "DepictionSpacerView",
-						"spacing": 8
-					}
-				],
-				"tabname": "Details"
-			}
-		],
-		"class": "DepictionTabView"
-	}
+					]
+				},
+				{
+					"useBoldText": true,
+					"class": "DepictionMarkdownView",
+					"title": "markdown-description",
+					"markdown": "Put an image for the dialer, passcode or sharesheet background on the fly. \n* Logo from: https://icons8.com/",
+					"useBottomMargin": false
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"text": "1.0.4",
+					"title": "Version",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "08-12-2021",
+					"title": "Released",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"text": "Bruh",
+					"title": "Price",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				},
+				{
+					"text": "Luki120",
+					"title": "Developer",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"class": "DepictionSpacerView",
+					"spacing": 8
+				}
+			],
+			"tabname": "Details"
+		}
+	],
+	"class": "DepictionTabView"
+}
