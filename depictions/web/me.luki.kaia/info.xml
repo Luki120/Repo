@@ -1,0 +1,38 @@
+<package>
+	<id>me.luki.kaia</id>
+	<name>Kaia</name>
+	<version>0.9.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Biometrics for your hidden album in Photos app.</shortDescription>
+	<descriptionlist>
+		<description>Lock your hidden album with TouchID or password. Includes a CC module to toggle it on-off on the fly.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Kaia screenshot</description>
+			<image>Kaia.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/Kaia</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>

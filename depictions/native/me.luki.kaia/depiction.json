@@ -1,0 +1,79 @@
+{
+
+		"minVersion": "0.1",
+		"headerImage": "",
+		"tintColor": "#B38FFF",
+		"tabs": [
+			{
+				"class": "DepictionStackView",
+				"views": [
+					{
+						"useBoldText": true,
+						"class": "DepictionSubheaderView",
+						"title": "Kaia",
+						"useBottomMargin": false
+					},
+					{
+						"markdown": "",
+						"useSpacing": true,
+						"class": "DepictionMarkdownView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"itemSize": "{160, 275.41333333333336}",
+						"itemCornerRadius": 6,
+						"class": "DepictionScreenshotsView",
+						"screenshots": [
+							{
+								"accessibilityText": "Screenshot",
+								"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/Kaia.png"
+							}
+						]
+					},
+					{
+						"useBoldText": true,
+						"class": "DepictionMarkdownView",
+						"title": "markdown-description",
+						"markdown": "Lock your hidden album with TouchID or password. Includes a CC module to toggle it on-off on the fly.",
+						"useBottomMargin": false
+					},
+					{
+						"class": "DepictionSeparatorView"
+					},
+					{
+						"text": "0.9.0",
+						"title": "Version",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "9-11-2022",
+						"title": "Released",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"text": "Bruh",
+						"title": "Price",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					},
+					{
+						"text": "Luki120",
+						"title": "Developer",
+						"class": "DepictionTableTextView"
+					},
+					{
+						"class": "DepictionSpacerView",
+						"spacing": 8
+					}
+				],
+				"tabname": "Details"
+			}
+		],
+		"class": "DepictionTabView"
+	}

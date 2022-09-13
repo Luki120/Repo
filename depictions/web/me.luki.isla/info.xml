@@ -1,0 +1,38 @@
+<package>
+	<id>me.luki.isla</id>
+	<name>Isla</name>
+	<version>0.9.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Netflix like volume HUD.</shortDescription>
+	<descriptionlist>
+		<description>Netflix like volume HUD.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Isla screenshot</description>
+			<image>Isla.jpeg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/Isla</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>
