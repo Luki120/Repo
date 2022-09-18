@@ -1,63 +1,5 @@
 Package: me.luki.aria
 Architecture: iphoneos-arm
-Version: 0.9.0~RC
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 628
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.aria_0.9.0~RC_iphoneos-arm.deb
-Size: 44182
-MD5sum: a2e7e1fd0476308db537301c7f801de3
-SHA1: b94d113a8f89be982e593a5138d1b32a66fa4a00
-SHA256: e9ba35765ba3b5e575478ac79a743fc2c766f92ee8051d95415e08f0516dd43e
-SHA512: 25daed2747d1d67d585a43eff97c87b5f281bd033ce7a1676398dc6f8325f57dad544e2f84906606a6ef86fab849eb91a7ef82341408e956093b110b9f25c022
-Description: Add some flavors to the stock CC or Prysm on the fly
-Name: Aria
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
-
-Package: me.luki.aria
-Architecture: iphoneos-arm
-Version: 0.9.2~RC
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 628
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.aria_0.9.2~RC_iphoneos-arm.deb
-Size: 44742
-MD5sum: c8655ac6b73bf80185e73dc9e2a4b2b2
-SHA1: 06e22ea3db81a197d4106c60d7d42d500532c9a6
-SHA256: 9bb11d516f973654b402d144b006b4548138a6488e7682e9e9016dbe3fa420c7
-SHA512: 05672a4d2737e2a22f41594f82363a4adf46f8eba4dfee6677c90c3b3dea998747e1fd2859e0577ba7a3bd434e7527f1309f0084830e3e8903428aead6038841
-Description: Add some flavors to the stock CC or Prysm on the fly
-Name: Aria
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
-
-Package: me.luki.aria
-Architecture: iphoneos-arm
-Version: 0.9.4~RC
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 712
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.aria_0.9.4~RC_iphoneos-arm.deb
-Size: 98686
-MD5sum: 4e4b670f9c833f459e162ab92d39a68a
-SHA1: 341bbd72fa296b0bfae0d93ea1b9430b2c9af942
-SHA256: 357bdfdc7e0fa29b782adf9566ba14311597b91541ea47a7a0bd00ee1654d979
-SHA512: 9cb3e4d600115368483550045ace8a7c20c473021cbb276af15de41af26bb40fdef840a4fd663cafc6590cb5a5a3af60aac45b9475752a65a476f4d0a37d5f22
-Description: Enhance the stock CC or Prysm on the fly
-Name: Aria
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
-
-Package: me.luki.aria
-Architecture: iphoneos-arm
 Version: 0.9.5~RC
 Section: Tweaks
 Maintainer: Luki
@@ -290,66 +232,6 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.igconfirm/de
 
 Package: me.luki.iwanttranslucent
 Architecture: iphoneos-arm
-Version: 2.0
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debians/me.luki.iwanttranslucent_2.0_iphoneos-arm.deb
-Size: 3180
-MD5sum: 21eb01c4b3dbefb7b43f2f3fe42fb206
-SHA1: aecb1dc29ee94ee599d4d2065da8d6b506542d79
-SHA256: 2725acb40faf76bced7b98d88c2264cbddb99594d55dbc5abe80bad72ce96cfc
-SHA512: ff8d43db2cacd18cdaaf45513b7b2fc233de1c670b284c178455f05641662a08081482f6bec27b2dbf5120b969926c6e903b2b17770fdcd50d23ca627b7b9509
-Description: An awesome MobileSubstrate tweak indeed
-Name: IWantTranslucent
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
-
-Package: me.luki.iwanttranslucent
-Architecture: iphoneos-arm
-Version: 3.0
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 184
-Depends: mobilesubstrate
-Filename: ./debians/me.luki.iwanttranslucent_3.0_iphoneos-arm.deb
-Size: 3346
-MD5sum: 87837b5c083dbb2e71827880c5d1916a
-SHA1: d9f4be6f1a52025f5d619c1dfc0c3322a55fa0cc
-SHA256: c45712cbd2b1b066af5b99f9a8499348e3aba3021258a2b1627cf6b9845cc1fe
-SHA512: 28ff553e8d793b46d891be2c20a255b069cd1af322afe3507bfeea605dfdd8b51247c2495cf55a60f2e6dcf9a71bde079822d7df1e48fe9ed6dee76d8397b88e
-Description: An awesome MobileSubstrate tweak indeed
-Name: IWantTranslucent
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
-
-Package: me.luki.iwanttranslucent
-Architecture: iphoneos-arm
-Version: 4.0
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 184
-Depends: mobilesubstrate
-Filename: ./debians/me.luki.iwanttranslucent_4.0_iphoneos-arm.deb
-Size: 6378
-MD5sum: 06e57a0761c5a1c87bb0a50bf8f2be7a
-SHA1: bda06f3068cfb7e84a9802273d00a12b9f07f53f
-SHA256: 6951c00df6683da48f57a6f9c649f122b01a85687baebc4436456e33d02c4393
-SHA512: b5979514fa486b209f63c23be893be8fdfa0125a266434616ea5b4204b77943c6e652611644f17d2bdaa8e8e9d7fb9e3f2972d8aa036d9d367b4e648d0e3a482
-Description: An awesome MobileSubstrate tweak indeed
-Name: IWantTranslucent
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
-
-Package: me.luki.iwanttranslucent
-Architecture: iphoneos-arm
 Version: 4.1
 Section: Tweaks
 Maintainer: Luki
@@ -409,45 +291,6 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.legacyrings/
 
 Package: me.luki.marie
 Architecture: iphoneos-arm
-Version: 1.0.1
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 408
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.marie_1.0.1_iphoneos-arm.deb
-Size: 30174
-MD5sum: 027f4db1ca996bbc856abb1b031771cb
-SHA1: d6a8515ff7e92a450e575a3479d2221f6a46b75f
-SHA256: e59d7c3f7bd2f6566943ae94a45c340871b0b9685b0b636266a651615aa80bd6
-SHA512: 5ac99dd6f1947020774b7132cc2583b4a26e538fdf15ac36ea0d96545de81b467ab3e5927e065b78ac675586e1598e6e7bdc391cc57f2b539276a4cf44f23254
-Description: A goddamn neat awesome mobile substrate tweak or whatever
-Name: Marie
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
-
-Package: me.luki.marie
-Architecture: iphoneos-arm
-Version: 1.0.2
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 904
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.marie_1.0.2_iphoneos-arm.deb
-Size: 514602
-MD5sum: a8a25bfccc00f9df0c88c50a03188dd4
-SHA1: b22b5909f72c18fe4483b3731962e45761bce0ba
-SHA256: cfc6bdd4927455f8ac6021f10424b65ed479d78125b4060103899dc00b9ce447
-SHA512: 03e0aa54551278d13deda175900f1d35cfd9e3499205695fc7cf5262486be441ad08b3e69c2ba05d173a00bb5f6ec9313147732a2a13d57f06eed2206d0fc865
-Description: A goddamn neat awesome mobile substrate tweak or whatever
-Name: Marie
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
-
-Package: me.luki.marie
-Architecture: iphoneos-arm
 Version: 1.0.3
 Section: Tweaks
 Maintainer: Luki
@@ -485,44 +328,6 @@ Author: Luki
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieIcon.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
-
-Package: me.luki.marie
-Architecture: iphoneos-arm
-Version: 1.0
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 344
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.marie_1.0_iphoneos-arm.deb
-Size: 27770
-MD5sum: 337c97b9af12e221a29423956e80e4da
-SHA1: 904930e81470079cebf7e95462d77eeb9dce067c
-SHA256: fdf6ad1b55ec390fede046df561ae41fcac33b86dea2985337c75745a14fc05e
-SHA512: 64449befefe788bf5493dd480b7508c7e23fb76c83ff9db8033c96ad615ddff9e70ab0b7f414e0b3c00e820513cf2babf084269881c533dafcda2c754871605a
-Description: A goddamn neat awesome mobile substrate tweak or whatever
-Name: Marie
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
-
-Package: me.luki.netflixcctoggle
-Architecture: iphoneos-arm
-Version: 0.9.0
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 340
-Depends: mobilesubstrate
-Filename: ./debians/me.luki.netflixcctoggle_0.9.0_iphoneos-arm.deb
-Size: 7932
-MD5sum: e3f4f1c44bd93db63e5121c828a71470
-SHA1: 010c822983493aa6e1535b2f5ec6e2650cff01ef
-SHA256: f2f54f5b543085dd2c69db56c8bed457d83f87f895ec4adfa1286d4d8e8f3c07
-SHA512: c34522e2f1de65adaa3b89f1b7676e9653d10ba0ddb60a6ac1fad2bbd38791205709b0a9434a9e2d111e5850d86f7182117800eb663fa7d097accb39fa7408be
-Description: An awesome Control Center module!
-Name: NetflixToggle
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.netflixcctoggle
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.netflixcctoggle/depiction.json
 
 Package: me.luki.reachspring
 Architecture: iphoneos-arm
@@ -580,23 +385,4 @@ Name: StealthCC
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
-
-Package: me.luki.walltoggle
-Architecture: iphoneos-arm
-Version: 0.9.0
-Section: Control Center (Modules)
-Maintainer: Luki
-Installed-Size: 160
-Depends: mobilesubstrate
-Filename: ./debians/me.luki.walltoggle_0.9.0_iphoneos-arm.deb
-Size: 5226
-MD5sum: 0f24892dcc089aefa9597a98f8b4d2af
-SHA1: 1fd4f3298b265fca235f531bf40801d0a3b0d3db
-SHA256: cf9cb7866a0d80c2b50f512d6d5c0c3affab6f66c3daafe476a79792d931f4ba
-SHA512: 978479120f6dc308e8b7f02ec200348dd212ea0704b31e0f3b8c29e75d5c0cf0b4ca1a1a58ee3728f15605476b8206d1b0579ac3f62859d639b4c46181090beb
-Description: An awesome Control Center module!
-Name: WallToggle
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.walltoggle
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.walltoggle/depiction.json
 
