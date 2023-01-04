@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0.4</version>
-		<change>Fixed banner &amp; passcode image not clipping to bounds &amp; prefs code refactoring.</change>
+		<version>1.0.5</version>
+		<change>Tweak &amp; prefs code refactoring ⇝ everything works the same, but better.</change>
 	</changes>
 </changelog>

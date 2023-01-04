@@ -1,7 +1,7 @@
 <package>
 	<id>me.luki.marie</id>
 	<name>Marie</name>
-	<version>1.0.4</version>
+	<version>1.0.5</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -31,7 +31,7 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Fixed banner &amp; passcode image not clipping to bounds &amp; prefs code refactoring.</change>
+		<change>Tweak &amp; prefs code refactoring ⇝ everything works the same, but better.</change>
 	</changelog>
 	<links>
 		<link>
