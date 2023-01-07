@@ -22,11 +22,6 @@
 					"spacing": 8
 				},
 				{
-					"itemSize": "{160, 275.41333333333336}",
-					"itemCornerRadius": 6,
-					"class": "DepictionScreenshotsView",
-				},
-				{
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
