@@ -1,0 +1,32 @@
+<package>
+	<id>me.luki.canna</id>
+	<name>Canna</name>
+	<version>0.9.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Screen record on the LS without authenticating.</shortDescription>
+	<descriptionlist>
+		<description>RecordAnywhere by @Muirey03 updated for iOS 14 +</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/SmallTweaks/tree/main/Canna</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>
