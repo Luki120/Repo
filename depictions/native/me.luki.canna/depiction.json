@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "",
-	"tintColor": "#7E00FF",
+	"tintColor": "#60B2E7",
 	"tabs": [
 		{
 			"class": "DepictionStackView",
@@ -18,14 +18,10 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"class": "DepictionSpacerView",
-					"spacing": 8
-				},
-				{
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "RecordAnywhere by @Muirey03 updated for iOS 14 +",
+					"markdown": "Record on the LS without authenticating for ⇝ iOS 14 +",
 					"useBottomMargin": false
 				},
 				{

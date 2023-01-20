@@ -10,9 +10,9 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Screen record on the LS without authenticating.</shortDescription>
+	<shortDescription>Record on the LS without authenticating.</shortDescription>
 	<descriptionlist>
-		<description>RecordAnywhere by @Muirey03 updated for iOS 14 +</description>
+		<description>Record on the LS without authenticating for ⇝ iOS 14 +</description>
 	</descriptionlist>
 	<changelog>
 		<change>Initial release.</change>
