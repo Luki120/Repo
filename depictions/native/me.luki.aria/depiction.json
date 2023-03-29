@@ -52,7 +52,7 @@
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "Enhance the stock CC or Prysm on the fly.. \n* Features: \n* On the fly preferences. \n* Custom dark & light mode image. \n* Epic & gaussian blur with custom intensity. \n* Gradients with custom directions & optional animation. \n* Prysm support.",
+					"markdown": "Enhance the stock CC or Prysm on the fly. \n* Features: \n* On the fly preferences. \n* Custom dark & light mode image. \n* Epic & gaussian blur with custom intensity. \n* Gradients with custom directions & optional animation. \n* Prysm support.",
 					"useBottomMargin": false
 				},
 				{
