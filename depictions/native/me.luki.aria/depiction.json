@@ -52,7 +52,7 @@
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "Add some flavors to the stock CC or Prysm on the fly. \n* Features: \n* On the fly preferences. \n* Custom dark mode image. \n* Custom light mode image. \n* Epic blur with custom intensity. \n* Gaussian blur with custom intensity. \n* Gradients with custom directions & optional animation. \n* ### Prysm Support \n* Custom dark mode image. \n* Custom light mode image. \n* Epic blur & custom intensity. \n* Gaussian blur & custom intensity. \n* Gradients with custom directions & optional animation.",
+					"markdown": "Enhance the stock CC or Prysm on the fly.. \n* Features: \n* On the fly preferences. \n* Custom dark & light mode image. \n* Epic & gaussian blur with custom intensity. \n* Gradients with custom directions & optional animation. \n* Prysm support.",
 					"useBottomMargin": false
 				},
 				{
@@ -65,7 +65,7 @@
 				},
 				{
 					"text": "10-02-2021",
-					"title": "Released",
+					"title": "Updated",
 					"class": "DepictionTableTextView"
 				},
 				{
