@@ -12,18 +12,17 @@
 	</dependencies>
 	<shortDescription>Disable tapping on notifications for 0.8s</shortDescription>
 	<descriptionlist>
-		<description>Disable tapping on notifications for 0.8s to avoid accidental taps. Original tweak by @iCrazeiOS, updated for iOS 14 by @Lukii120.</description>
+		<description>Disable tapping on notifications for 0.8s to avoid accidental taps. Original tweak by @iCrazeiOS, updated for iOS 14+ by @Lukii120.</description>
 	</descriptionlist>
-	<screenshots>
-		<screenshot>
-			<description></description>
-			<image></image>
-		</screenshot>
-	</screenshots>
 	<changelog>
 		<change>Initial release.</change>
 	</changelog>
 	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/SmallTweaks/tree/main/SpringBoard/Arres</url>
+			<iconclass></iconclass>
+		</link>
 		<link>
 			<name>Twitter</name>
 			<url>https://twitter.com/Lukii120</url>
