@@ -219,11 +219,11 @@ Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.igconfirm_0.9.0_iphoneos-arm.deb
-Size: 6160
-MD5sum: 429b64f4e80d89029bb88944d1d8ba11
-SHA1: c0debf1035c426db7e6d2366a74ae3dd4d389781
-SHA256: 035f0f114d2c4e2183d0699d39076b3609ac8328f46c3ca8c135622daa9d5d88
-SHA512: 2117610ce6d1af33a3220f33a4ad76b0b73bcc2eef72417ec16f1f59f7682a3c34eef6561e7965d016ece80053bb7c25badb82936e9dcadb957366a6bea807cc
+Size: 5438
+MD5sum: 7c72519a331b246ff42114918362dfd1
+SHA1: 246195dbb2bf9506b1c9e58e9cd8e572f41a2cb9
+SHA256: d4c0e283b11b8ca750fc0786bceaaf6728b2e7bd6ae56cd114f9b8affee4d1f5
+SHA512: 844a2e06bdd7dc88ac95f017e7bf9dc6968b0b7df5967cd8371ef7dc2dbd9cc621cd2c3749959a5cfc6a55aaecf2ada46c2fe336999af295400fb87701d87d66
 Description: Prevent accidental likes or follows on Instagram
 Name: IGConfirm
 Author: Luki
