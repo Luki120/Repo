@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "",
-	"tintColor": "#8a3ab9",
+	"tintColor": "#8A3AB9",
 	"tabs": [
 		{
 			"class": "DepictionStackView",
@@ -16,10 +16,6 @@
 					"markdown": "",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
-				},
-				{
-					"class": "DepictionSpacerView",
-					"spacing": 8
 				},
 				{
 					"useBoldText": true,
@@ -37,7 +33,7 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "10-25-2021",
+					"text": "10/25/21",
 					"title": "Released",
 					"class": "DepictionTableTextView"
 				},

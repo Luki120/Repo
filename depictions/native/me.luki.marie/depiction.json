@@ -31,11 +31,11 @@
 							"url": "https://i.imgur.com/izQC4ey.png"
 						},
 						{
-							"accessibilityText": "Screenshot0",
+							"accessibilityText": "Screenshot1",
 							"url": "https://i.imgur.com/u8o8On1.png"
 						},
 						{
-							"accessibilityText": "Screenshot0",
+							"accessibilityText": "Screenshot2",
 							"url": "https://i.imgur.com/xNE0mqk.png"
 						}
 
@@ -57,8 +57,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "1-4-23",
-					"title": "Updated",
+					"text": "1/4/23",
+					"title": "Released",
 					"class": "DepictionTableTextView"
 				},
 				{

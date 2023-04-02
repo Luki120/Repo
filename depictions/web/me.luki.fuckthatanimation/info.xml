@@ -1,6 +1,6 @@
 <package>
-	<id>me.luki.selene</id>
-	<name>Selene</name>
+	<id>me.luki.fuckthatanimation</id>
+	<name>FuckThatAnimation</name>
 	<version>0.9.0</version>
 	<compatibility>
 		<firmware>
@@ -9,17 +9,16 @@
 	</compatibility>
 	<dependencies>
 		<package>mobilesubstrate</package>
-		<package>preferenceloader</package>
 	</dependencies>
-	<shortDescription>Triple tap on the LS to save the stock wallpapers (or any).</shortDescription>
+	<shortDescription>Removes the labels &amp; fade out when toggling a CC toggle.</shortDescription>
 	<descriptionlist>
-		<description>Triple tap on the LS to save the stock wallpapers (or any) on the fly.</description>
+		<description>Removes the labels &amp; fade out when toggling a CC toggle.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
 			<description></description>
-			<image>Selene.png</image>
-		</screenshot>
+			<image>FTA.png</image>
+		</screenshot>	
 	</screenshots>
 	<changelog>
 		<change>Initial release.</change>
@@ -27,7 +26,7 @@
 	<links>
 		<link>
 			<name>Source Code</name>
-			<url>https://github.com/Luki120/SmallTweaks/tree/main/SpringBoard/Selene</url>
+			<url>https://github.com/Luki120/SmallTweaks/tree/main/SpringBoard/FuckThatAnimation</url>
 			<iconclass></iconclass>
 		</link>
 		<link>

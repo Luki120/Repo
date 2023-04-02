@@ -1,7 +1,7 @@
 <package>
 	<id>me.luki.stealthcc</id>
 	<name>StealthCC</name>
-	<version>1.0</version>
+	<version>0.9.0</version>
 	<compatibility>
 		<firmware>
 			<miniOS>13.0</miniOS>
@@ -13,7 +13,7 @@
 	</dependencies>
 	<shortDescription>Control the intensity of the CC blur</shortDescription>
 	<descriptionlist>
-		<description>Control the intensity of the CC blur on the fly with StealthCC, no need for respring (:</description>
+		<description>Control the intensity of the CC blur on the fly.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -22,13 +22,18 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial Release.</change>
+		<change>Initial release.</change>
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/SmallTweaks/tree/main/SpringBoard/StealthCC</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
 		</link>
 	</links>
 </package>

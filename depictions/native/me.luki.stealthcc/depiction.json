@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "",
-	"tintColor": "#9bd1e1",
+	"tintColor": "#9BD1E1",
 	"tabs": [
 		{
 			"class": "DepictionStackView",
@@ -31,29 +31,28 @@
 							"url": "https://i.imgur.com/9biCyBc.png"
 						},
 						{
-							"accessibilityText": "Screenshot0",
+							"accessibilityText": "Screenshot1",
 							"url": "https://i.imgur.com/NDuxOrv.png"
 						}
-
 					]
 				},
 				{
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "Control the intensity of the CC Blur. Tweak requested by Stealth on Litcord and made gratefully and with love.  \n* Original tweak idea from NoBlurCC by @EthanWhited (nahtedetihw).",
+					"markdown": "Control the intensity of the CC blur. \n* Original tweak idea from NoBlurCC by @EthanWhited (nahtedetihw).",
 					"useBottomMargin": false
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"text": "1.0",
+					"text": "0.9.0",
 					"title": "Version",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "05-14-2021",
+					"text": "5/14/21",
 					"title": "Released",
 					"class": "DepictionTableTextView"
 				},

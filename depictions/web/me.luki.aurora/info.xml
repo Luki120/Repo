@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>A vanilla password manager made with SwiftUI.</shortDescription>
+	<shortDescription>A vanilla password manager</shortDescription>
 	<descriptionlist>
 		<description>A vanilla password manager (kinda).</description>
 	</descriptionlist>

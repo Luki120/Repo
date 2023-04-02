@@ -30,27 +30,26 @@
 							"accessibilityText": "Screenshot0",
 							"url": "https://i.imgur.com/cmdiCBi.png"
 						}
-
 					]
 				},
 				{
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "Removes the parental advisory label that Netflix likes to annoy us with every single time we watch an episode of our TV show or a movie.",
+					"markdown": "Removes the parental advisory label when watching a movie or tv show.",
 					"useBottomMargin": false
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"text": "2.1",
+					"text": "0.9.0",
 					"title": "Version",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "08-29-2021",
-					"title": "Released",
+					"text": "8/29/21",
+					"title": "Updated",
 					"class": "DepictionTableTextView"
 				},
 				{

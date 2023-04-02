@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWTGradient.png",
-	"tintColor": "#92b8c9",
+	"headerImage": "",
+	"tintColor": "#92B8C9",
 	"tabs": [
 		{
 			"class": "DepictionStackView",
@@ -31,7 +31,7 @@
 							"url": "https://i.imgur.com/9yKqP1n.jpg"
 						},
 						{
-							"accessibilityText": "Screenshot0",
+							"accessibilityText": "Screenshot1",
 							"url": "https://i.imgur.com/joc4HBi.jpeg"
 						}
 					]
@@ -40,20 +40,20 @@
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "Replace the ugly effects on the 3D Touch context menu for a clean translucent look. Requested by Vic in Litcord. \n* Original tweak idea by @iCrazeiOS, updated for iOS 14 by @Lukii120. \n* Pretty handcrafted icon by @BenOwl3.",
+					"markdown": "Replace the ugly effects on the 3D Touch context menu for a clean translucent look. \n* Original tweak idea by @iCrazeiOS, updated for iOS 14+ by @Lukii120. \n* Handcrafted icon by @BenOwl3.",
 					"useBottomMargin": false
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"text": "4.2",
+					"text": "0.9.2",
 					"title": "Version",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "04-29-2021",
-					"title": "Released",
+					"text": "4/1/23",
+					"title": "Updated",
 					"class": "DepictionTableTextView"
 				},
 				{

@@ -30,7 +30,6 @@
 							"accessibilityText": "Screenshot0",
 							"url": "https://i.imgur.com/uaxpGDO.png"
 						}
-
 					]
 				},
 				{
@@ -49,8 +48,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "12-11-2021",
-					"title": "Released",
+					"text": "12/11/21",
+					"title": "Updated",
 					"class": "DepictionTableTextView"
 				},
 				{

@@ -34,7 +34,6 @@
 							"accessibilityText": "Screenshot1",
 							"url": "https://i.imgur.com/PYfUua1.png"
 						}
-
 					]
 				},
 				{
@@ -53,7 +52,7 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "11-27-2021",
+					"text": "11/27/21",
 					"title": "Released",
 					"class": "DepictionTableTextView"
 				},

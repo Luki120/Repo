@@ -1,6 +1,6 @@
 <package>
 	<id>me.luki.legacyrings</id>
-	<name>Aria</name>
+	<name>LegacyRings</name>
 	<version>0.9.0</version>
 	<compatibility>
 		<firmware>
@@ -22,12 +22,12 @@
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Initial Release.</change>
+		<change>Initial release.</change>
 	</changelog>
 	<links>
 		<link>
 			<name>Source Code</name>
-			<url>https://github.com/Luki120/SmallTweaks/tree/main/LegacyRings</url>
+			<url>https://github.com/Luki120/SmallTweaks/tree/main/SpringBoard/LegacyRings</url>
 			<iconclass></iconclass>
 		</link>
 		<link>
