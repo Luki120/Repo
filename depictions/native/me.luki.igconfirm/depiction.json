@@ -13,15 +13,10 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "",
-					"useSpacing": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "",
+					"markdown": "Prevent accidental likes or follows on Instagram by showing a popup confirmation.",
 					"useBottomMargin": false
 				},
 				{

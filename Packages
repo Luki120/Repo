@@ -161,13 +161,13 @@ Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debians/me.luki.fuckthatanimation_0.9.0_iphoneos-arm.deb
-Size: 3428
-MD5sum: ec6c1c2d412cf58003278ac5db264cce
-SHA1: a652ef78390091f1c941a767208657aa4da4fa7b
-SHA256: 20c6a2dc51cd4390ab4758e227f25d04653c0a4b7e202a34a440833f2a4f50d4
-SHA512: f32d893f9345029c96892edc6f9e00f6971fcbbed8495c8f03cea4a19cb6aa90f7afe9b0000ab670bd7ca83da7bc62036ce480d795aeb3908e8c90b861a83da1
+Size: 3128
+MD5sum: 554a0aeae4ed576f0b5deda7d9937513
+SHA1: 4315c07b0bf373de249ccf0d226aea09a59fdb00
+SHA256: d23a8d50a94c37c7599c0a4d360678c31b4714d99f0801f499f0eaa63b2cfcee
+SHA512: 1ac737c345e7e4ec521e48f255a92f544d79e29c12c2c2e74311217024054a1ae6e3f7a731a66fcf8cee920e31ecccf231d59771a5d3040ad36539a5d4533fb7
 Description: Another yet awesome mobile substrate tweak to the list
-Name: FfckThatAnimation
+Name: FuckThatAnimation
 Author: Luki
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/FuckThatAnimation/FTA.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.fuckthatanimation

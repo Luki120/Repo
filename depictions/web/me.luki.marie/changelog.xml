@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>1.0.5</version>
-		<change>Tweak &amp; prefs code refactoring ⇝ everything works the same, but better.</change>
+		<version>1.0.6</version>
+		<change>• Only fade in the passcode image once the transition to the keypad view finishes &amp; authenticating with FaceID wasn't possible.</change>
 	</changes>
 </changelog>
