@@ -1,10 +1,6 @@
 <changelog>
 	<changes>
 		<version>1.0.2</version>
-		<change>Finished Axon compatibility</change>
-		<version>1.0.1</version>
-		<change>Added an option to only blur the LockScreen wallpaper when a notification arrives, transitioning the blur's alpha/intensity when you get one as well as when it's cleared &amp; added an option to reset preferences.</change>
-		<version>1.0</version>
-		<change>Initial Release</change>
+		<change>Finished Axon compatibility.</change>
 	</changes>
 </changelog>

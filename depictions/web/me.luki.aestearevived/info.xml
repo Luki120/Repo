@@ -1,0 +1,40 @@
+<package>
+	<id>me.luki.aestearevived</id>
+	<name>Aestea Revived</name>
+	<version>0.9.2</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+		<package>preferenceloader</package>
+		<package>com.mrgcgamer.libgcuniversal</package>
+	</dependencies>
+	<shortDescription>Colorize your connectivity toggles on the fly.</shortDescription>
+	<descriptionlist>
+		<description>Colorize your connectivity toggles on the fly, both on enabled &amp; disabled state.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>AesteaRevived.jpeg</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Moved to my repository.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/AesteaRevived</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>

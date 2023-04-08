@@ -1,3 +1,22 @@
+Package: me.luki.aestearevived
+Architecture: iphoneos-arm
+Version: 0.9.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 1660
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.mrgcgamer.libgcuniversal
+Filename: ./debians/me.luki.aestearevived_0.9.2_iphoneos-arm.deb
+Size: 686692
+MD5sum: d11ed9f6154dbf6cd8e0e2f0f5e70b08
+SHA1: 776314e833b4ed3a2a02921cfe4649e0cbfd1afc
+SHA256: 0b64e4e232023ee6b18713012d1102ce4583257b3457b97218beb430e426ede6
+SHA512: f95fc73d43520bff793f07d3a36523fcaf7d203cf745dcdde43eb7a672c3cd6f3b34295ebe097a643904e2eb021819a3f5e61e6bab2a5f1dacd8c36f6669cbef
+Description: Colorize your connectivity toggles on the fly
+Name: Aestea Revived 🌊
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aestearevived
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aestearevived/depiction.json
+
 Package: me.luki.aria
 Architecture: iphoneos-arm
 Version: 0.9.5~RC

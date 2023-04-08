@@ -14,7 +14,7 @@
 	</dependencies>
 	<shortDescription>Take full control of your wallpapers.</shortDescription>
 	<descriptionlist>
-		<description>Take full control of your wallpapers and blur them to your liking, LS and HS separately with 8 different styles to choose from and an option to only blur the LS wallpaper with notifications! Changes apply on the fly, no need for respring (:</description>
+		<description>Take full control of your wallpapers and blur them to your liking, LS and HS separately with 8 different styles to choose from &amp; an option to only blur the LS wallpaper with notifications. Changes apply on the fly, no need for respring.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
@@ -31,9 +31,14 @@
 	</changelog>
 	<links>
 		<link>
-			<name>/r/jailbreak</name>
-			<url>https://www.reddit.com/r/jailbreak</url>
-			<iconclass>fa fa-reddit</iconclass>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/Amelija</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
 		</link>
 	</links>
 </package>

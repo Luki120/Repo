@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amelija/HotGoodLookingAmelijaBanner.png",
-	"tintColor": "#8A78EB",
+	"headerImage": "https://raw.githubusercontent.com/Luki120/AesteaRevived/main/Prefs/Resources/Assets/Banner.png",
+	"tintColor": "#A3AAFF",
 	"tabs": [
 		{
 			"class": "DepictionStackView",
@@ -9,7 +9,7 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Amēlija",
+					"title": "Aestea Revived",
 					"useBottomMargin": false
 				},
 				{
@@ -28,11 +28,7 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Screenshot0",
-							"url": "https://i.imgur.com/TA0dWVT.png"
-						},
-						{
-							"accessibilityText": "Screenshot1",
-							"url": "https://i.imgur.com/TdlylWc.png"
+							"url": "https://twickd.com/images/c8577cb61e417dab355e253a0008628601232521.jpeg"
 						}
 					]
 				},
@@ -40,20 +36,20 @@
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "Take full control of your wallpapers and blur them to your liking on the fly.  \n* Features 8 different styles: \n* Epic Blur. \n* Dark. \n* Light. \n* Adaptive. \n* Promiment. \n* System Thin. \n* System Ultra Thin. \n* System Chrome Material. \n* Blur With Notifs option, fully compatible with Axon. \n* Pretty handcrafted icon and banner by @BenOwl3.",
+					"markdown": "",
 					"useBottomMargin": false
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"text": "1.0.2",
+					"text": "0.9.2",
 					"title": "Version",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "6/10/21",
-					"title": "Released",
+					"text": "4/8/23",
+					"title": "Updated",
 					"class": "DepictionTableTextView"
 				},
 				{
