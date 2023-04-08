@@ -13,7 +13,7 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "",
+					"markdown": "Colorize your connectivity toggles on the fly. \n* Features: \n* Color on enabled/disabled state. \n* Akara, Big Sur Center & Prysm support. \n* Really disable WiFi & Bluetooth toggles on tap.",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
