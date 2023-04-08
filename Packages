@@ -7,13 +7,14 @@ Installed-Size: 1660
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.mrgcgamer.libgcuniversal
 Filename: ./debians/me.luki.aestearevived_0.9.2_iphoneos-arm.deb
 Size: 686692
-MD5sum: d11ed9f6154dbf6cd8e0e2f0f5e70b08
-SHA1: 776314e833b4ed3a2a02921cfe4649e0cbfd1afc
-SHA256: 0b64e4e232023ee6b18713012d1102ce4583257b3457b97218beb430e426ede6
-SHA512: f95fc73d43520bff793f07d3a36523fcaf7d203cf745dcdde43eb7a672c3cd6f3b34295ebe097a643904e2eb021819a3f5e61e6bab2a5f1dacd8c36f6669cbef
+MD5sum: 7a32cd42ec380b582424329ff1fed22b
+SHA1: 1ecb7b159a10da6fd20bcc314168f1e17a5e4b14
+SHA256: 9b0a90eae56e1c7bb1d1dc334cbf7983425809dacf7bc05c50ab0ab0a5f4a621
+SHA512: 3ab4e13e26e9b80c0cc3a21ce51f6092f41bdb16caade2a96ccfcd348b5772d5d2c88bb5a45519ba082b80d068852c144868433cb8e828c12e126ff5cd1a7763
 Description: Colorize your connectivity toggles on the fly
 Name: Aestea Revived 🌊
 Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/AesteaRevived/main/Prefs/Resources/Assets/AesteaIcon.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aestearevived
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aestearevived/depiction.json
 
