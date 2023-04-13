@@ -12,9 +12,9 @@
 		<package>preferenceloader</package>
 		<package>com.mrgcgamer.libgcuniversal</package>
 	</dependencies>
-	<shortDescription>Change the alignment and/or position of the stock clock, date &amp; lock glyph on the fly.</shortDescription>
+	<shortDescription>Move the stock clock, date &amp; lock glyph on the fly.</shortDescription>
 	<descriptionlist>
-		<description>Change the alignment and/or position of the stock clock, date &amp; lock glyph on the fly.</description>
+		<description>Move the stock clock, date &amp; lock glyph on the fly.</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>

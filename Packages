@@ -66,15 +66,15 @@ Maintainer: Luki
 Installed-Size: 816
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debians/me.luki.arizona_0.9.2_iphoneos-arm.deb
-Size: 427226
-MD5sum: 47fa931a06c95dbfbe8984dd28cedc60
-SHA1: 482c0b4bf69730ca55a98cc02cbc7cd0c0b3dc5f
-SHA256: 71a13d64aa5574dba8725ef1063cb5eb86f64eb2d7e7001f57b57d501baca48a
-SHA512: 3193279767e199afffd7e121745eacc726318a216ae973bbff16d6395415348fff477a5d3fc42847706aca89de5ab41d2816f998047618ab153c41d55d62b133
+Size: 427254
+MD5sum: ff5e861bacf6670435f50d6d5b17ac30
+SHA1: 43e0651f4e4152531604c8ad7bbcc5db5be90dec
+SHA256: 8aa90d0f1fa3cae1ddf118c26d8e9625a112cdfe70d954e02e539dc9d7bc8fa9
+SHA512: 3c51109f2f61bdcf088b27d10af948a227bfd6ad508fdbf3c46528522a1c076a4c3350a84e1a67275e561674461c7d310da8135ee5a2e0f3109b0577198b231d
 Description: Move the stock clock, date and lock glyph on the fly
 Name: Arizona
 Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/Arizona/main/ArizonaPrefs/Resources/Assets/ArizonaHotIcon.png
+Icon: https://raw.githubusercontent.com/Luki120/SmallTweaks/main/SpringBoard/Arizona/ArizonaPrefs/Resources/Assets/ArizonaHotIcon.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arizona
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.arizona/depiction.json
 

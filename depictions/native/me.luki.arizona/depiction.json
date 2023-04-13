@@ -13,7 +13,7 @@
 					"useBottomMargin": false
 				},
 				{
-					"markdown": "Change the alignment and/or position of the stock clock, date & lock glyph on the fly. \n* Features: \n* Custom & fixed position. \n* Custom lock glyph position.",
+					"markdown": "Move the stock clock, date & lock glyph on the fly. \n* Features: \n* Custom & fixed position. \n* Custom lock glyph position.",
 					"useSpacing": true,
 					"class": "DepictionMarkdownView"
 				},
