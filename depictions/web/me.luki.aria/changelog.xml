@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.9.6~RC</version>
-		<change>Fixed unexpected image fading in after a respring (Prysm).</change>
+		<version>0.9.8~RC</version>
+		<change>Refactoring ⇝ everything works the same, but better.</change>
 	</changes>
 </changelog>

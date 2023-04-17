@@ -20,26 +20,6 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aestearevive
 
 Package: me.luki.aria
 Architecture: iphoneos-arm
-Version: 0.9.5~RC
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 712
-Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.aria_0.9.5~RC_iphoneos-arm.deb
-Size: 98598
-MD5sum: a946d446e8c9f5a21f00ee985a9af2f7
-SHA1: 4c616d46911a252008b29a4c113521db2d09ba96
-SHA256: e437601684eaefa54952f042a988e8708324b41934348b3e58020c86a5458fd3
-SHA512: 68d4f9fbeaa19dcd93cf526d62c46102f1c64d31c1d5ae4d3aca7baac1152c9e81ab681b5abadba37d369f1aa780ab94b30442f197ca4d709f379448fb712b67
-Description: Enhance the stock CC or Prysm on the fly
-Name: Aria
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
-
-Package: me.luki.aria
-Architecture: iphoneos-arm
 Version: 0.9.6~RC
 Section: Tweaks
 Maintainer: Luki
@@ -51,6 +31,26 @@ MD5sum: fcd09534ac2f0df7fe9aca5a3100fa74
 SHA1: dc5f4992eeb1afa341057cee50583afbb7611c9e
 SHA256: a6b430ba52a1995f423af64ac9b3c8c8a1a99dc81af326a288d4d0dd3e6e47c8
 SHA512: 39eb598ed1af7034098b7477fe2ba032ac29c11624e0f3798ff6608567fa5408497e1f3f49fb1cf3b4680f531818ffe074f875a6471f9fac90478aac26daeee0
+Description: Enhance the stock CC or Prysm on the fly
+Name: Aria
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/Aria/main/AriaPrefs/Resources/Assets/AriaIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aria
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aria/depiction.json
+
+Package: me.luki.aria
+Architecture: iphoneos-arm
+Version: 0.9.8~RC
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 716
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/me.luki.aria_0.9.8~RC_iphoneos-arm.deb
+Size: 93882
+MD5sum: 3106142191fa7c2d5de35755c2d528f5
+SHA1: 55e538a9c022391659e28faf2ae3fdc11720b14d
+SHA256: 2aef7500990f17dc6ce67e126c74f0428d35e83bae885b88ad6a45380318bce5
+SHA512: 94767e8cd40c6cb1375c21195d0f7983a2c2f06aa7778c0afbfa847a2fd80965bb50a5a9d5a412b4d82d0799e8d38e783872fe8c0c27eabc34fb183b4bccce30
 Description: Enhance the stock CC or Prysm on the fly
 Name: Aria
 Author: Luki
