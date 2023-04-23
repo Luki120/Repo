@@ -10,7 +10,7 @@
 	<dependencies>
 		<package>mobilesubstrate</package>
 	</dependencies>
-	<shortDescription>Biometrics for your hidden album in Photos app.</shortDescription>
+	<shortDescription>Lock your hidden album with TouchID or password.</shortDescription>
 	<descriptionlist>
 		<description>Lock your hidden album with TouchID or password. Includes a CC module to toggle it on-off on the fly.</description>
 	</descriptionlist>
@@ -26,7 +26,7 @@
 	<links>
 		<link>
 			<name>Source Code</name>
-			<url>https://github.com/Luki120/Kaia</url>
+			<url>https://github.com/Luki120/SmallTweaks/tree/main/Apps/Kaia</url>
 			<iconclass></iconclass>
 		</link>
 		<link>
