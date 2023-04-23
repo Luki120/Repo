@@ -425,6 +425,25 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.selene
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.selene/depiction.json
 
+Package: me.luki.shakespring
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/me.luki.shakespring_0.9.0_iphoneos-arm.deb
+Size: 3234
+MD5sum: c605d2f0cb925bb66ed043a8d0f1b785
+SHA1: 7e32a957cd707fc502ea6aa9e1c72a811324a04a
+SHA256: 9ab7570f2dfaeff27fcbb190523728c5aaf17471230e855e5440e1ec24093017
+SHA512: 89cd6926975b2bba5189f0a7440511c2fc8e4b17d06975df91cca36213d702753091db48052ab4cafa508c46d7bfd8b632fe24c1ef9a878e1a9f771d4e80fb68
+Description: Shake your device to respring, ez
+Name: ShakeSpring
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.shakespring
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.shakespring/depiction.json
+
 Package: me.luki.stealthcc
 Architecture: iphoneos-arm
 Version: 0.9.0

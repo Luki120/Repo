@@ -1,0 +1,32 @@
+<package>
+	<id>me.luki.shakespring</id>
+	<name>ShakeSpring</name>
+	<version>0.9.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>13.0</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Shake your device to respring.</shortDescription>
+	<descriptionlist>
+		<description>Shake your device to respring.</description>
+	</descriptionlist>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/SmallTweaks/tree/main/SpringBoard/ShakeSpring</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>
