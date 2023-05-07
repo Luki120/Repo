@@ -47,11 +47,11 @@ Installed-Size: 828
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: com.midnightchips.bettersettings
 Filename: ./debians/root/me.luki.april_3.0_iphoneos-arm.deb
-Size: 392492
-MD5sum: 4fe6890fd9f542d97b48c40bcee04518
-SHA1: e04765b894605c488282dab0fc93ae9a9f089430
-SHA256: 0e03de859276698b1606f6097e78e0c1066065938bda4308e8ede3a97caef655
-SHA512: f594c59899cb4ffdecbb187b304cd7c78e2ec2eaa8a5d8f3f6c5a9aeaf9c07571ea87deb7267a3911c2e16561acb10477d6489061a3185834b859f958008c1d2
+Size: 392472
+MD5sum: 115740a255735e46ebebb775ad2e6d56
+SHA1: cffee937178df0b292ada3fdab6f26f7f8b89714
+SHA256: fc61a02cf16efdc00f7d96ec40025e3505e69ddb40c6a1a036fadb0a1b117153
+SHA512: 29583cea2fa930fbf3e8821e34fa5a7aff230557044a19b7779fa843d800516bb7292c15a7505edb69e3f5c659ab59514b72cbf46eb60a46c89f80000dc790fd
 Description: Augment your settings app aesthetics to the next level on the fly
 Name: April
 Author: Luki
@@ -553,11 +553,11 @@ Installed-Size: 828
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Conflicts: com.midnightchips.bettersettings
 Filename: ./debians/rootless/me.luki.april_3.0_iphoneos-arm64.deb
-Size: 392570
-MD5sum: 870a1fc772ad67e7695f79823a248311
-SHA1: 7759a1894a24393fe5721f8449367b5d400b4620
-SHA256: 3b9aa49ca7e35d7e29bbadb8556c907253d72b43dc92682910956497c1d6bc7b
-SHA512: 76c1e967650df2f6878108ba52155a23b9355b0977b3854b3b21ed412cdd048f0cbf2567306f8c6b19ca4aa86017b820d99a2d96dc2c78e3b8eb9aa5c686e8db
+Size: 392618
+MD5sum: 719c76ab14782f78ada17df762275f16
+SHA1: fb18704b43d1b8f9d42692f73846badd69eae8d2
+SHA256: 1e950d131ae4d3d4dc413b0905a4ba0e8272e0c6879b457cdbfe8a65fc955241
+SHA512: f0cdd7e0dbbc90fd8705a693ce1ce102970c763b9a5dc78949776edc7159e51f487fd6bdc70d0ba62c70f2cbc350f7c5feb0756e64059fee2cf362ae258efb8d
 Description: Augment your settings app aesthetics to the next level on the fly
 Name: April
 Author: Luki
