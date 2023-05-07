@@ -1,7 +1,7 @@
 {
 	"minVersion": "0.1",
 	"headerImage": "",
-	"tintColor": "#77353D",
+	"tintColor": "#FF8CBA",
 	"tabs": [
 		{
 			"class": "DepictionStackView",
@@ -9,7 +9,7 @@
 				{
 					"useBoldText": true,
 					"class": "DepictionSubheaderView",
-					"title": "Amēlija",
+					"title": "April",
 					"useBottomMargin": false
 				},
 				{
@@ -28,11 +28,7 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Screenshot0",
-							"url": "https://i.imgur.com/TA0dWVT.png"
-						},
-						{
-							"accessibilityText": "Screenshot1",
-							"url": "https://i.imgur.com/TdlylWc.png"
+							"url": "https://camo.githubusercontent.com/c6717dd5e812fec0b620eacb4d6f64ce24fd6450297a8017b51e0a4da6203b14/68747470733a2f2f692e696d6775722e636f6d2f6c4e3067615a322e706e67"
 						}
 					]
 				},
@@ -40,20 +36,20 @@
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "Take full control of your wallpapers on the fly.  \n* Features 8 different styles: \n* Epic. \n* Dark. \n* Light. \n* Adaptive. \n* Promiment. \n* System thin material. \n* System chrome material. \n* System ultra thin material.",
+					"markdown": "Augment your settings app aesthetics to the next level on the fly.  \n* Features: \n* Custom dark & light mode image. \n* Custom scheduled images: morning (8AM), afternoon (12PM), sunset (6PM) & midnight (10PM). \n* Custom blurs: light, dark, epic, adaptive, thin material & gaussian. \n* Custom table cell alpha. \n* Gradients with custom directions & optional animation.",
 					"useBottomMargin": false
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"text": "2.0",
+					"text": "3.0",
 					"title": "Version",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"text": "5/6/23",
-					"title": "Released",
+					"title": "Updated",
 					"class": "DepictionTableTextView"
 				},
 				{

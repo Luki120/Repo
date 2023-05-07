@@ -5,7 +5,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 1660
 Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.aestearevived_0.9.2_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.aestearevived_0.9.2_iphoneos-arm.deb
 Size: 686692
 MD5sum: 7a32cd42ec380b582424329ff1fed22b
 SHA1: 1ecb7b159a10da6fd20bcc314168f1e17a5e4b14
@@ -18,6 +18,47 @@ Icon: https://raw.githubusercontent.com/Luki120/AesteaRevived/main/Prefs/Resourc
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aestearevived
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aestearevived/depiction.json
 
+Package: me.luki.amelija
+Architecture: iphoneos-arm
+Version: 2.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 816
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/root/me.luki.amelija_2.0_iphoneos-arm.deb
+Size: 386412
+MD5sum: 0b27ac70428e03ae97ad633290d9a21e
+SHA1: 5d179f105eceac2799f37448781f3ff83ec1b162
+SHA256: 9b2e9154ad4942ed5e39e95ca7a0130f48115cc731fc96e7207f864cf92bdd32
+SHA512: e14eb7fbdc53848386bce2c33dd9a7b3e88f72ed24e7d2d26f5b4cb26c422db673c76807e518ce82dcc179aaa05ca1235c640d6e5bbd5c5d92fc728583c8eced
+Description: Take full control of your wallpapers on the fly
+Name: Amēlija
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/Amelija/main/Am%C4%93lijaPrefs/Resources/Assets/AMHotIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.amelija
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amelija/depiction.json
+
+Package: me.luki.april
+Architecture: iphoneos-arm
+Version: 3.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 828
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debians/root/me.luki.april_3.0_iphoneos-arm.deb
+Size: 392492
+MD5sum: 4fe6890fd9f542d97b48c40bcee04518
+SHA1: e04765b894605c488282dab0fc93ae9a9f089430
+SHA256: 0e03de859276698b1606f6097e78e0c1066065938bda4308e8ede3a97caef655
+SHA512: f594c59899cb4ffdecbb187b304cd7c78e2ec2eaa8a5d8f3f6c5a9aeaf9c07571ea87deb7267a3911c2e16561acb10477d6489061a3185834b859f958008c1d2
+Description: Augment your settings app aesthetics to the next level on the fly
+Name: April
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/April/main/AprilPrefs/Resources/Assets/AprilIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.april
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.april/depiction.json
+
 Package: me.luki.aria
 Architecture: iphoneos-arm
 Version: 0.9.6~RC
@@ -25,7 +66,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 712
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.aria_0.9.6~RC_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.aria_0.9.6~RC_iphoneos-arm.deb
 Size: 98594
 MD5sum: fcd09534ac2f0df7fe9aca5a3100fa74
 SHA1: dc5f4992eeb1afa341057cee50583afbb7611c9e
@@ -45,7 +86,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 716
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.aria_0.9.8~RC_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.aria_0.9.8~RC_iphoneos-arm.deb
 Size: 93882
 MD5sum: 3106142191fa7c2d5de35755c2d528f5
 SHA1: 55e538a9c022391659e28faf2ae3fdc11720b14d
@@ -65,7 +106,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 816
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.arizona_0.9.2_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.arizona_0.9.2_iphoneos-arm.deb
 Size: 427254
 MD5sum: ff5e861bacf6670435f50d6d5b17ac30
 SHA1: 43e0651f4e4152531604c8ad7bbcc5db5be90dec
@@ -85,7 +126,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 376
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.arres_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.arres_0.9.0_iphoneos-arm.deb
 Size: 7914
 MD5sum: 2f5fb67a59dcc1b011d1434a5295c8df
 SHA1: 1c52e9dd3ef4583995e0de8487018ac8228212c1
@@ -104,7 +145,7 @@ Section: Utilities
 Maintainer: Luki
 Installed-Size: 276
 Depends: org.swift.libswift (>= 5.0)
-Filename: ./debians/me.luki.aurora_0.9.2_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.aurora_0.9.2_iphoneos-arm.deb
 Size: 58996
 MD5sum: 1dfbcee62e8f1a140009e57c7a889da5
 SHA1: 1a42cd20e556f3062a9a57d854a281b7eb01c5c7
@@ -123,7 +164,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.byebyeadvisorylabel_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.byebyeadvisorylabel_0.9.0_iphoneos-arm.deb
 Size: 2762
 MD5sum: d6845dd83c1c8130f091e6390c8dc241
 SHA1: e7a2dc482ba94b4fee2c4c8c6f263b8cf30ba1a3
@@ -142,7 +183,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/me.luki.canna_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.canna_0.9.0_iphoneos-arm.deb
 Size: 3564
 MD5sum: f03c1f14085279ff47e3c7c962baf7d0
 SHA1: bef35bbfe8ff3086c26531b5deee5453ae83bd1d
@@ -161,7 +202,7 @@ Section: Utilities
 Maintainer: Luki
 Installed-Size: 312
 Depends: org.swift.libswift (>= 5.0)
-Filename: ./debians/me.luki.cora_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.cora_0.9.0_iphoneos-arm.deb
 Size: 41340
 MD5sum: b1270168b7ae2949cdccc0ce51307cf8
 SHA1: e326d93312467935715209bef498ca4efbd3f9c9
@@ -180,7 +221,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.elixir_0.9.2_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.elixir_0.9.2_iphoneos-arm.deb
 Size: 6620
 MD5sum: 146ba120f6acf95f218cf112fc4b2204
 SHA1: d05f18508a69ed7df167538b50e75aa7dc8c98ca
@@ -200,7 +241,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.elixir_0.9.4_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.elixir_0.9.4_iphoneos-arm.deb
 Size: 7156
 MD5sum: 46ebd6aa7b85c2428cc3611774ac3f06
 SHA1: 03eb62debdb71c5fdece82a67ce443b7e0be3fa5
@@ -220,7 +261,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.fuckthatanimation_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.fuckthatanimation_0.9.0_iphoneos-arm.deb
 Size: 3128
 MD5sum: 554a0aeae4ed576f0b5deda7d9937513
 SHA1: 4315c07b0bf373de249ccf0d226aea09a59fdb00
@@ -240,7 +281,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 564
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.hello_0.9.2_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.hello_0.9.2_iphoneos-arm.deb
 Size: 97690
 MD5sum: 854ac3ff936e7078a3832f998732b382
 SHA1: bdf6d49f81bdb551df9027ef8664fe69ac26bf43
@@ -259,7 +300,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.hislerim_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.hislerim_0.9.0_iphoneos-arm.deb
 Size: 3900
 MD5sum: 2fb1e9872a2c6430da7c8378b67d40a7
 SHA1: 1430b3f078ea6dffb32ab7d5494aa626b83b7db0
@@ -278,7 +319,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.igconfirm_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.igconfirm_0.9.0_iphoneos-arm.deb
 Size: 5438
 MD5sum: 7c72519a331b246ff42114918362dfd1
 SHA1: 246195dbb2bf9506b1c9e58e9cd8e572f41a2cb9
@@ -297,7 +338,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.isla_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.isla_0.9.0_iphoneos-arm.deb
 Size: 9774
 MD5sum: a1296de34889c64b0b8777c1131430cc
 SHA1: 61ec295c127f434437098665daff0fca335494cc
@@ -316,7 +357,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.iwanttranslucent_0.9.2_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.iwanttranslucent_0.9.2_iphoneos-arm.deb
 Size: 4150
 MD5sum: 810becd08a5743d2cf8af874a8cd72c2
 SHA1: 5afacfae492d1d1bd645067b0de8eddc2d3f1303
@@ -336,7 +377,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 364
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.kaia_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.kaia_0.9.0_iphoneos-arm.deb
 Size: 7900
 MD5sum: 206c589d17ca9c7c9bc1f20fd81b83fe
 SHA1: ac4bd8e9710bf6b2fad5435ebec90c83540b1457
@@ -355,7 +396,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate, love.litten.libkitten
-Filename: ./debians/me.luki.legacyrings_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.legacyrings_0.9.0_iphoneos-arm.deb
 Size: 4562
 MD5sum: c517f01093928be83c1f2c250106e92b
 SHA1: 26dbbf3854afdfac6725fcf3ed65bb5a8f0280b5
@@ -374,7 +415,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 944
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.marie_1.0.5_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.marie_1.0.5_iphoneos-arm.deb
 Size: 552886
 MD5sum: e052f1c1745eb9ddee6ddff2c4e73da5
 SHA1: 1d07a88dad3fddaeeb021147118a5bec492dd37f
@@ -394,7 +435,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 944
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
-Filename: ./debians/me.luki.marie_1.0.6_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.marie_1.0.6_iphoneos-arm.deb
 Size: 552266
 MD5sum: 8b60f8e0bb6adeef61b9446b4393197c
 SHA1: 3bc084a629d7f8426d286f2c01b076860745df1d
@@ -414,7 +455,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.reachspring_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.reachspring_0.9.0_iphoneos-arm.deb
 Size: 3188
 MD5sum: 5e8fa5a03d0ac0d454daa793a7041776
 SHA1: 09acab4e49fe123dbfa5ef96c7f2fb0f673a75f9
@@ -433,7 +474,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 400
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/me.luki.selene_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.selene_0.9.0_iphoneos-arm.deb
 Size: 18456
 MD5sum: 9d3d0dc1b283de3507bb43b0c4bd96aa
 SHA1: 16624bd7d0fe9fb24ad33a0434850b0a998187d4
@@ -452,7 +493,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
-Filename: ./debians/me.luki.shakespring_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.shakespring_0.9.0_iphoneos-arm.deb
 Size: 3234
 MD5sum: c605d2f0cb925bb66ed043a8d0f1b785
 SHA1: 7e32a957cd707fc502ea6aa9e1c72a811324a04a
@@ -471,7 +512,7 @@ Section: Tweaks
 Maintainer: Luki
 Installed-Size: 376
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debians/me.luki.stealthcc_0.9.0_iphoneos-arm.deb
+Filename: ./debians/root/me.luki.stealthcc_0.9.0_iphoneos-arm.deb
 Size: 9528
 MD5sum: cc5594bba6bc5e6ccc3985476d38776f
 SHA1: f5f7c11cb64e6a1c0580eda45be2e2d6e1b09a05
@@ -482,4 +523,45 @@ Name: StealthCC
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+
+Package: me.luki.amelija
+Architecture: iphoneos-arm64
+Version: 2.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 816
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/rootless/me.luki.amelija_2.0_iphoneos-arm64.deb
+Size: 386416
+MD5sum: 49fbfe777c4091816dfc53ecbbf64750
+SHA1: f1a0524304bb62e4aa654134622a3a0d5d595f49
+SHA256: 45d041bda0cdf8d941ff36768b89b5444498fc6b6551728b8d0ebecc3f2604fa
+SHA512: 5ef89f46094e9e4fbd322c2bd89b426d72e104608df104e32fe33494490b7f893406b2c37664c84d01a56dea31f923435560ae4b3d70738130975dd6ff63da53
+Description: Take full control of your wallpapers on the fly
+Name: Amēlija
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/Amelija/main/Am%C4%93lijaPrefs/Resources/Assets/AMHotIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.amelija
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.amelija/depiction.json
+
+Package: me.luki.april
+Architecture: iphoneos-arm64
+Version: 3.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 828
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debians/rootless/me.luki.april_3.0_iphoneos-arm64.deb
+Size: 392570
+MD5sum: 870a1fc772ad67e7695f79823a248311
+SHA1: 7759a1894a24393fe5721f8449367b5d400b4620
+SHA256: 3b9aa49ca7e35d7e29bbadb8556c907253d72b43dc92682910956497c1d6bc7b
+SHA512: 76c1e967650df2f6878108ba52155a23b9355b0977b3854b3b21ed412cdd048f0cbf2567306f8c6b19ca4aa86017b820d99a2d96dc2c78e3b8eb9aa5c686e8db
+Description: Augment your settings app aesthetics to the next level on the fly
+Name: April
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/April/main/AprilPrefs/Resources/Assets/AprilIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.april
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.april/depiction.json
 
