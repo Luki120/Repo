@@ -565,3 +565,330 @@ Icon: https://raw.githubusercontent.com/Luki120/April/main/AprilPrefs/Resources/
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.april
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.april/depiction.json
 
+Package: me.luki.arizona
+Architecture: iphoneos-arm64
+Version: 0.9.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 816
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/rootless/me.luki.arizona_0.9.2_iphoneos-arm64.deb
+Size: 427340
+MD5sum: 1bded0686dabeb01123dabe792907961
+SHA1: 089591e37dd4de28cff5a253b2294c5464fe4127
+SHA256: 6db005d99ac5abdf605fb20c2f699cc7f392f3ca2940364b6f2a2c6070034b52
+SHA512: 8a9e2689951999d6dfe6c312f73c7b5f1a1f6b80fbaeb06508e2565007ef379170fc166db0edfe4789dbf30d88ebf11e36ad26469410deceeec643b1f042b857
+Description: Move the stock clock, date and lock glyph on the fly
+Name: Arizona
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/SmallTweaks/main/SpringBoard/Arizona/ArizonaPrefs/Resources/Assets/ArizonaHotIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arizona
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.arizona/depiction.json
+
+Package: me.luki.arres
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 376
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.arres_0.9.0_iphoneos-arm64.deb
+Size: 7558
+MD5sum: 2ab5540eb3fd21ce73651a681c31bd56
+SHA1: 786a78415ec86add078649219a2189e10b596291
+SHA256: d1d84f96270e5b786b455af98693e59a4bacf107c277f281d16e2fac1b2594c2
+SHA512: 71782d9ddaf6876d3c71bef9811d499508a9f52c58a9417593718dd01f2c2df76c4219e270513901d663671c0c377690a6470d325b03d9bd85ce8891c670f28c
+Description: Disables tapping on notifs banners for 0.8s
+Name: Arres
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.arres
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.arres/depiction.json
+
+Package: me.luki.byebyeadvisorylabel
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.byebyeadvisorylabel_0.9.0_iphoneos-arm64.deb
+Size: 2824
+MD5sum: 6c3bd038b718c8476cae0c93f36e3da4
+SHA1: e4ed63cdc5b27d1196cedd670e0943841052c5f1
+SHA256: d721ffbd3a61caab2c9ef1af7e9fbfdf4f57824e900b278a7b4fbe36c5859bc5
+SHA512: 6b2bf7adcea37b0e3b0cbaf652cf59f12c340334f628bb51431ac611ce5fe3f2ce0e563b0b0919173c4a266677ff0392f584c4edd9b15974f9ca3ee96500f781
+Description: Removes the annoying parental advisory pop-up in Netflix.
+Name: ByeByeAdvisoryLabel
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.byebyeadvisorylabel
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.byebyeadvisorylabel/depiction.json
+
+Package: me.luki.canna
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debians/rootless/me.luki.canna_0.9.0_iphoneos-arm64.deb
+Size: 3336
+MD5sum: cb016241ca1f1ecfa5ec0ca0a2dce85c
+SHA1: ef0eb37e420f9f69c8e6ff4d6e328e7ea1d6497d
+SHA256: 3fabcc97b73c385c22c661eb4a3e3d92758af6261dab95af03c0b6b71336ec3f
+SHA512: 0bb3fa563afe79b25a2e7c883b63fd9509f1bcf4d89da64870384149324f65428fcda0bb8cbf1511622c43ed2560d380f635fc5bc526f027792e5ccb68d6d974
+Description: Record on the LS without authenticating for ⇝ iOS 14 +
+Name: Canna
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
+
+Package: me.luki.elixir
+Architecture: iphoneos-arm64
+Version: 0.9.4
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.elixir_0.9.4_iphoneos-arm64.deb
+Size: 7200
+MD5sum: 6cd1bea4c38d8bc12506259aceeced67
+SHA1: 9db894e4aa156ad1835c8112ddf4e415a27bde8d
+SHA256: a1e216a17d0707f93b2f63e0b5b69762e1ff42abb7316ccc9519915f59d183a4
+SHA512: c4d43ebd5424a4797ca2db28ad62d2b4ffa322711feba6038de67a0ac0fab5ce8dea8366a38b822e2b6c9c6678164a489ca728311b761ef52cef1ad809cacb77
+Description: Tweak count at a glimpse
+Name: Elixir
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Elixir/ElixirIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
+
+Package: me.luki.fuckthatanimation
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.fuckthatanimation_0.9.0_iphoneos-arm64.deb
+Size: 3196
+MD5sum: 30f4cabd0c0199ae0a1f7fc761ad950e
+SHA1: 83b0d934f07287c2ecbcb26518374178baa29d1e
+SHA256: 8672f20b93418ce7ad1ed910b9aa40765ce930bade73169d1a8e17bc132370c8
+SHA512: 432f98a83e34bbb454058ab3f5182fd49fa70316259b8b3a9ed3bf187c45f52edef15a626a2c5df014e78a3087d541364a2f75457cf5b42361a19fe9f36f1759
+Description: Another yet awesome mobile substrate tweak to the list
+Name: FuckThatAnimation
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/FuckThatAnimation/FTA.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.fuckthatanimation
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.fuckthatanimation/depiction.json
+
+Package: me.luki.hello
+Architecture: iphoneos-arm64
+Version: 0.9.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 564
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.hello_0.9.2_iphoneos-arm64.deb
+Size: 97586
+MD5sum: 8827f36c6ad62bd2f4c1a17300876e4c
+SHA1: d5c75af818c1b983e7688986083a25dea8216b41
+SHA256: 841b1389ac96504c4d08aa357ede3a5f366ce82cddfc3e8bf2b0cc0204fe7ae8
+SHA512: a18af8ca57148da52ec0d0514847cb87a3c5697ffb79bfb8459ef033cacc11c583e3ba092be73b387d6fb8e6fd5f9dc6564aecc51e9486776bab57f215ca3c65
+Description: Yet again another awesome MobileSubstrate tweak
+Name: Hello
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hello
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hello/depiction.json
+
+Package: me.luki.hislerim
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.hislerim_0.9.0_iphoneos-arm64.deb
+Size: 3616
+MD5sum: 88b73355a715d5b87eb4d44a1a2c45f2
+SHA1: 75a0fb78b42431f4d262b6b8f3880133553e24e0
+SHA256: 1e952bf2460304ba5ec9992ba226ce6dc2e98ef079b8bcda2a0050fa3834a646
+SHA512: c97999b3aadfbfaac63396997ac27a2a79572230a4f1039b48bac8e0058ae4ebbb42d01d07018d9b585a3b6f8bcf8dfb3460ebeaea2674a48e5a76c8de08d4ec
+Description: Lock your device by double tapping on HS
+Name: Hislerim
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.hislerim
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.hislerim/depiction.json
+
+Package: me.luki.igconfirm
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.igconfirm_0.9.0_iphoneos-arm64.deb
+Size: 5200
+MD5sum: 070269a3ec6248565abfa196f8b5f5ed
+SHA1: c5ff4c2351a13932ce286e31f965efbf5cd328ec
+SHA256: f00d83716e3ca8ad2c351ece722f9d3f0d72a86207fef3a1473e3837fbfe7a6f
+SHA512: ebd8741ad0bab9e3e89017b19b1f535b0ff2b64aa48dcb8f572b063a7bba3e2fbd215389cbd7aee5f5212a1f4e2f4a266788fa37d188e2b94adb6b767ab4baaf
+Description: Prevent accidental likes or follows on Instagram
+Name: IGConfirm
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.igconfirm
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.igconfirm/depiction.json
+
+Package: me.luki.isla
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.isla_0.9.0_iphoneos-arm64.deb
+Size: 9864
+MD5sum: 1c683bc5dd39b9dd709ce7a90c55e851
+SHA1: a331ed704c6304fa221b28e86c279b7dd5206ca9
+SHA256: d8601c5cef39ff07f888fa4bd5702d38eef25308954462a96bc34b6dc6e691f9
+SHA512: 0f70d054f9c19b7d8289bbabaa53395e132374965035c2c7cdbd9721f652875e88fe9e853ab5c6ebe7bdf13ca861bdca6b7340226d7a73bceec2d6721510c613
+Description: Netflix like volume HUD
+Name: Isla
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.isla
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.isla/depiction.json
+
+Package: me.luki.iwanttranslucent
+Architecture: iphoneos-arm64
+Version: 0.9.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.iwanttranslucent_0.9.2_iphoneos-arm64.deb
+Size: 3930
+MD5sum: 8717fca0193ebba1ba58b8b8bbc00ad3
+SHA1: 39340082d3e74b156f31fb7e88cd76e00e30dead
+SHA256: 5b84e11e657b9956c17a017f6c80cd521d43b749552ce4464c34338deea3ccf5
+SHA512: 1db84375299cee75a3bd8a771fc8d42e7857e6fb28f0d3235ccbfb762378ca5d2e485c776719660041db28afa7da83d426b314c7ef9c173c0d4d4a48cc2564ce
+Description: An awesome MobileSubstrate tweak indeed
+Name: IWantTranslucent
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
+
+Package: me.luki.kaia
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.kaia_0.9.0_iphoneos-arm64.deb
+Size: 7964
+MD5sum: 844869ddeaf17c1334fa1d8b7121abd0
+SHA1: eb0c76a1fe4ac10c889b222748ba22e8a2defa6d
+SHA256: f7af112ec7712a84d3e99fb6374e4257692bda144e21d523fc6820013b0fa4e6
+SHA512: d6af2652daae8f367905f686bdf0ecd9cbeaf6bfb878f3c9d845369679602286d7ebdd177ec27b48b4a84b65dec4f62e0d2de127278e7cb7c565c9ab6721b8f1
+Description: Lock your hidden album with TouchID or password
+Name: Kaia
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.kaia
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.kaia/depiction.json
+
+Package: me.luki.legacyrings
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate, love.litten.libkitten
+Filename: ./debians/rootless/me.luki.legacyrings_0.9.0_iphoneos-arm64.deb
+Size: 4266
+MD5sum: 442b593b4991f1e84578e00651a5fcf6
+SHA1: 5ba907279d15a35a0f2ae9207d10101206ab3351
+SHA256: 8803f0e06660588db4fae4ff8e89de65b1a0dca3cdef03f134141f19bea643ae
+SHA512: 9e0b3168ead0f3c827c6c7bfe453be0a39f4c358c7632f661eb7b4d333982ea04a8cf77ee9bcacbfe97bedb08ca1682c10557ca0e08aeffa522d384b9fa0c484
+Description: Bring back the old iOS 9 keypad buttons
+Name: LegacyRings
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.legacyrings
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.legacyrings/depiction.json
+
+Package: me.luki.reachspring
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.reachspring_0.9.0_iphoneos-arm64.deb
+Size: 3250
+MD5sum: 26c5442f7ce268c66fb30759f97d5588
+SHA1: 461d80095b5561a9eab19590e28943d53514db4e
+SHA256: 82301126e92943c65d097171cb2d742ae5688c82c9e4b3860aa431e125770e95
+SHA512: 4423916e3b6f107072c742a64900f35868e50f6dacf3b56cbf76d111f39d5decd64071a2b44a742fdd29708e516c8fd3fa0ac3afae6e43c1fdc16f99b09dbaff
+Description: Respring smoothly and with ease invoking the reachability gesture
+Name: ReachSpring
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.reachspring
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.reachspring/depiction.json
+
+Package: me.luki.selene
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 396
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/me.luki.selene_0.9.0_iphoneos-arm64.deb
+Size: 17964
+MD5sum: 421aa835a7b5a69d0a39d7c5cd583536
+SHA1: dedb79c174c0cf0e7d40f2978d269a5781c30590
+SHA256: 73c1932ac94f30c27a5ebcc3993c6139f85473e3231eb58fc64c9dae23a5a70f
+SHA512: 3d6addcc8a6fdf67bedfc83db6f99743cc4d143006a6c72aee682a91802c9717b5d7019d49f9daf95576eecbfaf953da70b019b8bf6fba44be670dfd747bc1fb
+Description: Triple tap on LS to save the stock walls on the fly
+Name: Selene
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.selene
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.selene/depiction.json
+
+Package: me.luki.shakespring
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.shakespring_0.9.0_iphoneos-arm64.deb
+Size: 3312
+MD5sum: 5dc6018399c09ae297ad8addb08ef2c3
+SHA1: c18d0b7e1c08f0d8ea878323aecb42bed783296f
+SHA256: dea9c8730957b2a621c61a7d76893fa66703274052bf99ecc0c813e1f8932a90
+SHA512: ec691ac65632308530d4e9bd913699baa6282b384156ab34a670826875e96ea963ad19accc8fcaf66c63e9e9435c1588d7434dfaf32ade63ea248a7dd17a27a5
+Description: Shake your device to respring, ez
+Name: ShakeSpring
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.shakespring
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.shakespring/depiction.json
+
+Package: me.luki.stealthcc
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 376
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debians/rootless/me.luki.stealthcc_0.9.0_iphoneos-arm64.deb
+Size: 9074
+MD5sum: 4d592f070b24a688b0bfa3f2fba43049
+SHA1: 0578391edcac5b2d03eed474d6bf260228fab56f
+SHA256: 093a8ca1856743f7054fb58b82ce5f5b04a1a34f956ab792df58c936439abf71
+SHA512: 2650e3a7a9d5748df181d78f20cd8ec496175f3f440c9d068032df1766d413716c928e6bf475cab764ce4ced234994c1a41f9ad645fa8df0b3ca218440df09c2
+Description: Control the intensity of the stock CC blur on the fly
+Name: StealthCC
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+
