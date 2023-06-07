@@ -433,14 +433,14 @@ Architecture: iphoneos-arm
 Version: 1.0.6
 Section: Tweaks
 Maintainer: Luki
-Installed-Size: 944
+Installed-Size: 976
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debians/root/me.luki.marie_1.0.6_iphoneos-arm.deb
-Size: 552266
-MD5sum: 8b60f8e0bb6adeef61b9446b4393197c
-SHA1: 3bc084a629d7f8426d286f2c01b076860745df1d
-SHA256: 815b67033dc4e4d3f7ba42e251e849902526bd154eb99916f56a0ad799f628c1
-SHA512: ba3bb1df77d20154dc5b90890ff951b4451ce6580310d3d5df50bdfbbfee24b93f021ec82a216335ca424b9c6fdbd1e1523b73287883ed0648c38d395f323ad9
+Size: 554374
+MD5sum: 0f045e9ab06950b0a987eb6932598624
+SHA1: a7e51905dbef6a0cfbbe21eec1c1a91bbd4bd255
+SHA256: 44adb418998e4d59fed98e9a8c813e494cd5749d9ce3f8bfbc00a8d12e902f5f
+SHA512: ecc1f0c075bf9a09af28123880dec52bafd50e80eac439aa3fb39668435e0613708e5ec2a47bd74292b3b0199630a187ea8dc30ef4fe54c07213ab813aac9380
 Description: Put an image for the dialer, passcode or sharesheet background on the fly
 Name: Marie
 Author: Luki
