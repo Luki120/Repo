@@ -836,6 +836,26 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.legacyrings
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.legacyrings/depiction.json
 
+Package: me.luki.marie
+Architecture: iphoneos-arm64
+Version: 1.0.6
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 976
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Filename: ./debians/rootless/me.luki.marie_1.0.6_iphoneos-arm64.deb
+Size: 553592
+MD5sum: 9d2824158f53e26121d996ae3fac4354
+SHA1: 1a2994c88627a6fdd16163e12dd97e8e7e93929b
+SHA256: d61490aefa3f07d4705a60c22ccbbe368a84b37fc395b8089ddd7277dfc13b8b
+SHA512: 79ca45d503957166e00a0f751019a90528a3f24216e56054ee96b7c3888c5bc719c05929d6ef11fea33f0013d0d750319948503b6c3a8c9015baedbebded1e33
+Description: Put an image for the dialer, passcode or sharesheet background on the fly
+Name: Marie
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
+
 Package: me.luki.reachspring
 Architecture: iphoneos-arm64
 Version: 0.9.0
