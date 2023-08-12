@@ -510,19 +510,20 @@ Architecture: iphoneos-arm
 Version: 0.9.0
 Section: Tweaks
 Maintainer: Luki
-Installed-Size: 376
+Installed-Size: 392
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/root/me.luki.stealthcc_0.9.0_iphoneos-arm.deb
-Size: 9528
-MD5sum: cc5594bba6bc5e6ccc3985476d38776f
-SHA1: f5f7c11cb64e6a1c0580eda45be2e2d6e1b09a05
-SHA256: ae55629172f4a18e771df98b243f9aaa82b4a6a5c75708938964813cbaa5156f
-SHA512: 70ff7715dd34484296e34dab17eb637cd7d7bd906f5d9abfab10320148eadb409a29d5b930e43158ac4845167653402b1800dda082f97c6c99683a69f21ae75e
+Size: 21872
+MD5sum: dfac3451f88840e871436e49e0d7390f
+SHA1: 914f82140a5a0b9e570ef9547c4655869b5af315
+SHA256: b5a2f79d75174c7dd05c1f60f02124832b69b3ff6983b92a111303215c7356f2
+SHA512: 0b52593d83660837430f3cdc98a7aca9bcb8e8415cb4be55e839b243948b192bcfb82f06e29c44f157c63a56ee0a447121fc6d2ee8c462ecf6d469e3630f91ec
 Description: Control the intensity of the stock CC blur on the fly
 Name: StealthCC
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
 
 Package: me.luki.amelija
 Architecture: iphoneos-arm64
@@ -918,17 +919,18 @@ Architecture: iphoneos-arm64
 Version: 0.9.0
 Section: Tweaks
 Maintainer: Luki
-Installed-Size: 376
+Installed-Size: 392
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/rootless/me.luki.stealthcc_0.9.0_iphoneos-arm64.deb
-Size: 9074
-MD5sum: 4d592f070b24a688b0bfa3f2fba43049
-SHA1: 0578391edcac5b2d03eed474d6bf260228fab56f
-SHA256: 093a8ca1856743f7054fb58b82ce5f5b04a1a34f956ab792df58c936439abf71
-SHA512: 2650e3a7a9d5748df181d78f20cd8ec496175f3f440c9d068032df1766d413716c928e6bf475cab764ce4ced234994c1a41f9ad645fa8df0b3ca218440df09c2
+Size: 21934
+MD5sum: f0ac2a2fdd65dc2143b6ae594e51ebf8
+SHA1: 3e18670bed05cd63f10e2a153bc75ba9b1dd376d
+SHA256: 78ff0ea68af849917b86c6a5ea109420fb8437a78ca3d1ff130d6cb4aa784403
+SHA512: 60db85b2f6ee364006fde67f05ce0ded64647b03f5d459a6dd132a038a07f992ac31a77b6676c1c00ab40f2f5eaf572b758c5a7b50f5d6690916f4816b9effbf
 Description: Control the intensity of the stock CC blur on the fly
 Name: StealthCC
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
 
