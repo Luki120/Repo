@@ -525,6 +525,26 @@ Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
 
+Package: me.luki.aestearevived
+Architecture: iphoneos-arm64
+Version: 0.9.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 1628
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13), com.mrgcgamer.libgcuniversal
+Filename: ./debians/rootless/me.luki.aestearevived_0.9.2_iphoneos-arm64.deb
+Size: 685766
+MD5sum: 893a8860194280671cf1d56fb7dde81b
+SHA1: 4a7ec7a0889aa7ae8c5ac4f3d9011bafcd92eb20
+SHA256: dfc1bbef5ea80ee80a8fb1bd9375d6562f8834e7a354f42e1d09532a4f95e15c
+SHA512: bf49c17165e6763d494897ab14751d7d7bcff4a1f9c3803000bcf577dd658e35eaa35f6121015e09911256d033e26203ca304d5987801ec5d197df1ed19764be
+Description: Colorize your connectivity toggles on the fly
+Name: Aestea Revived 🌊
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/AesteaRevived/main/Prefs/Resources/Assets/AesteaIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aestearevived
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aestearevived/depiction.json
+
 Package: me.luki.amelija
 Architecture: iphoneos-arm64
 Version: 2.0
