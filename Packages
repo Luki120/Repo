@@ -389,6 +389,25 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.kaia
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.kaia/depiction.json
 
+Package: me.luki.kaia
+Architecture: iphoneos-arm
+Version: 0.9.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./debians/root/me.luki.kaia_0.9.2_iphoneos-arm.deb
+Size: 8588
+MD5sum: 300703390ea48c9e9f95ef95084a0c93
+SHA1: 2cd1a4913cd66ce3739f446b00251e2c66362cf1
+SHA256: de1ca66adad2ac437054e808d2e06b5cee67d5859b35a8ed57f8373d0996a139
+SHA512: b29cfa431bafa1014c90bce4cc8140ced48bbc0b1cd9178bba10f5f1b6a70b0db3fcc59608274d0ace97ddef5ef7a999474f6c44f9219699ea548673e3a2abbc
+Description: Lock your hidden album with TouchID or password
+Name: Kaia
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.kaia
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.kaia/depiction.json
+
 Package: me.luki.legacyrings
 Architecture: iphoneos-arm
 Version: 0.9.0
@@ -831,6 +850,25 @@ MD5sum: b27fd3d2ae66f82298010f2301299a02
 SHA1: d9a1f33705cdf2287ac01527574f3b3b3e12545e
 SHA256: a09c2152f60d53207aac34d3c8e99b9fd5658f80d79632f57b3b1e8a30c20bf7
 SHA512: 83f5011edd7b4e3e1d38801139c91defa22e02dfffd94e0cb04a80b7e0d6800c8ccba568ba0594249028c48772a95487bc74766eddf4c02d74ad5e26575dd65a
+Description: Lock your hidden album with TouchID or password
+Name: Kaia
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.kaia
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.kaia/depiction.json
+
+Package: me.luki.kaia
+Architecture: iphoneos-arm64
+Version: 0.9.2
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 336
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.kaia_0.9.2_iphoneos-arm64.deb
+Size: 8166
+MD5sum: 4e9fa06705cae3bb9efe52f4999f1807
+SHA1: f7b8d2d574735d73ecb944b2df226a8011a0d032
+SHA256: 05d6ecbc67d5541022f4a10e62bb292ec813877ac050e107807bb56a6fad0679
+SHA512: c8f4f8ec22d6e649753b58675eb85f8510fa7583ac720714f052c0a1e70f484da21a7721cd73a7c8eff8a22565ee8c4f55fd6c6a57437de955882c7c9a4d280c
 Description: Lock your hidden album with TouchID or password
 Name: Kaia
 Author: Luki
