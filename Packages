@@ -59,6 +59,27 @@ Icon: https://raw.githubusercontent.com/Luki120/April/main/AprilPrefs/Resources/
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.april
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.april/depiction.json
 
+Package: me.luki.april
+Architecture: iphoneos-arm
+Version: 3.1
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 860
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debians/root/me.luki.april_3.1_iphoneos-arm.deb
+Size: 395380
+MD5sum: c756672c8bb2fa0670919563328e1135
+SHA1: 404abe0a170988775a37623446d0f6d98f92257e
+SHA256: 00b93823824cb9ad94f320e4d63f50a655457d8b3fa94d2d80cff9af3baa53a4
+SHA512: 5f6bda2e62b2737d6e84fdd8b1fe0d8a2667fb7609576b2cdf848b9e14f0cad3780f6ecf5cc3fc467f68cf33bc736729dc5aa9e794cdeb1356ea5f1f22e5fdbe
+Description: Augment your settings app aesthetics to the next level on the fly
+Name: April
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/April/main/AprilPrefs/Resources/Assets/AprilIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.april
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.april/depiction.json
+
 Package: me.luki.aria
 Architecture: iphoneos-arm
 Version: 0.9.6~RC
@@ -618,6 +639,27 @@ MD5sum: 292477818b63555e333ecdf5a06bf79a
 SHA1: 5df8d0e72582c1dc9546d2eb746d3d94dd8bf2cf
 SHA256: adcbd488e3dcd6095b092dccb896b85b1f5cce3d88569f17ce4b532bd7c31361
 SHA512: d35f41d2162a3e47def0902a045fda4202a049dbc7e5f733446e05c64dc9fa0a297177d5952154bd1979415c5686cec0c9e3856dd614cb135d97928693d615a0
+Description: Augment your settings app aesthetics to the next level on the fly
+Name: April
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/April/main/AprilPrefs/Resources/Assets/AprilIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.april
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.april/depiction.json
+
+Package: me.luki.april
+Architecture: iphoneos-arm64
+Version: 3.1
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 808
+Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
+Conflicts: com.midnightchips.bettersettings
+Filename: ./debians/rootless/me.luki.april_3.1_iphoneos-arm64.deb
+Size: 393118
+MD5sum: c708a6ffc0438e4e791ee3f37b22da58
+SHA1: 5c46ab7a61f80507dddeea16eff5d2e1fa484e95
+SHA256: 8b13541b71f5dcda16e4ade492b90d34e7c0c2533793577e9338f912abe282e4
+SHA512: 257fe84c2be7a8a94f3a20cace56521aa08304e71cf4ae565d50ed28f9893be663021a5f1095ac899f44204e2efbf9e4434e6e0b40f2a7c767ed1b8d2d522b97
 Description: Augment your settings app aesthetics to the next level on the fly
 Name: April
 Author: Luki

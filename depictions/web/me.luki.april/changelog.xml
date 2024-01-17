@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>3.0</version>
-		<change>Added rootless support &amp; moved to my repository.</change>
+		<version>3.1</version>
+		<change>Fixed gradient animation stopping when the app went to the background.</change>
 	</changes>
 </changelog>
