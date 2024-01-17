@@ -1,6 +1,6 @@
 {
 	"minVersion": "0.1",
-	"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/April/AprilBanner.jpeg",
+	"headerImage": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/Apps/April/AprilBanner.jpeg",
 	"tintColor": "#FF8CBA",
 	"tabs": [
 		{
@@ -28,7 +28,7 @@
 					"screenshots": [
 						{
 							"accessibilityText": "Screenshot0",
-							"url": "https://camo.githubusercontent.com/c6717dd5e812fec0b620eacb4d6f64ce24fd6450297a8017b51e0a4da6203b14/68747470733a2f2f692e696d6775722e636f6d2f6c4e3067615a322e706e67"
+							"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/Apps/April/April.png"
 						}
 					]
 				},

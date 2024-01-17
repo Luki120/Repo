@@ -4,19 +4,19 @@
 	"itemCornerRadius": 10,
 	"banners": [
 		{
-			"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Amelija/AmelijaBanner.png",
+			"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/Amelija/AmelijaBanner.png",
 			"title": "Amēlija",
 			"package": "me.luki.amelija",
 			"hideShadow": false
 		},
 		{
-			"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/April/AprilBanner.jpeg",
+			"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/Apps/April/AprilBanner.jpeg",
 			"title": "April",
 			"package": "me.luki.april",
 			"hideShadow": false
 		},
 		{
-			"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieBanner.png",
+			"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/Marie/MarieBanner.png",
 			"title": "Marie",
 			"package": "me.luki.marie",
 			"hideShadow": false
