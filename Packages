@@ -496,15 +496,15 @@ Maintainer: Luki
 Installed-Size: 976
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debians/root/me.luki.marie_1.0.6_iphoneos-arm.deb
-Size: 554374
-MD5sum: 0f045e9ab06950b0a987eb6932598624
-SHA1: a7e51905dbef6a0cfbbe21eec1c1a91bbd4bd255
-SHA256: 44adb418998e4d59fed98e9a8c813e494cd5749d9ce3f8bfbc00a8d12e902f5f
-SHA512: ecc1f0c075bf9a09af28123880dec52bafd50e80eac439aa3fb39668435e0613708e5ec2a47bd74292b3b0199630a187ea8dc30ef4fe54c07213ab813aac9380
+Size: 554308
+MD5sum: cbddcbab914d277108c0bdfd1e99073c
+SHA1: 0bc34cac27ba5ac0c702e4728ffdd5f8165d405b
+SHA256: 999fa73975af5d33da05303f6820d0a216b0bd029be28fe8659bb4a03a0ea30a
+SHA512: ab8e82d73007a1f059dbcea915f54f99394db7ac970b775473e8f7b9deaca002f21792717923da5a1134273e6031aad32d6528d3cb34ae01633560004424c097
 Description: Put an image for the dialer, passcode or sharesheet background on the fly
 Name: Marie
 Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieIcon.png
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/Marie/MarieIcon.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
 
@@ -965,15 +965,15 @@ Maintainer: Luki
 Installed-Size: 940
 Depends: mobilesubstrate, preferenceloader, com.mrgcgamer.libgcuniversal
 Filename: ./debians/rootless/me.luki.marie_1.0.6_iphoneos-arm64.deb
-Size: 552830
-MD5sum: 28f8d138458bb58a3accb1a81dba866a
-SHA1: 9971f636efd046f85ac9882c4dee5bd4c48a4b12
-SHA256: e99a8c54fd5eb8f6ed847137a725a37e21ff7bcedace5e3cb3940c9d75f5a5e0
-SHA512: 1483fbb2d2136f02f336b1e42b66fc83f5e20e2feddb9b3ad5824be65a1f8f39e21465f33768da05a8a49514d31909b35002126549944eac37181e92a78963f6
+Size: 552346
+MD5sum: 904c909232833f4df1420ca25f05d6db
+SHA1: 8b2be9dd46bb4981771db206d139bdb5b5e6ab65
+SHA256: 45bbb458e67d6d712042e5e113a395b1601af48beb4b007e00b94c86086721d0
+SHA512: f159d1d231161c0757806aa26a2e62fa71b009adbaef56cbbcffe51a9c40fbc00ab8a241c5feaff80376ace800aa1a6279c09f1eccaa865f158ee8bb2ad4ca28
 Description: Put an image for the dialer, passcode or sharesheet background on the fly
 Name: Marie
 Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Marie/MarieIcon.png
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/Marie/MarieIcon.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.marie
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.marie/depiction.json
 
