@@ -178,6 +178,22 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aurora
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aurora/depiction.json
 
+Package: me.luki.azure
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Utilities
+Maintainer: Luki
+Installed-Size: 700
+Filename: ./debians/root/me.luki.azure_0.9.0_iphoneos-arm.deb
+Size: 221318
+MD5sum: adf5b944c19a2d94ec891f7ee10dde5d
+SHA1: 1d42d64f7e2f6932d42de7c94ee43ee20f6ecce0
+SHA256: b9bccb79773298b65b1e9efd6a72291a21f94c1610ad1cd47132e6d4f4737add
+SHA512: 9c15dac9454d9dbd685ffdaae0b66aa977ed8b70a483fba72d67f94b2b94a86e380fd81b7528623ddabff30bad358d195f9f75dcb098787cd3c7eb60106cd2d3
+Description: FOSS TOTP 2FA app with a clean, straightforward UI
+Name: Azure
+Author: Luki
+
 Package: me.luki.byebyeadvisorylabel
 Architecture: iphoneos-arm
 Version: 0.9.0
@@ -585,6 +601,23 @@ Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
 
+Package: me.luki.zaire
+Architecture: iphoneos-arm
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/root/me.luki.zaire_0.9.0_iphoneos-arm.deb
+Size: 5290
+MD5sum: ab7aae2566df52219b0d5eccb45f4293
+SHA1: db9da12347da5eb6afddf62b96d0a1a31e41d1e3
+SHA256: af7b51bd71dc29096a9e0adfb309b4c51bbb8197785ae3f39e48f75d5fb9ae95
+SHA512: cafca8ee711f67b0168104ea23200ef06f9e15af97cb62c2c7d17ec651ac9d9f2bbd4ecf9a5e6274b64e8e754a961099078d211e9ec7ecc9ad881ba28ebdca2d
+Description: Displays the number of installed apps in the storage page
+Name: Zaire
+Author: Luki
+
 Package: me.luki.aestearevived
 Architecture: iphoneos-arm64
 Version: 0.9.2
@@ -743,6 +776,22 @@ Name: Aurora
 Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.aurora
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.aurora/depiction.json
+
+Package: me.luki.azure
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Utilities
+Maintainer: Luki
+Installed-Size: 700
+Filename: ./debians/rootless/me.luki.azure_0.9.0_iphoneos-arm64.deb
+Size: 221284
+MD5sum: 067e7a4bafc3a1f4beb0138a31d9a3c1
+SHA1: a0bdcfc9dacbf1ef1726973e201d019b40185ee2
+SHA256: 505cd8d9447834eb9384f8f7cf45becd311cf85a3d59f230dd3ea21092a1526c
+SHA512: f0a38cdf6695f5c3de5062f592d918aee238877d103983beeb7588f25b4ea999cd458489146a5057e93692ae33ee3ad4621c52baf228fc961053872920bca040
+Description: FOSS TOTP 2FA app with a clean, straightforward UI
+Name: Azure
+Author: Luki
 
 Package: me.luki.byebyeadvisorylabel
 Architecture: iphoneos-arm64
@@ -1053,4 +1102,21 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.stealthcc
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.stealthcc/depiction.json
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Misc/StealthCC.png
+
+Package: me.luki.zaire
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.zaire_0.9.0_iphoneos-arm64.deb
+Size: 5176
+MD5sum: b338b9b7e907ce021412cb3793fa2daf
+SHA1: faf6e67a74b5ccd270b2f6d7bdbde6abea4638b1
+SHA256: b00eeadf5bf501f2d59d370289fa56ca14b916e5b79323ca4f58c3518b61d972
+SHA512: 0801c45fbf1347f84b090e21b5d51f6541e019a8715e8dc65d41f606f1abbe7ae3bff3a6df191123dd8ea21deeca0e275e2a54904b76bb32225ba8abdfcaa205
+Description: Displays the number of installed apps in the storage page
+Name: Zaire
+Author: Luki
 

@@ -1,0 +1,39 @@
+<package>
+	<id>me.luki.azure</id>
+	<name>Azure</name>
+	<version>0.9.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>14.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>2FA app.</shortDescription>
+	<descriptionlist>
+		<description>FOSS TOTP 2FA app with a clean, straigforward UI.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description></description>
+			<image>AzureHome.png</image>
+		</screenshot>
+		<screenshot>
+			<description></description>
+			<image>AzureSettings.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>Initial release.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Source Code</name>
+			<url>https://github.com/Luki120/Azure</url>
+			<iconclass></iconclass>
+		</link>
+		<link>
+			<name>Twitter</name>
+			<url>https://twitter.com/Lukii120</url>
+			<iconclass></iconclass>
+		</link>
+	</links>
+</package>
