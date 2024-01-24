@@ -185,14 +185,17 @@ Section: Utilities
 Maintainer: Luki
 Installed-Size: 700
 Filename: ./debians/root/me.luki.azure_0.9.0_iphoneos-arm.deb
-Size: 221318
-MD5sum: adf5b944c19a2d94ec891f7ee10dde5d
-SHA1: 1d42d64f7e2f6932d42de7c94ee43ee20f6ecce0
-SHA256: b9bccb79773298b65b1e9efd6a72291a21f94c1610ad1cd47132e6d4f4737add
-SHA512: 9c15dac9454d9dbd685ffdaae0b66aa977ed8b70a483fba72d67f94b2b94a86e380fd81b7528623ddabff30bad358d195f9f75dcb098787cd3c7eb60106cd2d3
+Size: 221380
+MD5sum: 0bbe541456e6a38a4727070f906f8556
+SHA1: 6b148a3fd132ef2ab978e670dd7bf6c27af3bb58
+SHA256: 4f9963f6236d42600f99ea8ef558d7b9c88087d885c98726bdcde3aaaf28810c
+SHA512: e61f8639528dd0b8854da1e355b0cc95f437a3746f907bbbc3bd2d45e43788312c1a416f88308449081a862acfaa53f41113561292e2fc7535ffc91e54071218
 Description: FOSS TOTP 2FA app with a clean, straightforward UI
 Name: Azure
 Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/Azure/main/Resources/AzureIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.azure
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.azure/depiction.json
 
 Package: me.luki.byebyeadvisorylabel
 Architecture: iphoneos-arm
@@ -609,14 +612,16 @@ Maintainer: Luki
 Installed-Size: 184
 Depends: mobilesubstrate
 Filename: ./debians/root/me.luki.zaire_0.9.0_iphoneos-arm.deb
-Size: 5290
-MD5sum: ab7aae2566df52219b0d5eccb45f4293
-SHA1: db9da12347da5eb6afddf62b96d0a1a31e41d1e3
-SHA256: af7b51bd71dc29096a9e0adfb309b4c51bbb8197785ae3f39e48f75d5fb9ae95
-SHA512: cafca8ee711f67b0168104ea23200ef06f9e15af97cb62c2c7d17ec651ac9d9f2bbd4ecf9a5e6274b64e8e754a961099078d211e9ec7ecc9ad881ba28ebdca2d
+Size: 5346
+MD5sum: 1ec8a22d11cb1cee71f29979f85d329a
+SHA1: 5306a65fed203baedee7a3237925fb87232d5f84
+SHA256: d555fef3169f1324c6d1e6feb888c9820d2dd849f690ad69baf80a85e03c8f83
+SHA512: 3b026ac3526d81dedb8d4499820f3155e1fb2477e85d24eedf1b02f2c08f4b4f1afb3f3c91a747269d0fbc397c1fda58a1173baee7be7d5690b3835b16142bd9
 Description: Displays the number of installed apps in the storage page
 Name: Zaire
 Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.zaire
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.zaire/depiction.json
 
 Package: me.luki.aestearevived
 Architecture: iphoneos-arm64
@@ -784,14 +789,17 @@ Section: Utilities
 Maintainer: Luki
 Installed-Size: 700
 Filename: ./debians/rootless/me.luki.azure_0.9.0_iphoneos-arm64.deb
-Size: 221284
-MD5sum: 067e7a4bafc3a1f4beb0138a31d9a3c1
-SHA1: a0bdcfc9dacbf1ef1726973e201d019b40185ee2
-SHA256: 505cd8d9447834eb9384f8f7cf45becd311cf85a3d59f230dd3ea21092a1526c
-SHA512: f0a38cdf6695f5c3de5062f592d918aee238877d103983beeb7588f25b4ea999cd458489146a5057e93692ae33ee3ad4621c52baf228fc961053872920bca040
+Size: 221480
+MD5sum: 4bc8790e7fa1e8042bb02395a1100c3f
+SHA1: ea363cb0b943f72bc8669a5732e551bd0a784819
+SHA256: 158e1621291fb3d2b59dd1643fafe53adf0bf6d5618939d64ef52254fdc0d292
+SHA512: bcdfb263cf19219a997e35ad9dbe7ad3ef483dfc6a2d560a6d0ba9f4d5d9cf062351ba81e3c96d5fa2f785be3650af51321a29ef32d7000d16f75c4c50d4398e
 Description: FOSS TOTP 2FA app with a clean, straightforward UI
 Name: Azure
 Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/Azure/main/Resources/AzureIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.azure
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.azure/depiction.json
 
 Package: me.luki.byebyeadvisorylabel
 Architecture: iphoneos-arm64
@@ -1111,12 +1119,14 @@ Maintainer: Luki
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debians/rootless/me.luki.zaire_0.9.0_iphoneos-arm64.deb
-Size: 5176
-MD5sum: b338b9b7e907ce021412cb3793fa2daf
-SHA1: faf6e67a74b5ccd270b2f6d7bdbde6abea4638b1
-SHA256: b00eeadf5bf501f2d59d370289fa56ca14b916e5b79323ca4f58c3518b61d972
-SHA512: 0801c45fbf1347f84b090e21b5d51f6541e019a8715e8dc65d41f606f1abbe7ae3bff3a6df191123dd8ea21deeca0e275e2a54904b76bb32225ba8abdfcaa205
+Size: 5230
+MD5sum: b4030b7f2a95e2725203c182941ac6c8
+SHA1: d60e555f3c91513799a6adb24b22335bd5ac2cb8
+SHA256: 658b32580ec5c3c74307fed9065d802411212feca9e09f89e117e89b8a7a2bcf
+SHA512: 998289ae1fcf383d157f42123f0a89f953126424baf871998ca54922afc8f93c4e4ada5c1c7bd3c78412037b0aba0789cf9a159f627c78f733ff8cd152675318
 Description: Displays the number of installed apps in the storage page
 Name: Zaire
 Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.zaire
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.zaire/depiction.json
 
