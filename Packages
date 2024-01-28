@@ -216,25 +216,6 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.byebyeadvisorylabel
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.byebyeadvisorylabel/depiction.json
 
-Package: me.luki.canna
-Architecture: iphoneos-arm
-Version: 0.9.0
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/root/me.luki.canna_0.9.0_iphoneos-arm.deb
-Size: 3564
-MD5sum: f03c1f14085279ff47e3c7c962baf7d0
-SHA1: bef35bbfe8ff3086c26531b5deee5453ae83bd1d
-SHA256: 195da837022ce2f93d25d343bd095d122741c3b933636c2cf551b64589425656
-SHA512: ce847f46e11e20be29cb87663f8b866c894b1d93f882879eff97f3cb91e9b739c3e63cb7c521bf85adaee3bb733a68d38482561a602d861401749dc9ea45b217
-Description: Record on the LS without authenticating for ⇝ iOS 14 +
-Name: Canna
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
-
 Package: me.luki.cora
 Architecture: iphoneos-arm
 Version: 0.9.0
@@ -820,25 +801,6 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.byebyeadvisorylabel
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.byebyeadvisorylabel/depiction.json
 
-Package: me.luki.canna
-Architecture: iphoneos-arm64
-Version: 0.9.0
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debians/rootless/me.luki.canna_0.9.0_iphoneos-arm64.deb
-Size: 3414
-MD5sum: 5f8b7e4ccd49f73066ed766fc8cd5cc1
-SHA1: 244f29940448f47d34763828ce2040b6ea8baaad
-SHA256: ad66254f107d03c225e31bc39042db0863fa076b5baa9507e7b0a3ae9ec9a462
-SHA512: 6092da7ebf2319292c754974294d3a3c543a1caf765f9938b76a935baf8428fa99c80a0f62c7891265527b8c30723614e4905eb80a4194a1eb432c9a5920b727
-Description: Record on the LS without authenticating for ⇝ iOS 14 +
-Name: Canna
-Author: Luki
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.canna
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.canna/depiction.json
-
 Package: me.luki.elixir
 Architecture: iphoneos-arm64
 Version: 0.9.4
@@ -1014,6 +976,25 @@ Author: Luki
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.kaia
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.kaia/depiction.json
 
+Package: me.luki.legacyrings
+Architecture: iphoneos-arm64
+Version: 0.9.0
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 168
+Depends: mobilesubstrate, love.litten.libkitten
+Filename: ./debians/rootless/me.luki.legacyrings_0.9.0_iphoneos-arm64.deb
+Size: 4246
+MD5sum: a7d3c384ee807d6826be3a03cf627d6a
+SHA1: 8d20b15be021b7e024a7fbe93842df5dbc26ce82
+SHA256: 712ce0813f9e3515cb3f38e44aae12ca7bf7eda44e7fcc8ae9656c1d3ba95cbd
+SHA512: c5a5fda42680a6cf68cb668b0623e9fe8c1e278267d125e98e837950a336268c2c8596168161661512e784f72cdf5b2135e6c0c3903af491e52e596d9dd7a7a7
+Description: Bring back the old iOS 9 keypad buttons
+Name: LegacyRings
+Author: Luki
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.legacyrings
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.legacyrings/depiction.json
+
 Package: me.luki.marie
 Architecture: iphoneos-arm64
 Version: 1.0.6
@@ -1061,11 +1042,11 @@ Maintainer: Luki
 Installed-Size: 364
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debians/rootless/me.luki.selene_0.9.0_iphoneos-arm64.deb
-Size: 18012
-MD5sum: f876a11f60af63c5e0176be9f982bfd0
-SHA1: 18697ae2d42f7a08296cf8fcd5bf4deeff3770ee
-SHA256: 89e0f3316399cf2d9bb460685e5d291ba79040139f80fc144bd01c867e516211
-SHA512: c7a28f5f802044173e6bf4612ac5e089068578beaa951b70520082613a1de58e9c39145bf678f52ef22d0b5834c0e114732f90275e356b7c61371f1240679b8f
+Size: 17868
+MD5sum: a5baebc4adfcaa78ff4555a1311169c0
+SHA1: c484726e5f6ef20627d4cdc57a0c0ff9dbd65257
+SHA256: 6a5dc3522720545f7e432602bde0869bf7f4301181cce38ee682e2036b1fa484
+SHA512: 932ccdeb9bffee3840e97e29b8262e421b9fc0f92fe32b54c50ecc2bafd17a1f464288f8e08f8cf566f31aa0b54e735491000d90c107cb5f456003e813e36ba0
 Description: Triple tap on LS to save the stock walls on the fly
 Name: Selene
 Author: Luki
