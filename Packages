@@ -867,15 +867,15 @@ Maintainer: Luki
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debians/rootless/me.luki.elixir_0.9.6_iphoneos-arm64.deb
-Size: 7028
-MD5sum: e489ea44425b6d89d81f8d0b709604ca
-SHA1: 86dd92583a5baa6246d3bd748f454aeef08a768c
-SHA256: 880292ea80cfcd5ddbb1305ec86db1c9028755c908869c117ff4c2e67b77ca5f
-SHA512: ced05b1e5952c4d577e8465f3b00de17527b42636d609f7e5216134dee00f2ea0faba5f342b893c287e046d818fd284ff5cb3f163af84f9b61f08797f85ad189
+Size: 7086
+MD5sum: e26c2e7d0d25a52b9761900a7cce298e
+SHA1: e9461acbbdbd783a776d765c22824736c112e588
+SHA256: ee2eac08ff4ca5695cec1415218f8b3a438610db48234acccdccf23cd3fbe04e
+SHA512: 744b14c91b01070891e26bb3a6c05d2f8e86d8cfda243edb5928f3d5f946f43085ce188d9867bf6c49cb0c36d8edc714f26aa64e0369470b9b921d8ade06ba5b
 Description: Tweak count at a glimpse
 Name: Elixir
 Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Elixir/ElixirIcon.png
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/Apps/Elixir/ElixirIcon.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
 
@@ -887,15 +887,15 @@ Maintainer: Luki
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debians/rootless/me.luki.fuckthatanimation_0.9.0_iphoneos-arm64.deb
-Size: 3278
-MD5sum: 9265033e38b1dc1ac65a7be2ff4361be
-SHA1: b0a99b8f2bb9a764eb3c85c943e4cb67b798a5c6
-SHA256: dafdeb12dd94ee6b35fc0438f2ef6ee4f31c549181f1aca5eb6a30a0b0abec0f
-SHA512: 26d268e37a8484a07f8c7f473bce593965ce213ff91b508cd2f6712dc40a1c2c655d4cfbc694b731f1dbc642f068cb17abd9b5dffc60a58d2e6e58a2ef26fea8
+Size: 3276
+MD5sum: c20e5c315e922bd9d2ecaf9d9224c434
+SHA1: fe2e9c2185c4a730e63f57b70d85346c92217ee0
+SHA256: 8468c287289e9afb7351882f490f1ff10f3b93a7eebca020db9ef8594158dadd
+SHA512: 380923edb2798375f36e3eb89d4e5fccb81044c0148eee8a6202a46b8b978ce099fd3ed4091110f0c12f4c34cb3515ef646da8ff8872389568c5d1c24946278e
 Description: Another yet awesome mobile substrate tweak to the list
 Name: FuckThatAnimation
 Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/FuckThatAnimation/FTA.png
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/FuckThatAnimation/FTA.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.fuckthatanimation
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.fuckthatanimation/depiction.json
 
@@ -964,15 +964,15 @@ Maintainer: Luki
 Installed-Size: 168
 Depends: mobilesubstrate
 Filename: ./debians/rootless/me.luki.iwanttranslucent_0.9.2_iphoneos-arm64.deb
-Size: 3978
-MD5sum: 4f411aa94f4fbf321bed3614ea920a04
-SHA1: f302d450034ef8497090e8e7b3a9b913ca2b7db8
-SHA256: 98deb408f2c58b05d552765004de9db59f751b0a21ce0b90f291ae90ad3efb78
-SHA512: 31afc4444c4f3822bc5966dbdc658167dc8340ccdd1896964d019dd1f41d5e75347cd323e3139c79730a5fd5ba364c86fd8db9d32ca1d07361bfc8350b67151e
+Size: 3966
+MD5sum: d4ec2b6a84f1ff3c0a02978bc0f000e6
+SHA1: 9dde5fe00e4f86b8adaee504f48015b8b3746f3e
+SHA256: 75b5afd999a15a3aba8cb1896d4862a6ec33b6f86c663796c2d35bf60f5e7eb3
+SHA512: 4dcc81bc1af8dfd6387526ebb1bb6fa0903a6bda9f245985d4a3d33789c760ddfd2f5300abeeafc0a5bc2f36be2482916ce108b94c703e282e9e257e00d27ee1
 Description: An awesome MobileSubstrate tweak indeed
 Name: IWantTranslucent
 Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/IWantTranslucent/IWantTranslucent.png
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/SpringBoard/IWantTranslucent/IWantTranslucent.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.iwanttranslucent
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.iwanttranslucent/depiction.json
 
