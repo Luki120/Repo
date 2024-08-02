@@ -63,6 +63,20 @@ body {
 	text-decoration: none;
 }
 
+@keyframes wiggle {
+	0% { transform: translate(2px, 0); }
+	50% { transform: translate(-2px, 0); }
+	100% { transform: translate(2px, 0); }
+}
+
+@media screen and (min-width: 1000px) {
+	.button:hover { 
+		animation: wiggle 100ms;
+		animation-iteration-count: 5;
+		animation-timing-function: linear;
+	}
+}
+
 .footer {
 	color: gray;
 	font-family: Barlow;
