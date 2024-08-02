@@ -8,16 +8,16 @@
 	src: url('assets/Fonts/Quicksand-Bold.woff');
 }
 
+:root {
+	--background-color: #000000;
+	--foreground-color: #ffffff;
+}
+
 @media (prefers-color-scheme: light) {
 	:root {
 		--background-color: #ffffff;
 		--foreground-color: #000000;
 	}
-}
-
-:root {
-	--background-color: #000000;
-	--foreground-color: #ffffff;
 }
 
 html {
