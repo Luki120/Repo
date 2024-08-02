@@ -1,0 +1,48 @@
+@font-face {
+	font-family: Barlow;
+	src: url('assets/Fonts/Barlow-Regular.woff');
+}
+
+@font-face {
+	font-family: Quicksand;
+	src: url('assets/Fonts/Quicksand-Bold.woff');
+}
+
+.main-div {
+	align-items: center;
+	display: flex;
+	flex-direction: column;
+	font-family: Quicksand;
+	min-height: 100vh;
+}
+
+.buttons-container {
+	display: flex;
+	flex-direction: column;
+	flex-grow: 1;
+	font-family: Barlow;
+	gap: 10px
+}
+
+.button {
+	align-items: center;
+	background-color: #BCC6F9;
+	border: 0;
+	border-radius: 4px;
+	color: white;
+	display: flex;
+	font-family: inherit;
+	font-size: 0.95rem;
+	height: 40px;
+	justify-content: center;
+	padding-left: 10px;
+	padding-right: 10px;
+	text-align: center;
+	text-decoration: none;
+}
+
+.footer {
+	color: gray;
+	font-family: Barlow;
+	padding: 25px;
+}
