@@ -13,7 +13,6 @@
 	display: flex;
 	flex-direction: column;
 	font-family: Quicksand;
-	min-height: 100vh;
 }
 
 .buttons-container {
@@ -42,7 +41,9 @@
 }
 
 .footer {
+	bottom: 0;
 	color: gray;
 	font-family: Barlow;
 	padding: 25px;
+	position: fixed;
 }
