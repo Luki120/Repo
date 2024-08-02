@@ -8,6 +8,10 @@
 	src: url('assets/Fonts/Quicksand-Bold.woff');
 }
 
+html {
+	-webkit-tap-highlight-color: transparent;
+}
+
 .main-div {
 	align-items: center;
 	display: flex;
