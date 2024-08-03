@@ -1,11 +1,11 @@
 <changelog>
 	<changes>
-		<version>0.9.4</version>
+		<version>0.9.6</version>
 		<change>
-			<![CDATA[• Fixed importing images & pasting functionality on iOS 15+ <br />
-			• Fixed pin code being copied to the clipboard with whitespace <br />
-			• The pin code can now be copied to the clipboard by tapping on the dark content area, rather than having to long press on the cell, cc ⇝ @NoWisDev <br />
-			]]>
+			<![CDATA[• Added support for editing issuers <br />
+			• Added a new "Support development" section with Ko-fi & PayPal links <br />
+			• Implemented a clear all button with clean good looking animations for the new issuer forms <br />
+			• Strip whitespace from the text that gets pasted (or typed) in the secret's text field]]>
 		</change>
 	</changes>
 </changelog>

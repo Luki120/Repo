@@ -18,12 +18,12 @@
 					"class": "DepictionScreenshotsView",
 					"screenshots": [
 						{
-							"accessibilityText": "Screenshot0",
-							"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Apps/Azure/AzureHome.png"
+							"accessibilityText": "Azure Home",
+							"url": "https://raw.githubusercontent.com/Luki120/Azure/main/Assets/AzureHome.png"
 						},
 						{
-							"accessibilityText": "Screenshot1",
-							"url": "https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Apps/Azure/AzureSettings.png"
+							"accessibilityText": "Azure Settings",
+							"url": "https://raw.githubusercontent.com/Luki120/Azure/main/Assets/AzureSettings.png"
 						}
 					]
 				},
@@ -38,12 +38,12 @@
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"text": "0.9.4",
+					"text": "0.9.6",
 					"title": "Version",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "4/9/24",
+					"text": "8/3/24",
 					"title": "Updated",
 					"class": "DepictionTableTextView"
 				},

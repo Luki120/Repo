@@ -177,6 +177,25 @@ Icon: https://raw.githubusercontent.com/Luki120/Azure/main/Resources/AzureIcon.p
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.azure
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.azure/depiction.json
 
+Package: me.luki.azure
+Architecture: iphoneos-arm
+Version: 0.9.6
+Section: Utilities
+Maintainer: Luki
+Installed-Size: 724
+Filename: ./debians/root/me.luki.azure_0.9.6_iphoneos-arm.deb
+Size: 231382
+MD5sum: b654f5c02d2a93889fbbab38fb2eab1e
+SHA1: a80fa147b4849528f5b9a6f4c1e677f9e3062b3d
+SHA256: 56411afdacab0938d36e2ac1e123a9a9b4a43fcb3d2cececb3671840902d98d9
+SHA512: 3c823e7f04b23fa88be8226332724007c51f086e69656cbed97157ec2eeef54f50bf49ebb63f8219a424a709f624ca38886e27a5f2462abda90f6ea365a3c9c1
+Description: FOSS TOTP 2FA app with a clean, straightforward UI
+Name: Azure
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/Azure/main/Resources/AzureIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.azure
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.azure/depiction.json
+
 Package: me.luki.byebyeadvisorylabel
 Architecture: iphoneos-arm
 Version: 0.9.0
@@ -773,6 +792,25 @@ MD5sum: 275363307ea5a4de3f35e59d6f5d5a22
 SHA1: 04847e0e0249d306a1f171d937a7cabf37370132
 SHA256: c1dc6c866bc8c61fe482f1122377f5f18ee94144e20ddd7828bfd126bc56d25d
 SHA512: 9d80927c05e4962032f8a545412b4ba58205ea2890c8493642a809f9b8b56c13e361017ebb6a3f01077bcc26fb8a8408f681e7ec04e66de7e6f2d06e23e94f87
+Description: FOSS TOTP 2FA app with a clean, straightforward UI
+Name: Azure
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/Azure/main/Resources/AzureIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.azure
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.azure/depiction.json
+
+Package: me.luki.azure
+Architecture: iphoneos-arm64
+Version: 0.9.6
+Section: Utilities
+Maintainer: Luki
+Installed-Size: 724
+Filename: ./debians/rootless/me.luki.azure_0.9.6_iphoneos-arm64.deb
+Size: 231140
+MD5sum: 6d481682ee63660e972419b0c12187f0
+SHA1: a400bbeb034d7375f5dee5009bdb97be6abbca88
+SHA256: 32a4099a3afde7aaec38e78610f11fa6d9380b8fa09537ebd8ce83a071331753
+SHA512: 0dc90abd4ef25a0acbc92b1e9899654d63c33b2047de2c89097ce1e3eed2916453b70e9c992ab3b822df2863522555ce29418466646ea62197962812939efa4d
 Description: FOSS TOTP 2FA app with a clean, straightforward UI
 Name: Azure
 Author: Luki
