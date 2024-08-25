@@ -1,6 +1,6 @@
 <changelog>
 	<changes>
-		<version>0.9.6</version>
-		<change>Fixed Shuffle.</change>
+		<version>0.9.8</version>
+		<change>Fixed OneSettings support.</change>
 	</changes>
 </changelog>

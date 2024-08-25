@@ -255,26 +255,6 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.cora/depicti
 
 Package: me.luki.elixir
 Architecture: iphoneos-arm
-Version: 0.9.4
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 184
-Depends: mobilesubstrate
-Filename: ./debians/root/me.luki.elixir_0.9.4_iphoneos-arm.deb
-Size: 7156
-MD5sum: 46ebd6aa7b85c2428cc3611774ac3f06
-SHA1: 03eb62debdb71c5fdece82a67ce443b7e0be3fa5
-SHA256: eed5e96f04b952e08f27be0aa933363fca28786b6eeb10bf88e8dc470fda24f7
-SHA512: 6813048a32412c5c7bcf4a7e28575df338dd53f8f763c98a020a582ed3e981cceae1df086635a493126eca8bac518f6ec4872e77ad9506a54c9560d30a73935e
-Description: Tweak count at a glimpse
-Name: Elixir
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Elixir/ElixirIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
-
-Package: me.luki.elixir
-Architecture: iphoneos-arm
 Version: 0.9.6
 Section: Tweaks
 Maintainer: Luki
@@ -290,6 +270,26 @@ Description: Tweak count at a glimpse
 Name: Elixir
 Author: Luki
 Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Elixir/ElixirIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
+
+Package: me.luki.elixir
+Architecture: iphoneos-arm
+Version: 0.9.8
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 184
+Depends: mobilesubstrate
+Filename: ./debians/root/me.luki.elixir_0.9.8_iphoneos-arm.deb
+Size: 9024
+MD5sum: 7958ee67cbd9d45379e9c7db3a1700df
+SHA1: 7e281e706540c1699583a6a361d85f76ca3969c6
+SHA256: c88ccdb22d4e4c1089e3dde9efa946edd64b07d8cb6940e6d9592bc941e97a8b
+SHA512: 89c66466611d60ab642faea9eff7ea069902c3e2f8710ce27a4edc833825ec55cf5c65e33a088795d524b023b2bac61e2d91adc3d8d382bc9c694fc59990f4c7
+Description: Tweak count at a glimpse
+Name: Elixir
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/Apps/Elixir/ElixirIcon.png
 Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
 SileoDepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
 
@@ -858,26 +858,6 @@ SileoDepiction: https://luki120.github.io/depictions/native/me.luki.canna/depict
 
 Package: me.luki.elixir
 Architecture: iphoneos-arm64
-Version: 0.9.4
-Section: Tweaks
-Maintainer: Luki
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debians/rootless/me.luki.elixir_0.9.4_iphoneos-arm64.deb
-Size: 7108
-MD5sum: fee771434daf8333b2289c5ccae9cdc8
-SHA1: 1212da3f102afd3d4710275f6a27b848105e3c8d
-SHA256: 5df081123be813fd3653db1582e12934870a236ee3c2c17fbe1eb54e50650ecc
-SHA512: 6d42eb075591b5a4a26e2e930d5aaa1054dfbc705de7bd13259cd846472bd4ee80de08b4ea75b053cf31cca22bb9fc7128413285c4eb643cbee0a47aae9a5f5f
-Description: Tweak count at a glimpse
-Name: Elixir
-Author: Luki
-Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Elixir/ElixirIcon.png
-Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
-SileoDepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
-
-Package: me.luki.elixir
-Architecture: iphoneos-arm64
 Version: 0.9.6
 Section: Tweaks
 Maintainer: Luki
@@ -889,6 +869,26 @@ MD5sum: e26c2e7d0d25a52b9761900a7cce298e
 SHA1: e9461acbbdbd783a776d765c22824736c112e588
 SHA256: ee2eac08ff4ca5695cec1415218f8b3a438610db48234acccdccf23cd3fbe04e
 SHA512: 744b14c91b01070891e26bb3a6c05d2f8e86d8cfda243edb5928f3d5f946f43085ce188d9867bf6c49cb0c36d8edc714f26aa64e0369470b9b921d8ade06ba5b
+Description: Tweak count at a glimpse
+Name: Elixir
+Author: Luki
+Icon: https://raw.githubusercontent.com/Luki120/luki120.github.io/master/assets/Tweaks/Apps/Elixir/ElixirIcon.png
+Depiction: https://luki120.github.io/depictions/web/?p=me.luki.elixir
+SileoDepiction: https://luki120.github.io/depictions/native/me.luki.elixir/depiction.json
+
+Package: me.luki.elixir
+Architecture: iphoneos-arm64
+Version: 0.9.8
+Section: Tweaks
+Maintainer: Luki
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./debians/rootless/me.luki.elixir_0.9.8_iphoneos-arm64.deb
+Size: 8018
+MD5sum: 844cf487de84e86498b1d19954dbb1a1
+SHA1: ef7d0a61b17406b640a41317828d4de77d7151fc
+SHA256: fee75f9149023d629c3b5d93922b2ce8cbbd65117e6c601ea4641f4ae4180d7c
+SHA512: 2429d70f017d948614a2f0740452e262950d4d878b110eb9a7809ed61ef6c5f7dc7fda4c4c95b53d495c06a1955d3a9cc7f9837ef79db3113d3c90d6d3b05451
 Description: Tweak count at a glimpse
 Name: Elixir
 Author: Luki

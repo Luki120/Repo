@@ -44,19 +44,19 @@
 					"useBoldText": true,
 					"class": "DepictionMarkdownView",
 					"title": "markdown-description",
-					"markdown": "Tweak count right on your settings app. Supports Orion, Shuffle & the app TweakSettings. \n* NOTE: it ONLY counts tweaks with preference bundles, hence why it's located in the settings app. I didn't feel like bloating up the code counting the total number of packages or making filters. This gives a concise and accurate count of the tweaks you have right there on the section you're standing. \n* Handcrafted icon by @jam_minty.",
+					"markdown": "Tweak count right on your settings app. Supports OneSettings, Orion, Shuffle & the app TweakSettings. \n* NOTE: it ONLY counts tweaks with preference bundles, hence why it's located in the settings app. I didn't feel like bloating up the code counting the total number of packages or making filters. This gives a concise & accurate count of the tweaks you have right there on the section you're standing. \n* Handcrafted icon by @jam_minty.",
 					"useBottomMargin": false
 				},
 				{
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"text": "0.9.6",
+					"text": "0.9.8",
 					"title": "Version",
 					"class": "DepictionTableTextView"
 				},
 				{
-					"text": "11/27/23",
+					"text": "8/25/24",
 					"title": "Updated",
 					"class": "DepictionTableTextView"
 				},
