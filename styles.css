@@ -9,15 +9,14 @@
 }
 
 :root {
-	--background-color: #000000;
-	--foreground-color: #ffffff;
+	color-scheme: light dark;
 }
 
-@media (prefers-color-scheme: light) {
-	:root {
-		--background-color: #ffffff;
-		--foreground-color: #000000;
-	}
+html, body {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
 }
 
 html {
@@ -25,17 +24,16 @@ html {
 }
 
 body {
-	background-color: var(--background-color);
-	color: var(--foreground-color);
+	background-color: light-dark(white, black);
+	color: light-dark(black, white);
 }
 
-.main-div {
+.main-container {
 	align-items: center;
 	display: flex;
 	flex-direction: column;
 	font-family: Quicksand;
-	min-height: 100vh;
-	min-height: -webkit-fill-available;
+	min-height: 100dvh;
 }
 
 .buttons-container {
@@ -43,24 +41,28 @@ body {
 	flex-direction: column;
 	flex-grow: 1;
 	font-family: Barlow;
-	gap: 10px
+	gap: 10px;
 }
 
 .button {
 	align-items: center;
 	background-color: #BCC6F9;
-	border: 0;
+	border: none;
 	border-radius: 4px;
 	color: white;
 	display: flex;
 	font-family: inherit;
 	font-size: 0.95rem;
-	height: 40px;
 	justify-content: center;
-	padding-left: 10px;
-	padding-right: 10px;
+	padding: 0.625rem;
 	text-align: center;
 	text-decoration: none;
+}
+
+.footer {
+	color: gray;
+	font-family: Barlow;
+	padding: 1.5625rem;
 }
 
 @keyframes wiggle {
@@ -69,16 +71,15 @@ body {
 	100% { transform: translate(2px, 0); }
 }
 
-@media screen and (min-width: 1000px) {
-	.button:hover { 
-		animation: wiggle 100ms;
-		animation-iteration-count: 5;
-		animation-timing-function: linear;
+@media (orientation: landscape) {
+	html, body {
+		overflow: scroll;
 	}
 }
 
-.footer {
-	color: gray;
-	font-family: Barlow;
-	padding: 25px;
+@media screen and (min-width: 48em) and (prefers-reduced-motion: no-preference) {
+	.button:hover { 
+		animation: wiggle 100ms linear;
+		animation-iteration-count: 5;
+	}
 }

@@ -7,16 +7,22 @@
 		<title>Luki120's Repo</title>
 	</head>
 	<body>
-		<div class="main-div">
+		<main class="main-container">
 			<h1>Luki120's Repo</h1>
-			<div class="buttons-container">
+			<section class="buttons-container">
 				<a class="button" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://luki120.github.io/">Add to Cydia</a>
 				<a class="button" href="installer://add/https://luki120.github.io/">Add to Installer</a>
 				<a class="button" href="apt-repo://https://luki120.github.io/">Add to Saily</a>
 				<a class="button" href="sileo://source/https://luki120.github.io/">Add to Sileo</a>
 				<a class="button" href="zbra://sources/add/https://luki120.github.io/">Add to Zebra</a>
-			</div>
-			<div class="footer">© 2021-2024 Luki120</div>
-		</div>
+			</section>
+			<script>
+				document.addEventListener('DOMContentLoaded', () => {
+					const currentYear = new Date().getFullYear()
+					document.querySelector('.footer').textContent = `© 2021-${currentYear} Luki120`
+				})
+			</script>
+			<footer class="footer"></footer>
+		</main>
 	</body>
 </html>
