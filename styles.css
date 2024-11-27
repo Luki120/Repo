@@ -16,16 +16,12 @@ html, body {
 	box-sizing: border-box;
 	margin: 0;
 	padding: 0;
-	overflow: hidden;
-}
-
-html {
-	-webkit-tap-highlight-color: transparent;
 }
 
 body {
 	background-color: light-dark(white, black);
 	color: light-dark(black, white);
+	-webkit-tap-highlight-color: transparent;
 }
 
 .main-container {
@@ -33,6 +29,7 @@ body {
 	display: flex;
 	flex-direction: column;
 	font-family: Quicksand;
+	min-height: -webkit-fill-available;
 	min-height: 100dvh;
 }
 
@@ -69,12 +66,6 @@ body {
 	0% { transform: translate(2px, 0); }
 	50% { transform: translate(-2px, 0); }
 	100% { transform: translate(2px, 0); }
-}
-
-@media (orientation: landscape) {
-	html, body {
-		overflow: scroll;
-	}
 }
 
 @media screen and (min-width: 48em) and (prefers-reduced-motion: no-preference) {
