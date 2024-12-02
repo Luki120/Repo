@@ -182,13 +182,13 @@ Architecture: iphoneos-arm
 Version: 0.9.6
 Section: Utilities
 Maintainer: Luki
-Installed-Size: 724
+Installed-Size: 712
 Filename: ./debians/root/me.luki.azure_0.9.6_iphoneos-arm.deb
-Size: 231382
-MD5sum: b654f5c02d2a93889fbbab38fb2eab1e
-SHA1: a80fa147b4849528f5b9a6f4c1e677f9e3062b3d
-SHA256: 56411afdacab0938d36e2ac1e123a9a9b4a43fcb3d2cececb3671840902d98d9
-SHA512: 3c823e7f04b23fa88be8226332724007c51f086e69656cbed97157ec2eeef54f50bf49ebb63f8219a424a709f624ca38886e27a5f2462abda90f6ea365a3c9c1
+Size: 230618
+MD5sum: 268469ea11b7b8ee206c1d00cfa9670b
+SHA1: bf4fbadc9e26073b79de95f182f8da1c6140e2d2
+SHA256: 23fe53f7bbb849e202b54fb1e1548d5bafd22cfd62611cb0801bcaf65ab5d782
+SHA512: f474da2430660ef79ed21f4f119deb59ce5369552a1fd4eea290852f1a1f22fb07813a25443f10a563d9e829344358c057a2ea13e43a9a04857658759725be47
 Description: FOSS TOTP 2FA app with a clean, straightforward UI
 Name: Azure
 Author: Luki
@@ -804,13 +804,13 @@ Architecture: iphoneos-arm64
 Version: 0.9.6
 Section: Utilities
 Maintainer: Luki
-Installed-Size: 724
+Installed-Size: 712
 Filename: ./debians/rootless/me.luki.azure_0.9.6_iphoneos-arm64.deb
-Size: 231140
-MD5sum: 6d481682ee63660e972419b0c12187f0
-SHA1: a400bbeb034d7375f5dee5009bdb97be6abbca88
-SHA256: 32a4099a3afde7aaec38e78610f11fa6d9380b8fa09537ebd8ce83a071331753
-SHA512: 0dc90abd4ef25a0acbc92b1e9899654d63c33b2047de2c89097ce1e3eed2916453b70e9c992ab3b822df2863522555ce29418466646ea62197962812939efa4d
+Size: 230658
+MD5sum: 00fc6cabfa358119d9195d900fa792d6
+SHA1: 2823309187e6511bc59fd00b6a78d4c6197e240c
+SHA256: 7591cd3a740c02f17371e916527b57c6be87cdd061ed8c24bad667cabcc10da5
+SHA512: d86c5dc51c4eaabcf3be73f2b72c3963845d85c7fdd83be817c9fb988f4e3c850b810f989f2ecff5d82783581ad56e95214abf31429eff3fad131c991ddd8b9c
 Description: FOSS TOTP 2FA app with a clean, straightforward UI
 Name: Azure
 Author: Luki
